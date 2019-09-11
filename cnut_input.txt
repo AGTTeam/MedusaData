@@ -76,9 +76,9 @@
 ああ！？なんだよ！！=Yeah!? What do you want?!
 俺のマカに手ェ出したら、|ブッ殺すからな！！|わかってんだろーな！タコスケ！=If you lay a hand on my Maka, I'll kill you, you got that, you idiot?!
 パパ！！=Father!
-マカ！愛してるよｄ=I love you, Maka!
+マカ！愛してるよｄ=I love you, Maka! ｄ
 私パパのこと父親だなんて、|思ってないから！！=I don't think of you like a father!
-【デスサイズ】|マカーーーー…。=[Death Scythe] Makaaa...
+【デスサイズ】|マカーーーー…。=[Death Scythe] | Makaaa...
 まぁ…家庭の事情は置いといて、|順調そうだし、|このままがんばってよ。=Well, leaving family matters aside... You're doing well, please continue as you are.
 はい！=Got it!
 期待してろよ死神様！！=Expect the best from us, Lord Death!!
@@ -87,13 +87,13 @@
 ん？=Hm?
 ＣＯＯＬな俺に、|こんなちんちくりん女が、|似合うわけねェのにな！=A tiny girl like you really doesn't suit my cool image!
 ！！=!!
-【マカ】|…ソウルのバカァー！！=[Maka]...Soul, you idiot!
+【マカ】|…ソウルのバカァー！！=[Maka] | ...Soul, you idiot!
 （ゴッ）=(Whack)
 ぐはっ！！=Gwah!!
 （ガシャァーーン）=(Crash!)
-【ブレア】|…？=[Blair] ...?
-【ソウル】|は…はだかぁア！！=[Soul] N...naked!?!
-【ブレア】|ソウル君、|いっしょにオフロ入るの～？=[Blair] Oh, Soul. Did you come to bathe with me?～
+【ブレア】|…？=[Blair] | ...?
+【ソウル】|は…はだかぁア！！=[Soul] | N...naked!?!
+【ブレア】|ソウル君、|いっしょにオフロ入るの～？=[Blair] | Oh, Soul. Did you come to bathe with me?～
 んがぁあ！！=Ngyaaah!
 ちょっと！！|なにやってんのよ！？=Hey!! What are you doing?!
 なにって…|お前がふっ飛ばすからだろ！=What am 'I' doing? You're the one who sent me flying!
@@ -111,7 +111,7 @@
 じゃ…俺寝るから…。=That's it... I'm taking a nap...
 あ！|ソウル、逃げるなぁ～！！=Hey! Wait, don't leave! ...Soul!!
 !FILE:ev0061.cnut
-ひゃっはーｅ|今日も最高の|ステージだったなぁー♪=Yahoo! Today was another great performance!♪
+ひゃっはーｅ|今日も最高の|ステージだったなぁー♪=Yahoo!ｅ Today was another great performance!♪
 暗殺者なのに、|目立ちたがり屋なんて…。=For an assassin, you sure are a show off...
 ホント俺ってＢＩＧだぜ！！=I'm just so big!
 そ、そうね…。|（今日も失敗だったけど…。）=Y-yeah, sure... (Though today was a failure...)
@@ -178,75 +178,75 @@
 （パサッ…）=(Rustle...)
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
 （ちゃぽん）=(Splash)
-【椿】|魂が集まってなくても、|ブラックｅスターとなら大丈夫。=[Tsubaki] Even if we never gather enough souls, just being with Black☆Star is enough.
-【椿】|妖刀の中に入った時だって、|私を信じて見届けてくれた。=[Tsubaki] Even during the time I was inside the Uncanny Sword, >>he still believed in my strength. 
-【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki] Having him by my side helped me during that painful fight against my brother, >>who had turned into a Kishin right before my eyes...
+【椿】|魂が集まってなくても、|ブラックｅスターとなら大丈夫。=[Tsubaki] | Even if we never gather enough souls, >>just being with Black☆Star is enough.
+【椿】|妖刀の中に入った時だって、|私を信じて見届けてくれた。=[Tsubaki] | During the time I was inside the Uncanny Sword, >>he still believed in my strength. 
+【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki] | Having him by my side helped me during that painful fight >>against my brother, who had turned into a Kishin right before my eyes...
 【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=[Tsubaki] I'd like to continue moving forward together with Black☆Star...
 オーイ！椿！！|お前が落としたちっちゃいタオル|届けにきてやったぞ～！=Hey, Tsubaki!! I brought the towel you dropped!~
 「キャー！！」=[Kyaa!!]
 何してんのよ！|ブラックｅスター！！=What are you doing?!
 だから～！わざわざ|届けにきてやったんだよ！！=Like I said, I came here to return your towel!!
 俺様って親切！！！=Aren't I just so considerate!
-【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki] You idiot... Haaah, I fear for our future.
+【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki] | You idiot... Haaah, I fear for our future.
 !FILE:ev0071.cnut
-ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=
-やだなぁ～。|私こうゆう所、苦手だよォ～。=
-ここに人々を襲う|鬼神の卵と化した魂の持ち主、|ミイラがいるわけだな。=
-ねェねェ、早く進もう♪=
-…。=
-？|どうしたよ？キッド。=
-ん？|イヤ…気のせいかもしれんが…=
-我が家の玄関の額縁が|少し右に傾いていた様な|気がしてな…。=
-そんなこと|今はどーでもいいだろ！！！=
-どうでもいいコトないだろ！？|クソ！ダメだ！！|確かめてくる！！=
-待て！！待て！！|待て！！待て！！|神経質なのもたいがいにしろ！！=
-あぁ～気になる…。=
-行くぞ！！=
-ほ～い。=
+ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=So this place is the 'Ancient Ruins of Anubis'? Even the inside is quite impressive!
+やだなぁ～。|私こうゆう所、苦手だよォ～。=No way～ I hate places like this～
+ここに人々を襲う|鬼神の卵と化した魂の持ち主、|ミイラがいるわけだな。=Apparently the mummys inside these ruins have had their souls turned to Kishin Eggs, >>and they've been attacking people.
+ねェねェ、早く進もう♪=Hey, hey, let's hurry onwards♪
+…。=...
+？|どうしたよ？キッド。=What's wrong, Kid?
+ん？|イヤ…気のせいかもしれんが…=Hm? Oh, it might just be my imagination, but...
+我が家の玄関の額縁が|少し右に傾いていた様な|気がしてな…。=I swear that the painting in the entrance to our home is tilted very slightly to the right...
+そんなこと|今はどーでもいいだろ！！！=Why are you thinking of something like that right now?!
+どうでもいいコトないだろ！？|クソ！ダメだ！！|確かめてくる！！=Because it's important, isn't it?! Damn it, I can't just leave it! I need to go back and check!
+待て！！待て！！|待て！！待て！！|神経質なのもたいがいにしろ！！=Wait! Wait a minute!! You're worrying over nothing!!
+あぁ～気になる…。=Ahhh... I can't stop thinking about it...
+行くぞ！！=We're continuing forward!!
+ほ～い。=Got it～
 !FILE:ev0073.cnut
-やっぱり確かめてくる！！=
-オイ！！まだ言うか！！|額縁の傾きなんか|帰ってから確かめろよ！！=
-お姉ちゃん、なんか聞こえるよ。|なんだろ？=
-うぅ～…気味悪い…。=
-鬼神の卵と化した魂の持ち主か？=
-（ブツブツ…ブツブツ…）=
-ブツブツうるせェ～ぞォお|オラァー！！！=
-ね、ねぇ、ちょっと！！|あの棺おけから聞こえない！？=
-きゃはは♪=
-さっさと銃に変身しろ！！|こいつの魂…もらうぞ！=
+やっぱり確かめてくる！！=That's it, I need to go back and check!!
+オイ！！まだ言うか！！|額縁の傾きなんか|帰ってから確かめろよ！！=Are you still going on about that?! You can check when we get back!
+お姉ちゃん、なんか聞こえるよ。|なんだろ？=Hey, sis, did you hear that?
+うぅ～…気味悪い…。=Mmm... I have a bad feeling...
+鬼神の卵と化した魂の持ち主か？=Could it be the one controlling the mummys in these ruins?
+（ブツブツ…ブツブツ…）=(Mumble mumble...mumble mumble)
+ブツブツうるせェ～ぞォお|オラァー！！！=Hey, what are you whispering about?! Eh?!
+ね、ねぇ、ちょっと！！|あの棺おけから聞こえない！？=H-hey, isn't the sound coming from that coffin...?!
+きゃはは♪=Teeheehee♪
+さっさと銃に変身しろ！！|こいつの魂…もらうぞ！=Quick, change to weapon form! We're taking it's soul...!
 !FILE:ev0074.cnut
-さて、帰ろうぜ。=
-今日も楽しかったね♪|お姉ちゃん！！=
-最後に|美しきアヌビスにお別れだ。=
-（ボン…ゴゴゴゴ…）=
-！！！=
-キャハハ。|アヌビスぶっこわれた♪=
-あれだけあばれれば…|ねェ…。=
-なんてことだ…。|左右対称で|最高に美しいアヌビスが…。=
-そうしょげるなよ！！|誰だってピラミッドの|一つや二つ壊すって♪=
-元気出して♪=
-お前らって…=
-なんで胸の大きさが|違うんだぁ！！=
-悪かったな、妹より小さくて！！=
-きゃはは♪=
-オイ！リズ、パティ！！|急いで脱出しないと、|生き埋めになってしまうぞ！=
-いっそげ～！！|きゃはははは♪=
+さて、帰ろうぜ。=Now then, let's head home.
+今日も楽しかったね♪|お姉ちゃん！！=Today was fun, wasn't it, big sis?♪
+最後に|美しきアヌビスにお別れだ。=Here's a final farewell to the beautiful Anubis.
+（ボン…ゴゴゴゴ…）=(Rumble rumble rumble...)
+！！！=!!!
+キャハハ。|アヌビスぶっこわれた♪=Hahaha! Anubis fell to pieces!♪
+あれだけあばれれば…|ねェ…。=I guess we really did cause quite a ruckus, huh...
+なんてことだ…。|左右対称で|最高に美しいアヌビスが…。=How could this happen... The beautiful symmetry of Anubis is...
+そうしょげるなよ！！|誰だってピラミッドの|一つや二つ壊すって♪=Don't get disheartened! Everyone breaks a pyramid or two in their life, I'm sure♪
+元気出して♪=Cheer up!♪
+お前らって…=You guys...
+なんで胸の大きさが|違うんだぁ！！=Why are your breast sizes so different?!
+悪かったな、妹より小さくて！！=Gee, I'm sorry for being smaller than my little sister!
+きゃはは♪=Teehee♪
+オイ！リズ、パティ！！|急いで脱出しないと、|生き埋めになってしまうぞ！=Liz! Patty! If we don't leave here now, we'll become mummys, ourselves!
+いっそげ～！！|きゃはははは♪=Hurry! Hahaha♪
 !FILE:ev0075.cnut
-父上、終わりました。=
-う～す♪うす♪|おつかれ～！！=
-お～す。=
-おす♪=
-さっそくだけど、|次のいいターゲットはないかな？=
-相変わらず、熱心だね！=
-キッドは死神なんだから、|別に魂集めて武器作らなくても|いいのにねェ～。=
-俺は自分の武器は、|自分できっちり作りたいんだ。=
-いいターゲットねェ…。|いるにはいるんだけど、|死武専生にやらせたいんだよね。=
-…それなら、父上。|今から俺らも死武専の|生徒になるよ。=
-！！=
-生徒名簿に記入お願いします。|リズ！パティ！行くぞ。=
-…おう…。=
-ほいほい。=
-ちとちと君たち…。|…。=
+父上、終わりました。=Father, we've finished the job.
+う～す♪うす♪|おつかれ～！！=Oh my! Great job, everyone!♪
+お～す。=Yes sir.
+おす♪=Yes sir♪
+さっそくだけど、|次のいいターゲットはないかな？=This may be sudden, but you don't currently have any targets, do you?
+相変わらず、熱心だね！=You're hardworking, as always!
+キッドは死神なんだから、|別に魂集めて武器作らなくても|いいのにねェ～。=Though, you are a Shinigami, so it's not like you need to collect Souls >>to make weapons or anything～
+俺は自分の武器は、|自分できっちり作りたいんだ。=I want to make a weapon for myself to my exact standards.
+いいターゲットねェ…。|いるにはいるんだけど、|死武専生にやらせたいんだよね。=I do have a good target, but... I'd rather a student of the DWMA take on the task.
+…それなら、父上。|今から俺らも死武専の|生徒になるよ。=...Then henceforth, I will become a student of the DWMA.
+！！=!!
+生徒名簿に記入お願いします。|リズ！パティ！行くぞ。=I'll leave the application to you, Father. Let's go, Liz, Patty.
+…おう…。=...Alright...
+ほいほい。=Got it!
+ちとちと君たち…。|…。=Hey, wait...
 !FILE:ev0081.cnut
 ソウル君ｄ|そろそろ起っきする時間よ～ｄ=
 ん？=
@@ -1664,8 +1664,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～攻撃～|#COL(4)敵をタッチ=#COL(7)-Attack-|#COL(4)Touch the enemy
 #COL(1)マカ！敵だ！|#COL(4)敵をタッチ#COL(1)して鎌で#COL(7)攻撃#COL(1)だぜ！=#COL(1)Maka, there's an enemy! | #COL(4)Touch the screen#COL(1) to #COL(7)attack#COL(1) with your Scythe!
 !FILE:ev3005.cnut
-#COL(7)～ダッシュ攻撃～|#COL(4)遠くの敵をタッチ=#COL(7)-Dash Attack-|#COL(4)Touch a far away enemy
-#COL(4)遠くの敵をタッチ#COL(1)すれば、|#COL(7)ダッシュ攻撃#COL(1)もできるぜ！=If you #COL(4)touch a far away enemy#COL(1), you'll perform a #COL(7)dash attack#COL(1)!
+#COL(7)～ダッシュ攻撃～|#COL(4)遠くの敵をタッチ=#COL(7)-Dash Attack-|#COL(4)Touch a distant enemy
+#COL(4)遠くの敵をタッチ#COL(1)すれば、|#COL(7)ダッシュ攻撃#COL(1)もできるぜ！=If you #COL(4)touch a distant enemy#COL(1), you'll perform a #COL(7)dash attack#COL(1)!
 !FILE:ev3006.cnut
 #COL(7)～打ち返し～|#COL(4)敵の打ち返し可能な技に|左か右にスライド（←か→）=#COL(7)-Deflect-|#COL(4)Slide the stylus across the screen to deflect attacks
 #COL(1)あの敵の遠距離攻撃は、|タイミングをよく見れば、#COL(4)左か右|のスライド#COL(1)で#COL(7)打ち返せる#COL(1)ぞ！=Watch the enemys long distance attack, and slide the stylus to deflect it!
@@ -1697,7 +1697,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 戦ったり、アイテムをひろったり|すると、#COL(4)２人の魂アイコン#COL(1)が、|右下の#COL(4)ゲージ上で近付く#COL(1)ぜ！=Through such things as fighting, and picking up items, >>the two soul icons on the bottom right will get closer together or further apart!
 !FILE:ev3015.cnut
 #COL(7)～魔女狩り～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Witch-Hunt-|#COL(4)While in Soul Resonance Mode, draw a circle twice
-#COL(1)まだ終わらねぇか。|マカ！！鎌職人伝統の大技！！|#COL(7)魔女狩り#COL(1)で敵を一掃だ！！=#COL(1)They're still coming?! Looks like it's time to bust out our ultimate technique! >>Take out the enemies in a single blow with #COL(7)Witch-Hunt#COL(1)!
+#COL(1)まだ終わらねぇか。|マカ！！鎌職人伝統の大技！！|#COL(7)魔女狩り#COL(1)で敵を一掃だ！！=#COL(1)They're still coming?! Looks like it's time to bust out our ultimate technique! >>Take out the enemies in a single strike with #COL(7)Witch-Hunt#COL(1)!
 #COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)魔女狩り#COL(1)発動だぜ！！=While in #COL(4)Soul Resonance Mode, draw a circle twice in a row#COL(1) to activate #COL(7)Witch-Hunt#COL(1)!
 !FILE:ev3016.cnut
 よっしゃ！|決まったぜ！=
@@ -1767,46 +1767,46 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(1)ブラックｅスター！|#COL(4)あの木を○で囲め#COL(1)ば、#COL(7)鎖鎌で|移動#COL(1)できそうよ！やってみて！=#COL(1)Black☆Star! If you #COL(4)draw a circle around that tree#COL(1), >>you can use #COL(7)Chain Scythe to move forward#COL(1)!
 #COL(1)ブラックｅスターが|#COL(4)引っ掛け#COL(1)られるものには|#COL(4)青枠#COL(1)がついてるわよ。=#COL(1)Any items you are able to #COL(4)use#COL(1) will be surrounded in a #COL(4)blue border#COL(1).
 !FILE:ev3040.cnut
-#COL(7)～単体射撃～|#COL(4)敵をタッチ=
-#COL(1)キッド！#COL(4)敵にタッチする#COL(1)と|#COL(7)一発ずつ弾が撃てる#COL(1)ぞ！=
+#COL(7)～単体射撃～|#COL(4)敵をタッチ=#COL(7)-Single Shot-|#COL(4) Touch the enemy
+#COL(1)キッド！#COL(4)敵にタッチする#COL(1)と|#COL(7)一発ずつ弾が撃てる#COL(1)ぞ！=#COL(1)Kid! #COL(4)Touch the enemy#COL(1) to attack with #COL(7)a single bullet#COL(1)!
 !FILE:ev3041.cnut
-#COL(7)～ロックオン射撃～|#COL(4)敵を○囲んでからタッチ=
-#COL(1)キッド君！狙いたい#COL(4)敵を○で|囲む#COL(1)と#COL(7)ロックオン状態#COL(1)になるよ！|#COL(4)囲んだ敵をタッチ#COL(1)で攻撃だよ！=
+#COL(7)～ロックオン射撃～|#COL(4)敵を○囲んでからタッチ=#COL(7)-Lock-on Attack-|#COL(4) Draw a circle over the enemy, then touch to shoot
+#COL(1)キッド君！狙いたい#COL(4)敵を○で|囲む#COL(1)と#COL(7)ロックオン状態#COL(1)になるよ！|#COL(4)囲んだ敵をタッチ#COL(1)で攻撃だよ！=#COL(1)When you want to target an enemy, #COL(4)draw a circle#COL(1) to #COL(7)lock-on#COL(1)! >>#COL(4)Once locked on#COL(1), touch the enemy to shoot!
 !FILE:ev3042.cnut
 ロックオンした状態なら|確実に攻撃を当てられるんだ。=
 でも、ＷＰゲージを消費するから|使いすぎにはご注意～。|だねっ。=
 !FILE:ev3043.cnut
-#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=
-#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=
+#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4) Draw an X above the enemy
+#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw an X above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
 !FILE:ev3044.cnut
-#COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=
-#COL(4)左右スライド#COL(1)で#COL(7)ばらまき射撃#COL(1)も|できるよ～！=
+#COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=#COL(7)-Flurry Shot-|#COL(4) Slide the stylus from left to right to left
+#COL(4)左右スライド#COL(1)で#COL(7)ばらまき射撃#COL(1)も|できるよ～！=#COL(4)Slide the stylus from left to right to left#COL(1) to send a #COL(7)flurry of bullets#COL(1) at the enemy!~
 !FILE:ev3045.cnut
-調子がいいみたいだな！|キッド！=
-ねー。|早く先に行こうよぉ。=
+調子がいいみたいだな！|キッド！=You're doing well, Kid!
+ねー。|早く先に行こうよぉ。=Hey, let's hurry onwards.
 !FILE:ev3046.cnut
-#COL(7)～スケボー～|#COL(4)下スライド（↓）で出し|十字ボタンで方向転換=
-#COL(7)～スケボー～|#COL(4)下スライド（↓）で出し|Ａ・Ｂ・Ｘ・Ｙボタンで方向転換=
-#COL(1)ここに敵はいないみたいだな。|早く次の部屋に行こうぜ！=
-こういう時は#COL(7)スケボー#COL(1)だよね！|#COL(4)下スライド#COL(1)でスケボーを出して、|#COL(4)十字ボタン#COL(1)で#COL(4)方向転換#COL(1)だよ！=
-こういう時は#COL(7)スケボー#COL(1)だよね！|#COL(4)下スライド#COL(1)でスケボーを出して、=
-#COL(4)Ａ・Ｂ・Ｘ・Ｙボタン#COL(1)で|#COL(4)方向転換#COL(1)だよ！=
+#COL(7)～スケボー～|#COL(4)下スライド（↓）で出し|十字ボタンで方向転換=#COL(7)-Skateboard-|#COL(4) Slide the stylus down, move with the + Button
+#COL(7)～スケボー～|#COL(4)下スライド（↓）で出し|Ａ・Ｂ・Ｘ・Ｙボタンで方向転換=#COL(7)-Skatebard-|#COL(4) Slide the stylus down, move with the A B X Y Buttons
+#COL(1)ここに敵はいないみたいだな。|早く次の部屋に行こうぜ！=#COL(1)Looks like there are no enemies here, let's continue to the next room.
+こういう時は#COL(7)スケボー#COL(1)だよね！|#COL(4)下スライド#COL(1)でスケボーを出して、|#COL(4)十字ボタン#COL(1)で#COL(4)方向転換#COL(1)だよ！=Your #COL(7)Skateboard#COL(1) is useful at times like this! #COL(4)Slide the stylus down#COL(1) to summon it, >>then #COL(4)steer#COL(1) using the #COL(4)+ Button#COL(1)!
+こういう時は#COL(7)スケボー#COL(1)だよね！|#COL(4)下スライド#COL(1)でスケボーを出して、=Your #COL(7)Skateboard#COL(1) is useful at times like this! #COL(4)Slide the stylus down#COL(1) to summon it,
+#COL(4)Ａ・Ｂ・Ｘ・Ｙボタン#COL(1)で|#COL(4)方向転換#COL(1)だよ！=and then #COL(4)steer#COL(1) using the #COL(4)A B X Y Buttons#COL(1)!
 !FILE:ev3047.cnut
-#COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=
+#COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=#COL(1)While it is useful, it uses up your #COL(4)WP Gauge#COL(1) quickly, so use it wisely.
 !FILE:ev3048.cnut
-#COL(1)お～！行き止まり？=
-いや、このくらいなら#COL(7)スケボー#COL(1)で|行けるよ。両岸の高さ同じだし。=
+#COL(1)お～！行き止まり？=Oh?~ A dead end?
+いや、このくらいなら#COL(7)スケボー#COL(1)で|行けるよ。両岸の高さ同じだし。=Not at all, this is where a #COL(7)Skateboard#COL(1) comes in handy.
 !FILE:ev3049.cnut
-#COL(4)奈落#COL(1)とか、#COL(4)水の上#COL(1)とかでも、|#COL(4)段差#COL(1)に注意すれば、|どこでも行けちゃうね！=
-あと、#COL(4)戦闘回避#COL(1)にも有効だよ！=
+#COL(4)奈落#COL(1)とか、#COL(4)水の上#COL(1)とかでも、|#COL(4)段差#COL(1)に注意すれば、|どこでも行けちゃうね！=You can cross things like #COL(4)abyss#COL(1) and #COL(4)water#COL(1), as long as the #COL(4)path is even#COL(1).
+あと、#COL(4)戦闘回避#COL(1)にも有効だよ！=You can use it to #COL(4)avoid fighting#COL(1), too!
 !FILE:ev3050.cnut
-#COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=
-#COL(1)キッド君！|敵いっぱいいるよ！=
-キッド！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=
+#COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-|#COL(4) Touch the overlapping Soul Icons
+#COL(1)キッド君！|敵いっぱいいるよ！=#COL(1)Kid! There are a lot of enemies!
+キッド！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=#COL(4)Touch the overlapping Soul Icons#COL(1) to enter #COL(7)Soul Resonance Mode#COL(1)!
 !FILE:ev3051.cnut
-#COL(7)～デス・キャノン～|#COL(4)魂の共鳴中に|○を２周描く=
-#COL(1)キッド！#COL(7)デス・キャノン#COL(1)で|敵を一気に片付けようぜ！=
-#COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)デス・キャノン#COL(1)発動～！！=
+#COL(7)～デス・キャノン～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Death Canon-|#COL(4) While in Soul Resonance Mode, draw a circle twice
+#COL(1)キッド！#COL(7)デス・キャノン#COL(1)で|敵を一気に片付けようぜ！=#COL(1)Use #COL(7)Death Cannon#COL(1) and take out the enemies in a single blast!
+#COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)デス・キャノン#COL(1)発動～！！=#COL(4)Draw a circle twice while in Soul Resonance Mode#COL(1) to activate #COL(7)Death Cannon#COL(1)!!~
 !FILE:ev3052.cnut
 キッド君。|この奥に鬼神の卵が|いるんじゃないかな？=
 早く行こうぜ、キッド。=
@@ -1841,13 +1841,13 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 !FILE:ev4000.cnut
 #COL(1)よし！|マカ、絶好調だな！=Well done! You're doing great!
 !FILE:ev4001.cnut
-#COL(7)～叩きつけ～|#COL(4)敵に下スライド(↓)=#COL(7)~Strike~|#COL(4)Slide the stylus downwards on the enemy
+#COL(7)～叩きつけ～|#COL(4)敵に下スライド(↓)=#COL(7)-Strike-|#COL(4)Slide the stylus downwards on the enemy
 #COL(4)敵に下スライド#COL(1)で、|#COL(7)叩きつけ#COL(1)だ！=#COL(4)Slide downwards#COL(1) on the enemy to #COL(7)strike it#COL(1)!
 !FILE:ev4002.cnut
-#COL(7)～なぎ払い～|#COL(4)○を描く=#COL(7)~Mow Down~|#COL(4)Draw a circle
+#COL(7)～なぎ払い～|#COL(4)○を描く=#COL(7)-Mow Down-|#COL(4)Draw a circle
 #COL(4)○を描け#COL(1)ば、|#COL(7)なぎ払い#COL(1)ができるぜ！=#COL(4)Draw a circle#COL(1) to #COL(7)mow down#COL(1) the enemy!
 !FILE:ev4003.cnut
-#COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-#COL(4)Touch the overlapping Soul Icons
+#COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-#COL(4) | Touch the overlapping Soul Icons
 #COL(1)マカ！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=Maka! Touch the overlapping Soul Icons to activate Soul Resonance!
 !FILE:ev4004.cnut
 #COL(1)流石ね！|すごいわ、ブラックｅスター！=Amazing! Great job, Black☆Star!
@@ -1855,14 +1855,14 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
 #COL(7)魂の共鳴中#COL(1)は、#COL(4)妖刀モード#COL(1)に|なって、妖刀で攻撃ができるの。|#COL(4)攻撃力、防御力がアップ#COL(1)するわ！=While in #COL(7)Soul Resonance Mode#COL(1), you enter #COL(4)Uncanny Sword Mode#COL(1) >>and are able to attack using the Uncanny Sword. >>You also gain an #COL(4)attack and defence boost#COL(1)!
 !FILE:ev4006.cnut
-#COL(1)よっしゃ！|いい感じだな、キッド！=
+#COL(1)よっしゃ！|いい感じだな、キッド！=You're doing great, Kid!
 !FILE:ev4007.cnut
-#COL(7)～ロックオン解除～|#COL(4)十字ボタンで移動=
-#COL(7)～ロックオン解除～|#COL(4)Ａ・Ｂ・Ｘ・Ｙボタンで移動=
-#COL(4)移動#COL(1)すると#COL(7)ロックオンは解除|#COL(1)されるからな！=
+#COL(7)～ロックオン解除～|#COL(4)十字ボタンで移動=#COL(7)-Remove Lock-on-|#COL(4) Move using the + Button
+#COL(7)～ロックオン解除～|#COL(4)Ａ・Ｂ・Ｘ・Ｙボタンで移動=#COL(7)-Remove Lock-on-|#COL(4) Move using the A B X Y Buttons
+#COL(4)移動#COL(1)すると#COL(7)ロックオンは解除|#COL(1)されるからな！=When you #COL(4)move#COL(1), your #COL(7)Lock-on will cancel out#COL(1)!
 !FILE:ev4008.cnut
-#COL(4)ＷＰゲージ#COL(1)がなくなったら|おわりー。自分で降りたい時は、|#COL(4)ＬボタンかＲボタン#COL(1)で降りれるよ。=
-#COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=
+#COL(4)ＷＰゲージ#COL(1)がなくなったら|おわりー。自分で降りたい時は、|#COL(4)ＬボタンかＲボタン#COL(1)で降りれるよ。=Once your #COL(4)WP Gauge#COL(1) runs out, that's it! >>When you want to get off your board, press the #COL(4)L or R button#COL(1).
+#COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=#COL(1)While it is useful, it uses up your #COL(4)WP Gauge#COL(1) quickly, so use it wisely.
 !FILE:ev4009.cnut
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
 #COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するよ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defence#COL(1) are increased!
@@ -1889,8 +1889,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
 #COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するぞ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defence#COL(1) are increased!
 !FILE:ev4015.cnut
-#COL(7)～デス・キャノン～|#COL(4)画面タッチで方向転換=
-#COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=
+#COL(7)～デス・キャノン～|#COL(4)画面タッチで方向転換=#COL(7)-Death Cannon-|#COL(4) Touch the screen to change trajectory
+#COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=#COL(1)Once activated, #COL(4)touch the screen#COL(1) to #COL(4)change the cannons trajectory#COL(1)!
 !FILE:ev6000.cnut
 レアカード07G|「ソウル＆ブラックｅスター」|ＧＥＴ！=
 !FILE:ev6001.cnut
