@@ -248,132 +248,132 @@
 ほいほい。=Got it!
 ちとちと君たち…。|…。=Hey, wait...
 !FILE:ev0081.cnut
-ソウル君ｄ|そろそろ起っきする時間よ～ｄ=
-ん？=
-それともこのまま…|ブレアと楽しいコトしちゃう？=
-ブ…ブレア！！=
-ソウルー！今日から学校だゾ。|早くゴハン食え～♪=
-マ…マカ…。=
-…。=
-おはよ♪マカ。=
-【マカ】|ソウルのバカァー！！|朝からなにしてんのよ～！！=
-なぁ、マカ。何怒ってんだよ。=
-別に。=
-俺なんもしてないし。=
-私たちこれから、|武器と職人の育成機関、|死神武器職人専門学校に行くの。=
-それがどうしたんだよ？=
-健全なる魂は、|健全なる精神と|健全なる肉体に宿る。=
-知らないの？=
-はあ！？=
-もういい！！|急がないと授業遅れる。=
-あっ、おい！待てよ。|置いて行くなよ。=
-おはよう♪=
-マカちゃん、おはよう。=
-今ァ！！死武専はァ！！|ある一つのウワサでもちきりだ！=
-死神のダンナの息子が|入学するらしい！！=
-俺様のウワサ以外で|盛り上がるのは許せねェ！！|よって、暗殺する！！=
-あぁ…お前はそういう奴だよ。=
-…。=
-うむ♪すばらしい！|さすが父上の学校。|みごとな左右対称だ。=
-ずっとストリートで育ってきた|私ら姉妹が学校に通えるなんて♪|よかったね♪パティー。=
-うん♪=
-おお！あんたらが|ウワサの息子さん一行？=
-ん？校内の案内は|君がしてくれるのかな？=
-ヤイ！！死神の息子！！|俺はお前を暗殺する！！|しっかり見とけよ俺の暗殺術！！=
-暗殺ってのは、|見られちゃダメだろ…。=
-？=
-オイ、そこの新入生。|死神様が呼んでたぜ。=
-わかりました。今すぐ行きます。=
-チッ。暗殺はおあずけか。|運のいい奴だな！=
-クソ！！|いいところだったのに！！=
-（ガラガラ）=
-授業始めるぞ！席つけー。=
-！！=
-俺は、前のくたばった先生の|代わりが決まるまでの臨時だ。=
-そういえば、前任の先生|自由の女神がみけんに刺さって|くたばったんだっけ。=
-あ～～そうそう。=
-マカとソウル、|ブラックｅスターと椿は、|死神様がお呼びだ。=
-授業はいいから行ってきなさい。=
-？|なんだろ？=
-失礼しまーす。=
-はいは～い♪|うぃ～すっ！！おつかれさ～ん。=
-あ～！！死神のダンナの息子！！=
-デス・ザ・キッドだ。=
-よろしくね、キッド君。=
-で、死神様。用ってなんだ？=
-君たちに、ちとお願いしたい|ことがあってね。=
-？=
-この前まで…君たちの担任だった|「シド先生」なんだけど…。=
-ゾンビ化して生徒を|襲ってるって話なんだよね～。=
-けっこういい先生だったのに…。=
-確かに生前は、シブめのいい先生|だったんだけどね。=
-ゾンビになってからは、|生徒を襲うはた迷惑な授業を|繰り広げちゃってるみたいでさ。=
-しかも、シド先生を|ゾンビ化させた何者かが裏で|手を引いてるのは確かだね。=
-Ｏ・Ｋ！まかせろよダンナ。|要するに、そいつらの魂を|とってくりゃいいんだな。=
-はい。そ・ゆ・こと。|ほんじゃまぁ、|協力してガンバッちに～♪=
+ソウル君ｄ|そろそろ起っきする時間よ～ｄ=Soulｄ It's time to wake up～ｄ
+ん？=Hm?
+それともこのまま…|ブレアと楽しいコトしちゃう？=Or would you rather... stay and have some fun?
+ブ…ブレア！！=B-Blair?!
+ソウルー！今日から学校だゾ。|早くゴハン食え～♪=Soul! We've got school today, so hurry and eat your breakfast～♪
+マ…マカ…。=M-Maka...
+…。=...
+おはよ♪マカ。=Good morning, Maka♪
+【マカ】|ソウルのバカァー！！|朝からなにしてんのよ～！！=[Maka] | Soul, you idiot!! What do you think you're doing?!
+なぁ、マカ。何怒ってんだよ。=Hey now, what are you so mad about?
+別に。=Nothing.
+俺なんもしてないし。=I didn't do anything, you know.
+私たちこれから、|武器と職人の育成機関、|死神武器職人専門学校に行くの。=Going to the Death Weapon Meister Academy is suppose to help cultivate >>our relationship as Weapon and Meister.
+それがどうしたんだよ？=What about it?
+健全なる魂は、|健全なる精神と|健全なる肉体に宿る。=A sound soul dwells within a sound mind and a sound body.
+知らないの？=Don't you get it?
+はあ！？=What are you going on about?!
+もういい！！|急がないと授業遅れる。=Oh, nevermind! If we don't hurry, we'll be late to class.
+あっ、おい！待てよ。|置いて行くなよ。=H-hey, wait! Don't leave without me!
+おはよう♪=Good morning♪
+マカちゃん、おはよう。=Good morning, Maka.
+今ァ！！死武専はァ！！|ある一つのウワサでもちきりだ！=Did you hear?! The number one rumor going around the DWMA right now?!
+死神のダンナの息子が|入学するらしい！！=The son of Lord Death, himself has joined the academy!!
+俺様のウワサ以外で|盛り上がるのは許せねェ！！|よって、暗殺する！！=I can't believe that guy's getting more attention than me! I gotta get rid of him!!
+あぁ…お前はそういう奴だよ。=Hehehe, you're that kinda guy, aren't you...
+…。=...
+うむ♪すばらしい！|さすが父上の学校。|みごとな左右対称だ。=Hm♪ Absolutely beautiful! The perfect symmetry of the school is just brilliant.
+ずっとストリートで育ってきた|私ら姉妹が学校に通えるなんて♪|よかったね♪パティー。=As we've been raised on the streets, we never got to attend a school♪ >>I'm pretty excited, aren't you, Patty?♪
+うん♪=Yeah♪
+おお！あんたらが|ウワサの息子さん一行？=Hey, you! Are you the rumored son of Lord Death?
+ん？校内の案内は|君がしてくれるのかな？=Hm? Are you here to act as my guide?
+ヤイ！！死神の息子！！|俺はお前を暗殺する！！|しっかり見とけよ俺の暗殺術！！=Absolutely not!! I've come here to assassinate you! Behold, my assasination techniques!
+暗殺ってのは、|見られちゃダメだろ…。=Assassination? Then shouldn't you be hidden in the shadows...?
+？=???
+オイ、そこの新入生。|死神様が呼んでたぜ。=Hey you, new guy. Lord Death has called for you.
+わかりました。今すぐ行きます。=Got it, I'll be right there.
+チッ。暗殺はおあずけか。|運のいい奴だな！=Hmph! Guess I'll have to save the assassination for another day. This is your lucky day!
+クソ！！|いいところだったのに！！=Damn it! It was the perfect opportunity, too!
+（ガラガラ）=(Clatter...)
+授業始めるぞ！席つけー。=Class is about to begin! Please take your seats.
+！！=!!
+俺は、前のくたばった先生の|代わりが決まるまでの臨時だ。=I'm acting as your temporary teacher after your previous one kicked the bucket.
+そういえば、前任の先生|自由の女神がみけんに刺さって|くたばったんだっけ。=That's right, our previous teacher was stabbed in the forehead >>by the Statue of Liberty and killed.
+あ～～そうそう。=Oh yeah, that reminds me.
+マカとソウル、|ブラックｅスターと椿は、|死神様がお呼びだ。=Maka, Soul, BlackｅStar and Tsubaki, you've been called by Lord Death.
+授業はいいから行ってきなさい。=Don't mind class right now, just go.
+？|なんだろ？=Hm? I wonder what's up?
+失礼しまーす。=Excuse us.
+はいは～い♪|うぃ～すっ！！おつかれさ～ん。=Yes, yes, hello there! Working hard, I hope?
+あ～！！死神のダンナの息子！！=Oh! Lord Death's kid is here too?!
+デス・ザ・キッドだ。=It's Death the Kid.
+よろしくね、キッド君。=Nice to meet you, Kid.
+で、死神様。用ってなんだ？=So then, what did you summon us for, sir?
+君たちに、ちとお願いしたい|ことがあってね。=Yes, well, I have a small request for you.
+？=?
+この前まで…君たちの担任だった|「シド先生」なんだけど…。=It's to do with your previous teacher, Sid...
+ゾンビ化して生徒を|襲ってるって話なんだよね～。=Apparently he's been turned into a zombie, and is attacking the students of the DWMA～
+けっこういい先生だったのに…。=But he was such a good teacher...
+確かに生前は、シブめのいい先生|だったんだけどね。=Indeed, he was a wonderful teacher back when he was still alive.
+ゾンビになってからは、|生徒を襲うはた迷惑な授業を|繰り広げちゃってるみたいでさ。=However, now, he's been holding his own classes and causing trouble >>by attacking the students, it seems.
+しかも、シド先生を|ゾンビ化させた何者かが裏で|手を引いてるのは確かだね。=Though, it's pretty certain that there is someone pulling Sid's strings behind the scenes. >>I'd like you to find out who that person is.
+Ｏ・Ｋ！まかせろよダンナ。|要するに、そいつらの魂を|とってくりゃいいんだな。=Leave it to us, sir! To sum things up, it's fine to take his soul, right?
+はい。そ・ゆ・こと。|ほんじゃまぁ、|協力してガンバッちに～♪=That's right! Do your best and work well together, OK?～♪
 !FILE:ev0086.cnut
-着いた。|「鉤爪墓地」=
-なぁ椿…|こんな所にまだいんのかよ？|奴は動き回ってんじゃないのか？|=
-でもとりあえずは、|お墓かなぁ～って…。=
-オラー！！|ゾンビ野郎！！|出てこいクソがぁ！！=
-出てこいオラァー！！=
-やめんか…。|お前はやらなくていい。=
-とりあえず、探してみよう！=
+着いた。|「鉤爪墓地」=We've made it to Hook Cemetery.
+なぁ椿…|こんな所にまだいんのかよ？|奴は動き回ってんじゃないのか？|=Hey, Tsubaki... Is this really the best place to check? He may have already left.
+でもとりあえずは、|お墓かなぁ～って…。=Well, for the time being, let's just check on his gravestone...
+オラー！！|ゾンビ野郎！！|出てこいクソがぁ！！=Hey! Zombie-guy! Why don't you come on out?!
+出てこいオラァー！！=Yeah!! Show yourself!!
+やめんか…。|お前はやらなくていい。=Quit it, you don't have to join in.
+とりあえず、探してみよう！=Alright then, let's go look for him!
 !FILE:ev0087.cnut
-マカ。ソウル。|ブラックｅスター。椿。|お久しぶりＤＥＡＴＨ（死）=
-…！！=
-きゃ～！！ゾンビ！！=
-コイツか。=
-俺はあいさつを|かかさない男だった。=
-なんで？シド先生！？=
-ＫＩＬＬコーンカーンコーン♪|授業始めるぞ。=
-いいだろう！！|久しぶりに見せてやる。|俺様の神がかった授業態度をな！=
+マカ。ソウル。|ブラックｅスター。椿。|お久しぶりＤＥＡＴＨ（死）=Maka, Soul, BlackｅStar, Tsubaki. It's been DEATHly long since I last saw you all.
+…！！=...!!
+きゃ～！！ゾンビ！！=Kyaaah! It's a zombie!!
+コイツか。=So that's him.
+俺はあいさつを|かかさない男だった。=I was never the type of guy to pass on a proper greeting.
+なんで？シド先生！？=What? That's Sid?!
+ＫＩＬＬコーンカーンコーン♪|授業始めるぞ。=Ding dong ding DEATH♪ Class is about to begin.
+いいだろう！！|久しぶりに見せてやる。|俺様の神がかった授業態度をな！=Alright then! It's been a while since we've seen each other, >>allow me to show you my incredible classroom manners!
 !FILE:ev0088.cnut
-シド先生、誰がシド先生を|ゾンビにしたんですか？=
-言え！！コラ！！=
-俺は口の堅い男だった！！|それは死んでからも|ゆずれねェ！！=
-…。|ほれ。=
-（ひらり）=
-あっ。=
-うほｄパンツ！=
-「シュタイン博士」だ！！|デス・シティーのはずれにある|「ツギハギ研究所」にいる！=
-（秒殺かよ…！）=
-よし！行こうぜーｅ=
-あ、あぁ。=
-もう…。=
-…。=
-キッド、行くぞ？=
-う、うむ！=
+シド先生、誰がシド先生を|ゾンビにしたんですか？=Sid, just who turned you into a zombie?
+言え！！コラ！！=Tell us! Come on!!
+俺は口の堅い男だった！！|それは死んでからも|ゆずれねェ！！=I was always a man who could keep a secret!! Even in death, I refuse to reveal anything!!
+…。|ほれ。=... How about this?
+（ひらり）=(Shff)
+あっ。=Huh?
+うほｄパンツ！=P-panties?!ｄ
+「シュタイン博士」だ！！|デス・シティーのはずれにある|「ツギハギ研究所」にいる！=It was Professor Stein!! He's currently located at Patchwork Laboratory, >>on the outskirts of Death City!
+（秒殺かよ…！）=(An instant defeat...!)
+よし！行こうぜーｅ=Alright! Let's go!ｅ
+あ、あぁ。=Y-yeah...
+もう…。=Jeez...
+…。=...
+キッド、行くぞ？=Kid, are you coming?
+う、うむ！=Y...yeah!
 !FILE:ev0090.cnut
-着いたな！ツギハギ研究所。=
-研究所もつぎはぎかよ？=
-つぎはぎだらけだ～！|きゃははは♪=
-悪趣味だな…。=
-…。|一体シュタイン博士って、|どんな奴なんだろ？=
-何か用ですか？=
-お前がシュタインだな？=
-お前の魂…食いに来た。=
-あ～はいはい。|君たち死武専の生徒さんですね？=
-あんたでしょ！？|死武専生を襲ってるのは！！|何かうらみでもあるの！？=
-別に…。|動機はいたってシンプル。|観察、研究…ただそれだけです。=
-？=
-ヘラヘラ。|君たちを解体したくなった♪|実験を始めましょうか？=
+着いたな！ツギハギ研究所。=We made it to Patchwork Lab!
+研究所もつぎはぎかよ？=This place sure looks cobbled together, doesn't it?
+つぎはぎだらけだ～！|きゃははは♪=That's why its called 'Patchwork' Lab!~ Hahaha♪
+悪趣味だな…。=Whoever made it sure has bad taste...
+…。|一体シュタイン博士って、|どんな奴なんだろ？=Just what kind of person could Professor Stein be...?
+何か用ですか？=What business do you have with me?
+お前がシュタインだな？=You must be Stein.
+お前の魂…食いに来た。=We've come here... to take your soul.
+あ～はいはい。|君たち死武専の生徒さんですね？=Ah I see!~ You guys must be students of the DWMA, correct?~
+あんたでしょ！？|死武専生を襲ってるのは！！|何かうらみでもあるの！？=You're the one who's been attacking the students, aren't you?! >>Why?! Do you have a grudge against us?!
+別に…。|動機はいたってシンプル。|観察、研究…ただそれだけです。=Not really. My motivation is observation and research, pretty simple, isn't it?
+？=Huh?
+ヘラヘラ。|君たちを解体したくなった♪|実験を始めましょうか？=I'd just love to dissect your bodies♪ >>Come now, why don't we get this experiment started?
 !FILE:ev0091.cnut
-合格点をあげましょう。|授業おしまいで～す♪=
-へっ？=
-いやね…頼まれたんですよ。|死神様に。|君たちの課外授業をしてくれって。=
-エェ！？=
-なんと！！=
-きゃははは♪=
-ひゃははは。=
-…。=
-悪かったな、お前ら…。=
-人をダマすようなマネは|しない男だったんだが…|それも生前の話だ。=
-ふざけんな！！|何だこのクソ話は！！|全部ドッキリかよ！！=
-それにしても、|チビッコをどつきまわすのは|なかなかおもしろかったね。=
-（サディスティックなのは|本物か！！）=
-さあ！みんな！今日は疲れたろ？|遠慮せずにウチに泊まって|いきなさいｄ=
-ぜったいにイヤ！！=
+合格点をあげましょう。|授業おしまいで～す♪=Congratulations, you passed♪ That concludes your lesson♪
+へっ？=Wha-?
+いやね…頼まれたんですよ。|死神様に。|君たちの課外授業をしてくれって。=You see, I was asked by Lord Death to give you guys an extracurricular lesson♪
+エェ！？=WHAT?!
+なんと！！=An extracurricular lesson...!!
+きゃははは♪=Kyahaha♪
+ひゃははは。=Haaahahaha!
+…。=...
+悪かったな、お前ら…。=I apologize.
+人をダマすようなマネは|しない男だったんだが…|それも生前の話だ。=While I pride myself in being a man who never once told a lie... >>That was back when I was still alive.
+ふざけんな！！|何だこのクソ話は！！|全部ドッキリかよ！！=You've gotta be kidding me!! You're saying this entire thing was a stupid prank?!
+それにしても、|チビッコをどつきまわすのは|なかなかおもしろかったね。=Though I must say, it was quite entertaining throwing you kids around♪
+（サディスティックなのは|本物か！！）=(This guy's a true sadist!!)
+さあ！みんな！今日は疲れたろ？|遠慮せずにウチに泊まって|いきなさいｄ=Now then everyone, I bet you're tired. Please feel free to rest up at my place, alright?
+ぜったいにイヤ！！=ABSOLUTELY NOT!!
 !FILE:ev0101.cnut
 あ～昨日はマジ疲れた。=
 私、博士に実験される夢みたわ…。=
@@ -1773,8 +1773,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～ロックオン射撃～|#COL(4)敵を○囲んでからタッチ=#COL(7)-Lock-on Attack-|#COL(4) Draw a circle over the enemy, then touch to shoot
 #COL(1)キッド君！狙いたい#COL(4)敵を○で|囲む#COL(1)と#COL(7)ロックオン状態#COL(1)になるよ！|#COL(4)囲んだ敵をタッチ#COL(1)で攻撃だよ！=#COL(1)When you want to target an enemy, #COL(4)draw a circle#COL(1) to #COL(7)lock-on#COL(1)! >>#COL(4)Once locked on#COL(1), touch the enemy to shoot!
 !FILE:ev3042.cnut
-ロックオンした状態なら|確実に攻撃を当てられるんだ。=
-でも、ＷＰゲージを消費するから|使いすぎにはご注意～。|だねっ。=
+ロックオンした状態なら|確実に攻撃を当てられるんだ。=When you're locked on, your attacks will always hit their mark.
+でも、ＷＰゲージを消費するから|使いすぎにはご注意～。|だねっ。=However, once your WP gauge has run out, >>You wont be able to use Lock-on, so be careful, alright?~
 !FILE:ev3043.cnut
 #COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4) Draw an X above the enemy
 #COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw an X above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
@@ -1808,36 +1808,36 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(1)キッド！#COL(7)デス・キャノン#COL(1)で|敵を一気に片付けようぜ！=#COL(1)Use #COL(7)Death Cannon#COL(1) and take out the enemies in a single blast!
 #COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)デス・キャノン#COL(1)発動～！！=#COL(4)Draw a circle twice while in Soul Resonance Mode#COL(1) to activate #COL(7)Death Cannon#COL(1)!!~
 !FILE:ev3052.cnut
-キッド君。|この奥に鬼神の卵が|いるんじゃないかな？=
-早く行こうぜ、キッド。=
-やっぱり額縁が…|いや、やはり…=
-全くこのボンボンは…=
+キッド君。|この奥に鬼神の卵が|いるんじゃないかな？=I wonder if there really is a Kishin Egg in here after all...
+早く行こうぜ、キッド。=Let's go, Kid.
+やっぱり額縁が…|いや、やはり…=But the frame... I'm sure it's crooked...
+全くこのボンボンは…=Enough already...
 !FILE:ev3060.cnut
-#COL(7)～キャラチェンジ～|#COL(4)キャラアイコンにタッチ=
-#COL(4)キャラアイコンにタッチ#COL(1)すると、|#COL(7)操作キャラをチェンジ#COL(1)できるぜ！|じゃあ、練習な！=
-マカ！ブラックｅスターと|キッド、どっちでもいいから|チェンジしてみな！=
+#COL(7)～キャラチェンジ～|#COL(4)キャラアイコンにタッチ=#COL(7)～Character Change～|#COL(4) Touch the Character Icons
+#COL(4)キャラアイコンにタッチ#COL(1)すると、|#COL(7)操作キャラをチェンジ#COL(1)できるぜ！|じゃあ、練習な！=When you touch the #COL(4)Character Icons#COL(1), you can #COL(7)switch control#COL(1) to another character. >>Let's give it a try!
+マカ！ブラックｅスターと|キッド、どっちでもいいから|チェンジしてみな！=Maka, BlackｅStar, or Kid, it doesn't matter which! Just give it a try!
 !FILE:ev3061.cnut
-そうだ！|きっちりかっちり交代できたな！=
-キッド！ブラックｅスターの|アイコンにタッチして、|ブラックｅスターと交代だ！=
+そうだ！|きっちりかっちり交代できたな！=Great job! Perfect technique!
+キッド！ブラックｅスターの|アイコンにタッチして、|ブラックｅスターと交代だ！=Kid! Touch BlackｅStar's icon in order to switch with them!
 !FILE:ev3062.cnut
-ひゃっはぁ～！|その調子だぜ！=
-ブラックｅスター！マカちゃんの|アイコンにタッチして、|マカちゃんと交代よ！=
+ひゃっはぁ～！|その調子だぜ！=That's it! You're doing great!
+ブラックｅスター！マカちゃんの|アイコンにタッチして、|マカちゃんと交代よ！=BlackｅStar! Touch Maka's icon in order to switch with them!
 !FILE:ev3063.cnut
-よし！OKだな！=
-この先、キャラチェンジしないと|先に進めなくなったり、|倒せねェ敵がいるかもしれねェ。=
-誰でも、得意不得意はあるしな！|仲間は助け合って行こうぜ！=
-俺様にしかできないことは、|たーくさんあるしな！=
-俺にだってある！=
-うん！私にもある！|みんなでがんばろ！！|じゃあ、先に進むよ！=
+よし！OKだな！=Alright! Looks good!
+この先、キャラチェンジしないと|先に進めなくなったり、|倒せねェ敵がいるかもしれねェ。=If you don't change characters often, you may not be able to continue forward, >>and there may be enemies you cannot defeat.
+誰でも、得意不得意はあるしな！|仲間は助け合って行こうぜ！=Everyone has their strengths and weaknesses! >>Use your friends strengths to continue moving onward!
+俺様にしかできないことは、|たーくさんあるしな！=There are quite a lot I can do, myself!
+俺にだってある！=Me, too!
+うん！私にもある！|みんなでがんばろ！！|じゃあ、先に進むよ！=Same here! Let's do our best together and continue onward!
 !FILE:ev3064.cnut
-#COL(1)なんてことだ！木が邪魔をして、|先へ進めないぞ！=
-#COL(4)オレンジ枠#COL(1)がついているものは、|私に任せて！=
+#COL(1)なんてことだ！木が邪魔をして、|先へ進めないぞ！=#COL(1)What's this?! A huge tree is blocking the way, I can't continue!
+#COL(4)オレンジ枠#COL(1)がついているものは、|私に任せて！=Leave the obstacles with #COL(4)Orange Borders#COL(1) to me!
 !FILE:ev3065.cnut
-#COL(1)行き止まり！？=
-#COL(4)青枠#COL(1)がついているものは俺様だ！|向こう岸の箱に鎖鎌を|引っ掛ければ一瞬だぜ！=
+#COL(1)行き止まり！？=A dead end?!
+#COL(4)青枠#COL(1)がついているものは俺様だ！|向こう岸の箱に鎖鎌を|引っ掛ければ一瞬だぜ！=Obstacles with #COL(4)Blue Borders#COL(1) are my forte! >>I can use my chain to get over to that box in an instant!
 !FILE:ev3066.cnut
-#COL(1)よし！このまま突っ走るぜ～！=
-待て！ここは俺に任せろ！|#COL(4)スケボー#COL(1)を使えばすぐだ！|走るより速い。=
+#COL(1)よし！このまま突っ走るぜ～！=Looks like this area is wide open!
+待て！ここは俺に任せろ！|#COL(4)スケボー#COL(1)を使えばすぐだ！|走るより速い。=Wait! Leave this to me. >>With my #COL(4)Skateboard#COL(1), I can cover a lot of ground in a short amount of time.
 !FILE:ev4000.cnut
 #COL(1)よし！|マカ、絶好調だな！=Well done! You're doing great!
 !FILE:ev4001.cnut
@@ -1867,19 +1867,19 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
 #COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するよ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defence#COL(1) are increased!
 !FILE:ev4010.cnut
-あちぃ～ぞ！コノヤロー！=
-これじゃ、#COL(4)先に進めない#COL(1)な。=
-そのうち#COL(4)消す方法#COL(1)が見つかるだろ。|他の道に行ってみよう。=
+あちぃ～ぞ！コノヤロー！=That's hot!! You stupid flames!
+これじゃ、#COL(4)先に進めない#COL(1)な。=Looks like we can't continue forward.
+そのうち#COL(4)消す方法#COL(1)が見つかるだろ。|他の道に行ってみよう。=Guess we'll need to find a way to extinguish the flames. >>Let's try looking somewhere else.
 !FILE:ev4011.cnut
-ここになんかあるよ～？=
-何かの#COL(4)スイッチ#COL(1)みたいだけど。=
-とりあえず入れてみるか？=
-どうやって？=
-とりあえず#COL(4)殴ればヨシ#COL(1)！！=
+ここになんかあるよ～？=What's that over there?~
+何かの#COL(4)スイッチ#COL(1)みたいだけど。=Looks like some kind of switch.
+とりあえず入れてみるか？=Why don't we try switching it?
+どうやって？=But how does it work?
+とりあえず#COL(4)殴ればヨシ#COL(1)！！=Let's try hitting it!!
 !FILE:ev4012.cnut
-なんか起こった？=
-う～ん。わかんない。=
-とりあえず、|先に進める道を探そう！=
+なんか起こった？=Did anything happen?
+う～ん。わかんない。=Hmmm... I'm not sure.
+とりあえず、|先に進める道を探そう！=Guess we'll find out, let's continue moving!
 !FILE:ev4013.cnut
 #COL(7)～回避～|#COL(4)十字ボタンの同じ方向を|連続で２回押す=#COL(7)-Dodge-|#COL(4)Press the + button twice in the same direction
 #COL(7)～回避～|#COL(4)Ａ・Ｂ・Ｘ・Ｙボタンを|連続で２回押す=#COL(7)-Dodge-|#COL(4)Press any of the A B X Y Buttons twice
@@ -1892,136 +1892,136 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=
 #COL(7)～デス・キャノン～|#COL(4)画面タッチで方向転換=#COL(7)-Death Cannon-|#COL(4) Touch the screen to change trajectory
 #COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=#COL(1)Once activated, #COL(4)touch the screen#COL(1) to #COL(4)change the cannons trajectory#COL(1)!
 !FILE:ev6000.cnut
-レアカード07G|「ソウル＆ブラックｅスター」|ＧＥＴ！=
+レアカード07G|「ソウル＆ブラックｅスター」|ＧＥＴ！=Rare Card 07G 'Soul & BlackｅStar' obtained!
 !FILE:ev6001.cnut
-レアカード08G|「キッド＆トンプソン姉妹」|ＧＥＴ！=
+レアカード08G|「キッド＆トンプソン姉妹」|ＧＥＴ！=Rare Card 08G 'Kid & Thompson Sisters' obtained!
 !FILE:ev6002.cnut
-レアカード09G|「シュタイン＆デスサイズ」|ＧＥＴ！=
+レアカード09G|「シュタイン＆デスサイズ」|ＧＥＴ！=Rare Card 09G 'Stein & Death Scythe' obtained!
 !FILE:ev6003.cnut
-レアカード11G|「マカ＝アルバーン」|ＧＥＴ！=
+レアカード11G|「マカ＝アルバーン」|ＧＥＴ！=Rare Card 11G 'Maka Albarn' obtained!
 !FILE:ev6004.cnut
-レアカード12G|「ソウル＝イーター」|ＧＥＴ！=
+レアカード12G|「ソウル＝イーター」|ＧＥＴ！=Rare Card 12G 'Soul Eater' obtained!
 !FILE:ev6005.cnut
-レアカード13G|「ブラックｅスター」|ＧＥＴ！=
+レアカード13G|「ブラックｅスター」|ＧＥＴ！=Rare Card 13G 'BlackｅStar' obtained!
 !FILE:ev6006.cnut
-レアカード14G|「中務椿」|ＧＥＴ！=
+レアカード14G|「中務椿」|ＧＥＴ！=Rare Card 14G 'Nakatsukasa Tsubaki' obtained!
 !FILE:ev6007.cnut
-ノーマルカード16|「マカ＝アルバーン」|ＧＥＴ！=
+ノーマルカード16|「マカ＝アルバーン」|ＧＥＴ！=Normal Card 16 'Maka Albarn' obtained!
 !FILE:ev6008.cnut
-ノーマルカード17|「マカ＝アルバーン」|ＧＥＴ！=
+ノーマルカード17|「マカ＝アルバーン」|ＧＥＴ！=Normal Card 17 'Maka Albarn' obtained!
 !FILE:ev6009.cnut
-ノーマルカード19|「ソウル＝イーター」|ＧＥＴ！=
+ノーマルカード19|「ソウル＝イーター」|ＧＥＴ！=Normal Card 19 'Soul Eater' obtained!
 !FILE:ev6010.cnut
-ノーマルカード20|「ソウル＝イーター」|ＧＥＴ！=
+ノーマルカード20|「ソウル＝イーター」|ＧＥＴ！=Normal Card 20 'Soul Eater' obtained!
 !FILE:ev6011.cnut
-ノーマルカード23|「ブラックｅスター」|ＧＥＴ！=
+ノーマルカード23|「ブラックｅスター」|ＧＥＴ！=Normal Card 23 'BlackｅStar' obtained!
 !FILE:ev6012.cnut
-ノーマルカード24|「ブラックｅスター」|ＧＥＴ！=
+ノーマルカード24|「ブラックｅスター」|ＧＥＴ！=Normal Card 24 'BlackｅStar' obtained!
 !FILE:ev6013.cnut
-ノーマルカード25|「中務椿」|ＧＥＴ！=
+ノーマルカード25|「中務椿」|ＧＥＴ！=Normal Card 25 'Nakatsukasa Tsubaki' obtained!
 !FILE:ev6014.cnut
-ノーマルカード28|「デス・ザ・キッド」|ＧＥＴ！=
+ノーマルカード28|「デス・ザ・キッド」|ＧＥＴ！=Normal Card 28 'Death The Kid' obtained!
 !FILE:ev6015.cnut
-ノーマルカード29|「デス・ザ・キッド」|ＧＥＴ！=
+ノーマルカード29|「デス・ザ・キッド」|ＧＥＴ！=Normal Card 29 'Death The Kid' obtained!
 !FILE:ev6016.cnut
-ノーマルカード30|「リズ・トンプソン」|ＧＥＴ！=
+ノーマルカード30|「リズ・トンプソン」|ＧＥＴ！=Normal Card 30 'Liz Thompson' obtained!
 !FILE:ev6017.cnut
-ノーマルカード31|「パティ・トンプソン」|ＧＥＴ！=
+ノーマルカード31|「パティ・トンプソン」|ＧＥＴ！=Normal Card 31 'Patty Thompson' obtained!
 !FILE:ev6018.cnut
-ノーマルカード41|「シド・バレット」|ＧＥＴ！=
+ノーマルカード41|「シド・バレット」|ＧＥＴ！=Normal Card 41 'Sid Barrett' obtained!
 !FILE:ev6019.cnut
-ノーマルカード42|「メデューサ先生」|ＧＥＴ！=
+ノーマルカード42|「メデューサ先生」|ＧＥＴ！=Normal Card 42 'Professor Medusa' obtained!
 !FILE:ev6020.cnut
-ノーマルカード43|「メデューサ」|ＧＥＴ！=
+ノーマルカード43|「メデューサ」|ＧＥＴ！=Normal Card 43 'Medusa' obtained!
 !FILE:ev6021.cnut
-ノーマルカード44|「メデューサ」|ＧＥＴ！=
+ノーマルカード44|「メデューサ」|ＧＥＴ！=Normal Card 44 'Medusa' obtained!
 !FILE:ev6022.cnut
-ノーマルカード45|「クロナ」|ＧＥＴ！=
+ノーマルカード45|「クロナ」|ＧＥＴ！=Normal Card 45 'Crona' obtained!
 !FILE:ev6023.cnut
-ノーマルカード46|「クロナ」|ＧＥＴ！=
+ノーマルカード46|「クロナ」|ＧＥＴ！=Normal Card 46 'Crona' obtained!
 !FILE:ev6024.cnut
-ノーマルカード47|「ラグナロク」|ＧＥＴ！=
+ノーマルカード47|「ラグナロク」|ＧＥＴ！=Normal Card 47 'Ragnarok' obtained!
 !FILE:ev6025.cnut
-ノーマルカード50|「ソウル＆マカ」|ＧＥＴ！=
+ノーマルカード50|「ソウル＆マカ」|ＧＥＴ！=Normal Card 50 'Soul & Maka' obtained!
 !FILE:ev6026.cnut
-ノーマルカード51|「ブラックｅスター＆椿」|ＧＥＴ！=
+ノーマルカード51|「ブラックｅスター＆椿」|ＧＥＴ！=Normal Card 51 'BlackｅStar & Tsubaki' obtained!
 !FILE:ev6027.cnut
-ノーマルカード55|「ソウル＆ブラックｅスター」|ＧＥＴ！=
+ノーマルカード55|「ソウル＆ブラックｅスター」|ＧＥＴ！=Normal Card 55 'Soul & BlackｅStar' obtained!
 !FILE:ev6028.cnut
-ノーマルカード56|「クロナ＆ラグナロク」|ＧＥＴ！=
+ノーマルカード56|「クロナ＆ラグナロク」|ＧＥＴ！=Normal Card 56 'Crona & Ragnarok' obtained!
 !FILE:ev6029.cnut
-ノーマルカード58|「ブラックｅスター＆キッド」|ＧＥＴ！=
+ノーマルカード58|「ブラックｅスター＆キッド」|ＧＥＴ！=Normal Card 58 'BlackｅStar & Kid' obtained!
 !FILE:ev6030.cnut
-ノーマルカード59|「ブラックｅスター＆椿」|ＧＥＴ！=
+ノーマルカード59|「ブラックｅスター＆椿」|ＧＥＴ！=Normal Card 59 'BlackｅStar & Tsubaki' obtained!
 !FILE:ev6031.cnut
-ブレイズレアカードA01|「ソウル＆マカ」|ＧＥＴ！=
-じゃ、一緒に戻りましょう。=
+ブレイズレアカードA01|「ソウル＆マカ」|ＧＥＴ！=Blaze Rare Card A01 'Soul & Maka' obtained!
+じゃ、一緒に戻りましょう。=Let's go back.
 !FILE:ev6032.cnut
-ブレイズレアカードA02|「ブラックｅスター＆椿」|ＧＥＴ！=
+ブレイズレアカードA02|「ブラックｅスター＆椿」|ＧＥＴ！=Blaze Rare Card A02 'BlackｅStar & Tsubaki' obtained!
 !FILE:ev6033.cnut
-ノーマルカード３８|「フランケン・シュタイン博士」|ＧＥＴ！=
+ノーマルカード３８|「フランケン・シュタイン博士」|ＧＥＴ！=Normal Card 38 'Dr. Franken Stein' obtained!
 じゃ、一緒に戻りましょう。=
 !FILE:ev6034.cnut
-ノーマルカード３９|「フランケン・シュタイン博士」|ＧＥＴ！=
+ノーマルカード３９|「フランケン・シュタイン博士」|ＧＥＴ！=Normal Card 39 'Dr. Franken Stein' obtained!
 !FILE:ev6035.cnut
-レアカード03S|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=
+レアカード03S|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=Rare Card 03S 'Maka & Soul VS BlackｅStar & Tsubaki' obtained!
 !FILE:ev6036.cnut
-レアカード04S|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=
+レアカード04S|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=Rare Card 04S 'Maka & Soul VS Kid & Thompson Sisters' obtained!
 !FILE:ev6037.cnut
-レアカード05S|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=
+レアカード05S|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=Rare Card 05S 'Soul, BlackｅStar & Kid' obtained!
 !FILE:ev6038.cnut
-レアカード06S|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=
+レアカード06S|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 06S 'Maka, Tsubaki & Thompson Sisters' obtained!
 !FILE:ev6039.cnut
-レアカード07S|「ソウル＆ブラックｅスター」|ＧＥＴ！=
+レアカード07S|「ソウル＆ブラックｅスター」|ＧＥＴ！=Rare Card 07S 'Soul & BlackｅStar' obtained!
 !FILE:ev6040.cnut
-レアカード08S|「キッド＆トンプソン姉妹」|ＧＥＴ！=
+レアカード08S|「キッド＆トンプソン姉妹」|ＧＥＴ！=Rare Card 08S 'Kid & Thompson Sisters' obtained!
 !FILE:ev6041.cnut
-レアカード09S|「シュタイン＆デスサイズ」|ＧＥＴ！=
+レアカード09S|「シュタイン＆デスサイズ」|ＧＥＴ！=Rare Card 09S 'Stein & Death Scythe' obtained!
 !FILE:ev6042.cnut
-レアカード10S|「ブレア」|ＧＥＴ！=
+レアカード10S|「ブレア」|ＧＥＴ！=Rare Card 10S 'Blair' obtained!
 !FILE:ev6043.cnut
-レアカード11S|「マカ＝アルバーン」|ＧＥＴ！=
+レアカード11S|「マカ＝アルバーン」|ＧＥＴ！=Rare Card 11S 'Maka Albarn' obtained!
 !FILE:ev6044.cnut
-レアカード12S|「ソウル＝イーター」|ＧＥＴ！=
+レアカード12S|「ソウル＝イーター」|ＧＥＴ！=Rare Card 12S 'Soul Eater' obtained!
 !FILE:ev6045.cnut
-レアカード13S|「ブラックｅスター」|ＧＥＴ！=
+レアカード13S|「ブラックｅスター」|ＧＥＴ！=Rare Card 13S 'BlackｅStar' obtained!
 !FILE:ev6046.cnut
-レアカード14S|「中務椿」|ＧＥＴ！=
+レアカード14S|「中務椿」|ＧＥＴ！=Rare Card 14S 'Nakatsukasa Tsubaki' obtained!
 !FILE:ev6047.cnut
-レアカード15S|「ブレア」|ＧＥＴ！=
+レアカード15S|「ブレア」|ＧＥＴ！=Rare Card 15S 'Blair' obtained!
 !FILE:ev6048.cnut
-レアカード03G|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=
+レアカード03G|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=Rare Card 03G 'Maka & Soul VS BlackｅStar & Tsubaki' obtained!
 !FILE:ev6049.cnut
-レアカード04G|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=
+レアカード04G|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=Rare Card 04G 'Maka & Soul VS Kid & Thompson Sisters' obtained!
 !FILE:ev6050.cnut
-レアカード05G|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=
+レアカード05G|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=Rare Card 05G 'Soul, BlackｅStar & Kid' obtained!
 !FILE:ev6051.cnut
-レアカード06G|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=
+レアカード06G|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 05G 'Maka, Tsubaki & Thompson Sisters' obtained!
 !FILE:ev6052.cnut
-レアカード10G|「ブレア」|ＧＥＴ！=
+レアカード10G|「ブレア」|ＧＥＴ！=Rare Card 10G 'Blair' obtained!
 !FILE:ev6053.cnut
-レアカード15G|「ブレア」|ＧＥＴ！=
+レアカード15G|「ブレア」|ＧＥＴ！=Rare Card 15G 'Blair' obtained!
 !FILE:ev6054.cnut
-ノーマルカード33|「ブレア」|ＧＥＴ！=
+ノーマルカード33|「ブレア」|ＧＥＴ！=Normal Card 33 'Blair' obtained!
 !FILE:ev6055.cnut
-ノーマルカード35|「死神様」|ＧＥＴ！=
+ノーマルカード35|「死神様」|ＧＥＴ！=Normal Card 35 'Lord Death' obtained!
 !FILE:ev6056.cnut
-ノーマルカード36|「デスサイズ」|ＧＥＴ！=
+ノーマルカード36|「デスサイズ」|ＧＥＴ！=Normal Card 36 'Death Scythe' obtained!
 !FILE:ev6057.cnut
-ブレイズレアカードB01|「ソウル＆マカ」|ＧＥＴ！=
+ブレイズレアカードB01|「ソウル＆マカ」|ＧＥＴ！=Blaze Rare Card B01 'Soul & Maka' obtained!
 !FILE:ev6058.cnut
-ブレイズレアカードB02|「ブラックｅスター＆椿」|ＧＥＴ！=
+ブレイズレアカードB02|「ブラックｅスター＆椿」|ＧＥＴ！=Blaze Rare Card B02 'BlackｅStar & Tsubaki' obtained!
 !FILE:ev6059.cnut
-ノーマルカード40|「シド・バレット」|ＧＥＴ！=
+ノーマルカード40|「シド・バレット」|ＧＥＴ！=Normal Card 40 'Sid Barrett' obtained!
 !FILE:ev6060.cnut
-ノーマルカード48|「ミフネ」|ＧＥＴ！=
+ノーマルカード48|「ミフネ」|ＧＥＴ！=Normal Card 48 'Mifune' obtained!
 !FILE:ev6061.cnut
-ノーマルカード52|「キッド＆トンプソン姉妹」|ＧＥＴ！=
+ノーマルカード52|「キッド＆トンプソン姉妹」|ＧＥＴ！=Normal Card 52 'Kid & Thompson Sisters' obtained!
 !FILE:ev6062.cnut
-ノーマルカード53|「ソウル＆マカ」|ＧＥＴ！=
+ノーマルカード53|「ソウル＆マカ」|ＧＥＴ！=Normal Card 53 'Soul & Maka' obtained!
 !FILE:ev6063.cnut
-ノーマルカード54|「ソウル＆マカ」|ＧＥＴ！=
+ノーマルカード54|「ソウル＆マカ」|ＧＥＴ！=Normal Card 54 'Soul & Maka' obtained!
 !FILE:ev6064.cnut
-ノーマルカード57|「ソウル＆ブラックｅスター」|ＧＥＴ！=
+ノーマルカード57|「ソウル＆ブラックｅスター」|ＧＥＴ！=Normal Card 57 'Soul & BlackｅStar' obtained!
 !FILE:ev6065.cnut
-ノーマルカード60|「キッド＆トンプソン姉妹」|ＧＥＴ！=
+ノーマルカード60|「キッド＆トンプソン姉妹」|ＧＥＴ！=Normal Card 60 'Kid & Thompson Sisters' obtained!
