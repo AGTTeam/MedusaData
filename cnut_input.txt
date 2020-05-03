@@ -189,16 +189,16 @@
 俺様って親切！！！=Aren't I just so considerate!
 【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki]|You idiot...|*Sigh*... I fear for our future.
 !FILE:ev0071.cnut
-ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=So this is 'The Ancient Ruins of Anubis'? Even the inside is quite impressive!
+ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=So these are 'The Ancient Ruins of Anubis'? Even the inside is quite impressive!
 やだなぁ～。|私こうゆう所、苦手だよォ～。=No way～ I hate places like this～
-ここに人々を襲う|鬼神の卵と化した魂の持ち主、|ミイラがいるわけだな。=Apparently the mummys inside these ruins have had their souls turned to Kishin Eggs, >>and they've been attacking people.
+ここに人々を襲う|鬼神の卵と化した魂の持ち主、|ミイラがいるわけだな。=Apparently the mummies inside these ruins have had their souls turned to Kishin Eggs, >>and they've been attacking people.
 ねェねェ、早く進もう♪=Hey, hey, let's hurry onwards♪
 …。=...
 ？|どうしたよ？キッド。=What's wrong, Kid?
 ん？|イヤ…気のせいかもしれんが…=Hm? Oh, it might just be my imagination, but...
 我が家の玄関の額縁が|少し右に傾いていた様な|気がしてな…。=I swear that the painting in the entrance to our home is tilted very slightly to the right...
 そんなこと|今はどーでもいいだろ！！！=Why are you thinking of something like that right now?!
-どうでもいいコトないだろ！？|クソ！ダメだ！！|確かめてくる！！=Because it's important, isn't it?! Damn it, I can't just let it go! I need to go back and check!
+どうでもいいコトないだろ！？|クソ！ダメだ！！|確かめてくる！！=Because it's important, isn't it?! Damn it, I can't just let it go!|I need to go back and check!
 待て！！待て！！|待て！！待て！！|神経質なのもたいがいにしろ！！=Wait! Wait a minute!! You're worrying over nothing!!
 あぁ～気になる…。=Ahhh... I can't stop thinking about it...
 行くぞ！！=We're continuing!!
@@ -208,12 +208,12 @@
 オイ！！まだ言うか！！|額縁の傾きなんか|帰ってから確かめろよ！！=Are you still going on about that?! You can check when we get back!
 お姉ちゃん、なんか聞こえるよ。|なんだろ？=Hey, sis, did you hear that?
 うぅ～…気味悪い…。=Mmm... I have a bad feeling...
-鬼神の卵と化した魂の持ち主か？=Could it be the one controlling the mummys in these ruins?
+鬼神の卵と化した魂の持ち主か？=Could it be the one controlling the mummies in these ruins?
 （ブツブツ…ブツブツ…）=(Mumble mumble...mumble mumble)
 ブツブツうるせェ～ぞォお|オラァー！！！=Hey, what are you whispering about?! Eh?!
 ね、ねぇ、ちょっと！！|あの棺おけから聞こえない！？=H-hey, isn't the sound coming from that coffin...?!
 きゃはは♪=Kyahaha♪
-さっさと銃に変身しろ！！|こいつの魂…もらうぞ！=Quick, change to weapon form! We're taking it's soul...!
+さっさと銃に変身しろ！！|こいつの魂…もらうぞ！=Quick, change to weapon form! We're taking its soul...!
 !FILE:ev0074.cnut
 さて、帰ろうぜ。=Now then, let's head home.
 今日も楽しかったね♪|お姉ちゃん！！=Today was fun, wasn't it, big sis?♪
@@ -260,7 +260,7 @@
 なぁ、マカ。何怒ってんだよ。=Hey now, what are you so mad about?
 別に。=Nothing.
 俺なんもしてないし。=I didn't do anything, you know.
-私たちこれから、|武器と職人の育成機関、|死神武器職人専門学校に行くの。=Going to the Death Weapon Meister Academy is suppose to help cultivate >>our relationship as Weapon and Meister.
+私たちこれから、|武器と職人の育成機関、|死神武器職人専門学校に行くの。=Going to the Death Weapon Meister Academy is supposed to help cultivate >>our relationship as Weapon and Meister.
 それがどうしたんだよ？=And?
 健全なる魂は、|健全なる精神と|健全なる肉体に宿る。=A sound soul dwells within a sound mind and a sound body.
 知らないの？=Don't you get it?
@@ -275,7 +275,7 @@
 あぁ…お前はそういう奴だよ。=Hehehe, of course you'd say something like that...
 …。=...
 うむ♪すばらしい！|さすが父上の学校。|みごとな左右対称だ。=Mm-hm♪ Absolutely beautiful! The perfect symmetry of this school is just brilliant.
-ずっとストリートで育ってきた|私ら姉妹が学校に通えるなんて♪|よかったね♪パティー。=As we've been raised on the streets, we never got to attend a school♪ >>I'm pretty excited, aren't you, Patty?♪
+ずっとストリートで育ってきた|私ら姉妹が学校に通えるなんて♪|よかったね♪パティー。=As we've been raised on the streets, we never got to attend a school♪ >>I'm pretty excited!|Aren't you, Patty?♪
 うん♪=Yeah♪
 おお！あんたらが|ウワサの息子さん一行？=Hey, you! Are you the rumored son of Lord Death?
 ん？校内の案内は|君がしてくれるのかな？=Oh? Are you here to act as my guide?
@@ -303,11 +303,11 @@
 で、死神様。用ってなんだ？=So then, what did you summon us for, sir?
 君たちに、ちとお願いしたい|ことがあってね。=Yes, well, I have a small request for you.
 ？=...?
-この前まで…君たちの担任だった|「シド先生」なんだけど…。=It's to do with your previous teacher, Sid...
-ゾンビ化して生徒を|襲ってるって話なんだよね～。=Apparently he's been turned into a zombie, and is attacking the students of the DWMA～
+この前まで…君たちの担任だった|「シド先生」なんだけど…。=It has to do with your previous teacher, Sid...
+ゾンビ化して生徒を|襲ってるって話なんだよね～。=Apparently he's been turned into a zombie, and he's attacking the students of the DWMA～
 けっこういい先生だったのに…。=But he was such a good teacher...
 確かに生前は、シブめのいい先生|だったんだけどね。=Indeed, he was a wonderful teacher back when he was still alive.
-ゾンビになってからは、|生徒を襲うはた迷惑な授業を|繰り広げちゃってるみたいでさ。=However, now, he's been holding his own classes and causing trouble >>by attacking the students, it seems.
+ゾンビになってからは、|生徒を襲うはた迷惑な授業を|繰り広げちゃってるみたいでさ。=However, now he's been holding his own classes and causing trouble >>by attacking the students, it seems.
 しかも、シド先生を|ゾンビ化させた何者かが裏で|手を引いてるのは確かだね。=Though, it's pretty obvious that someone's pulling Sid's strings behind the scenes. >>I'd like you to find out who that person is.
 Ｏ・Ｋ！まかせろよダンナ。|要するに、そいつらの魂を|とってくりゃいいんだな。=Leave it to us, sir! In other words, it's fine to take their soul, right?
 はい。そ・ゆ・こと。|ほんじゃまぁ、|協力してガンバッちに～♪=That's right! Do your best and work well together, OK?～♪
@@ -326,7 +326,7 @@
 コイツか。=So there he is.
 俺はあいさつを|かかさない男だった。=I was never the type of guy to pass on a proper greeting.
 なんで？シド先生！？=What? That's Sid?!
-ＫＩＬＬコーンカーンコーン♪|授業始めるぞ。=Ding dong ding DEATH♪ Class is about to begin.
+ＫＩＬＬコーンカーンコーン♪|授業始めるぞ。=Ding dong ding DEATH♪|Class is about to begin.
 いいだろう！！|久しぶりに見せてやる。|俺様の神がかった授業態度をな！=Alright then! It's been a while since we've seen each other, >>allow me to show you my flawless classroom manners!
 !FILE:ev0088.cnut
 シド先生、誰がシド先生を|ゾンビにしたんですか？=Sid, just who turned you into a zombie?
@@ -359,7 +359,7 @@
 ？=...?
 ヘラヘラ。|君たちを解体したくなった♪|実験を始めましょうか？=I'd just love to dissect your bodies♪ >>Come now, why don't we get this experiment started?
 !FILE:ev0091.cnut
-合格点をあげましょう。|授業おしまいで～す♪=Congratulations, you passed♪ This concludes your lesson♪
+合格点をあげましょう。|授業おしまいで～す♪=Congratulations, you passed♪|This concludes your lesson♪
 へっ？=Wha-?
 いやね…頼まれたんですよ。|死神様に。|君たちの課外授業をしてくれって。=You see, I was asked by Lord Death to give you guys an Extra lesson♪
 エェ！？=EH?!
@@ -384,10 +384,10 @@
 待て！！|トイレットペーパーの端を|三角に折り忘れたかもしれん…。=Wait!! I have a terrible feeling that I forgot to fold the toilet paper into a triangle...
 きゃははは♪=Kyahaha♪
 クソ…ダメだ…死のう…。=No way... I should just go die...
-大丈夫か！？ソイツ。=Is that guy OK...?
+大丈夫か！？ソイツ。=Is that guy ok...?
 イヤ…ダメだよ…かなり…。=Don't bother, he's beyond help.
 オイ、お前ら。|死神様が呼んでたぜ。=Everyone, Lord Death has summoned you.
-キッドも入ってきたことだし、|授業の流れについて|説明するってよ。=That includes you, Kid, Lord Death wants to explain how classes work at the academy.
+キッドも入ってきたことだし、|授業の流れについて|説明するってよ。=That includes you, Kid. Lord Death wants to explain how classes work at the academy.
 何ィ！？特別待遇か！|許せん！！=What?! That guy gets special treatment?! No fair!!
 そういえば、ちゃんとした説明|受けたことなかったかも。=Now that you mention it, we never received any explanation when we joined...
 そうだな…。=True...
@@ -417,7 +417,7 @@
 よく来たね。|ここが「課外授業受付」だよ。=So you've finally arrived. This here is the 'Mission Bulletin'.
 おばちゃん！早く課外授業|受けさせてくれ！=Hey old lady, hurry and give us a lesson already!
 待ちなよ。課外授業はみんなが|選んで決めるものだよ。|おばちゃんは決めないよ。=You must choose a lesson yourselves, it's not up to me.
-どこ見て決めりゃいいんだよ！？=And where are we suppose to find these lessons??
+どこ見て決めりゃいいんだよ！？=And where are we supposed to find these lessons??
 せっかちな子達だね。|ホラ、ここ。|おばちゃん横の掲示板を見なよ。=You kids sure are impatient. Here, take a look behind me at the Bulletin Board.
 五つの紙が貼ってある。=There are five pieces of paper hung up on the board...
 今は五つの課外授業から|選べるってことだよ。|受付は一つずつでお願いね。=You can select a lesson from those five options, >>however you can only accept one at a time.
@@ -425,10 +425,10 @@
 何言ってんだー！！|そんなこと俺様に限って、|あるわけないだろー！！=What are you saying! There's no way someone of my caliber could ever fail!!
 う、うん…。|そうかもしれないけど。=Y-yeah, sure...
 できるよ。|簡単にキャンセルできて、|再受付可能だよ。安心しな。=That's allowed, so don't worry. You can easily cancel a lesson and retry at another time.
-スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two Stamps, >>you go then find a Professor and take a Special Lesson.
+スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two Stamps, >>you can take a take a Special Lesson from a Professor.
 課外授業は、全部|受けられないんですか？=Are we allowed to take ALL of the Extra lessons?
 死神様課題を受ける前なら、|掲示板にあるものは、|いくつ受けてもかまわないよ。=You're free to do as many as you want, >>as long as you do it before you accept Lord Death's task.
-わかりました。|ありがとうございます。=Alright, I understand, thank you.
+わかりました。|ありがとうございます。=Alright, I understand.|Thank you.
 !FILE:ev0104.cnut
 どれを受けるんだい？=Which lesson will you take?
 「（課外授業名）」だね？=You've chosen 「（Extra Lesson Name）」?
@@ -444,10 +444,10 @@
 掃除だよ、掃除！|図書室の整理！！=Yes, to clean the library and organize the books!
 はぁ！？やだよ！！|めんどくせェ～。=Huh?! I don't wanna, that's so boring~
 この前、カンニングした罰だ。|後で見に来るからな、|しっかりやっとけよ！=This is punishment for cheating earlier. >>I'll return soon to check up on you, so you better get things done.
-チッ…ど～すんだよコレ…。=Hmph... How am I suppose to do all this...
+チッ…ど～すんだよコレ…。=Hmph... How am I supposed to do all this...
 （ガラガラ…）=(Rustle rustle...)
 キッド！？|お前、手伝いに来てくれたんか？=Kid?! Have you come to help out?!
-ん？|本を借りに来たんだ。=Huh? No? I've come to borrow a book.
+ん？|本を借りに来たんだ。=Huh? No? I'm here to borrow a book.
 …あ、これにしよう。=Oh, here it is.
 それなんだ？=What's that?
 “エクスカリバー”|聖剣と呼ばれてる|伝説の剣だそうだ…。=It's a book about a legendary holy sword known as 'Excalibur'...
@@ -544,13 +544,13 @@
 私初めてかも…|「パパに会いたい」って|思ったの…。=For the first time in my life, I find myself thinking "I'd rather see my father"...
 !FILE:ev0109.cnut
 なぁ、お前らに|俺様の華麗なる暗殺道の|心得を特別に教えてやろうか？=Shall I teach you my incredible assassination techniques?
-別に聞きたくねぇよ。=I don't particularly care to know.
+別に聞きたくねぇよ。=I don't particularly care.
 次の授業に遅れてしまう。|ここで油を売ってる暇はない。=We're gonna be late, this isn't the time to  be dawdling around.
 そうかそうか！！|やっぱり聞きたいよな！！|うん！うん！=Of course you wanna know! I knew it, it's obvious! Yup!
 …聞いてねぇし。=...I really don't.
 …俺は先に行くぞ。=...I'm going to class.
 待てよ！|俺一人にする気かよ。=Hey wait, you can't just leave me here!
-暗殺道其の一！！|闇にまぎれ…息を殺し…|目標のスキをうかがうべし！=Rule one of assassination! Sink into darkness... suppress your breathing... >>And don't forget to find the targets weak point!
+暗殺道其の一！！|闇にまぎれ…息を殺し…|目標のスキをうかがうべし！=Rule one of assassination! Sink into darkness... suppress your breathing... >>And don't forget to find the target's weak point!
 ブラックｅスター。|こんなところで何をしているの？=What are you doing here, BlackｅStar?
 …！！まさかあなた達…。=Could it be, you guys are here to-...
 こんなところ…？=Here...?
@@ -588,7 +588,7 @@
 もう帰るの？|寝てけばいいじゃないですか？=So soon? Shouldn't you rest up a bit?~
 俺、今でも時々思い出すんですよ|先輩の寝顔♪=Even now, I still remember your sleeping face oh so clearly♪
 【デスサイズ】|お前のそばで寝るわけ|ないだろ！！=[Death Scythe]|No way I'd sleep anywhere near you!!
-【デスサイズ】|お前と組んでた地獄の日々、|俺の寝てる間に人体実験…=[Death Scythe]|The days I spent as your partner were pure hell... >>Day after day, as I slept, you constantly experimented on me...
+【デスサイズ】|お前と組んでた地獄の日々、|俺の寝てる間に人体実験…=[Death Scythe]|The days I spent as your partner were pure hell...>>[Death Scythe]|Day after day, as I slept, you constantly experimented on me...
 【デスサイズ】|俺は忘れないからなァアア！！=[Death Scythe]|I can never forget such days!!
 （ガラガラ…ガシャン）=(Clatter... Crash!)
 ヘラヘラ…残念♪=Awww, that's too bad...♪
@@ -1083,7 +1083,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 「俺がバラす前に絶滅されたら|困るだろ！？」|とか、あの人メチャクチャだよ。=But he just exclaims "What if it goes extinct before I can dissect it?!", >>He's such a difficult person.
 …うん、そうね。=Yeah, you're right...
 …はぁ～…。=[Sigh...]
-（どうしよう…|こういう時、何て言ってフォロー|したらいいのかしら…？）=(What should I do...? What am I suppose to say...?)
+（どうしよう…|こういう時、何て言ってフォロー|したらいいのかしら…？）=(What should I do...? What am I supposed to say...?)
 !FILE:ev0206.cnut
 （今度の日曜日、|マカを買い物に誘おうかな。）=(It's Sunday today, maybe I'll invite Maka to do some shopping.)
 （問題は何て誘ったら、|付いてきてくれるかだよな？）=(The question is... How do I convince her to join me?)
@@ -1797,14 +1797,14 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(1)お～！行き止まり？=Oh? A dead end??
 いや、このくらいなら#COL(7)スケボー#COL(1)で|行けるよ。両岸の高さ同じだし。=Not at all, this is where a #COL(7)Skateboard#COL(1) comes in handy.
 !FILE:ev3049.cnut
-#COL(4)奈落#COL(1)とか、#COL(4)水の上#COL(1)とかでも、|#COL(4)段差#COL(1)に注意すれば、|どこでも行けちゃうね！=You can cross things like #COL(4)abyss#COL(1) and #COL(4)water#COL(1), as long as the #COL(4)path is even#COL(1).
+#COL(4)奈落#COL(1)とか、#COL(4)水の上#COL(1)とかでも、|#COL(4)段差#COL(1)に注意すれば、|どこでも行けちゃうね！=You can cross things like #COL(4)gaps#COL(1) or #COL(4)water#COL(1), as long as the #COL(4)path is even#COL(1).
 あと、#COL(4)戦闘回避#COL(1)にも有効だよ！=You can use it to #COL(4)avoid fighting#COL(1), too!
 !FILE:ev3050.cnut
 #COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-|#COL(4) Touch the overlapping Soul Icons
 #COL(1)キッド君！|敵いっぱいいるよ！=#COL(1)Kid! There are a lot of enemies!
 キッド！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=#COL(4)Touch the overlapping Soul Icons#COL(1) to enter #COL(7)Soul Resonance Mode#COL(1)!
 !FILE:ev3051.cnut
-#COL(7)～デス・キャノン～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Death Canon-|#COL(4) While in Soul Resonance Mode, draw a circle twice
+#COL(7)～デス・キャノン～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Death Cannon-|#COL(4) While in Soul Resonance Mode, draw a circle twice
 #COL(1)キッド！#COL(7)デス・キャノン#COL(1)で|敵を一気に片付けようぜ！=#COL(1)Use #COL(7)Death Cannon#COL(1) and take out the enemies in a single blast!
 #COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)デス・キャノン#COL(1)発動～！！=#COL(4)Draw a circle twice while in Soul Resonance Mode#COL(1) to activate #COL(7)Death Cannon#COL(1)!!~
 !FILE:ev3052.cnut
@@ -1826,7 +1826,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 よし！OKだな！=Alright! Looks good!
 この先、キャラチェンジしないと|先に進めなくなったり、|倒せねェ敵がいるかもしれねェ。=If you don't change characters often, you may not be able to continue forward, >>and there may be enemies you cannot defeat.
 誰でも、得意不得意はあるしな！|仲間は助け合って行こうぜ！=Everyone has their strengths and weaknesses! >>Use your friends strengths to continue moving onward!
-俺様にしかできないことは、|たーくさんあるしな！=There are quite a lot I can do, myself!
+俺様にしかできないことは、|たーくさんあるしな！=There's quite a lot I can do, myself!
 俺にだってある！=Me, too!
 うん！私にもある！|みんなでがんばろ！！|じゃあ、先に進むよ！=Same here! Let's do our best together and continue onward!
 !FILE:ev3064.cnut
