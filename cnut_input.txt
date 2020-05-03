@@ -44,18 +44,18 @@
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
 （ちゃぽん）=(Splash)
 （魂が集まってなくても、|ブラックｅスターとなら大丈夫。=(Even if we never gather enough souls, just being with BlackｅStar is enough.
-妖刀の中に入った時だって、|私を信じて見届けてくれた。）=(During the time I was inside the Uncanny Sword, he still believed in me.)
-（鬼神になる手前の兄と戦うのは|つらい戦いだったけど…、|ブラックｅスターがいたから…。=(Having him by my side helped me during that painful fight against my brother,>>who had turned into a Kishin right before my eyes...
+妖刀の中に入った時だって、|私を信じて見届けてくれた。）=During the time I was inside the Uncanny Sword, he still believed in me.)
+（鬼神になる手前の兄と戦うのは|つらい戦いだったけど…、|ブラックｅスターがいたから…。=(Having him by my side helped me during that painful fight against>>my brother, who had turned into a Kishin right before my eyes...
 私、これからもブラックｅスター|と前へ進んで行きたい…。）=I'd like to continue moving forward together with BlackｅStar...)
 オーイ！椿！！|お前が落としたちっちゃいタオル|届けにきてやったぞ～！=Hey, Tsubaki!! I brought the towel you dropped!~
-「キャー！！」=[Kyaa!!]
+「キャー！！」="Kyaa!!"
 何してんのよ！|ブラックｅスター！！=What are you doing here, BlackｅStar?!
 だから～！わざわざ|届けにきてやったんだよ！！=Like I said, I came here to return your towel!!
 俺様って親切！！！=Aren't I just so considerate!
-バカ…。|はぁ…先が思いやられるわ。=You idiot... [Sigh...] I fear for our future.
+バカ…。|はぁ…先が思いやられるわ。=You idiot...|Sigh... I fear for our future.
 !FILE:ev0051.cnut
 ソウル＝イーター…。|今回の犯人は複数。|人間じゃないみたい。=Soul Eater... There are a bunch of enemies this time, and they don't look human.
-ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=While I may be a scythe that takes on human form, ones shape isn't the problem...
+ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=While I may be a scythe that takes on human form, one's shape isn't the problem...
 問題なのは"魂"さ！！=The problem is their 'Soul'!!
 死神様から聞いた|「デス・シティー」の人々を襲う|犯人がこの近くにいるんだな。=Lord Death said that the enemies attacking the people of 'Death City' are nearby.
 鬼神の卵と化した魂、|いただくよ！=Let's help ourselves to these Kishin Eggs!
@@ -66,7 +66,7 @@
 ソウルがデスサイズになるのは、|まだまだ先だね。=We've still got a long way to go until you can become a Death Scythe...
 デスサイズになれば、|男のＣＯＯＬ度も上がるぜ！=Once I do, my coolness level will be off the charts!
 よし！死神様に現状報告しよ♪|え～と、デスルームの番号は…|４２−４２−５６４っと…。=Alright! We should report to Lord Death. Let's see, his number is 42-42-564, then...
-（プルルルプルルル…ガチャッ）=(Ring ring ring... click)
+（プルルルプルルル…ガチャッ）=(Ring... ring... ring... click)
 あ！ハロハロ死神様？|鎌職人のマカです。=Hello, Lord Death? This is Scythe-Meister Maka.
 やぁ！！マカちゃん！|元気？どうよ調子は？=Well, if it isn't Maka! How are you doing? Well, I presume?
 たった今、デス・シティーを|襲っていた鬼神の卵と化した魂を|持つ者を片付けたところです！=We've just finished taking care of the Kishen Eggs that were attacking Death City!
@@ -74,7 +74,7 @@
 エヘヘ♪=Teehee♪
 おい！ソウル＝イーター！！=Hey, Soul Eater!
 ああ！？なんだよ！！=Yeah!? What do you want?!
-俺のマカに手ェ出したら、|ブッ殺すからな！！|わかってんだろーな！タコスケ！=If you lay a hand on my Maka, I'll kill you, you got that, you idiot?!
+俺のマカに手ェ出したら、|ブッ殺すからな！！|わかってんだろーな！タコスケ！=If you lay a hand on my Maka, I'll kill you! You got that, you idiot?!
 パパ！！=Father!
 マカ！愛してるよｄ=I love you, Maka! ｄ
 私パパのこと父親だなんて、|思ってないから！！=I don't think of you like a father!
@@ -83,7 +83,7 @@
 はい！=Got it!
 期待してろよ死神様！！=Expect the best from us, Lord Death!!
 そんじゃバイバイ！！=Well then, farewell!
-それにしてもさ。=At any rate.
+それにしてもさ。=At any rate...
 ん？=Hm?
 ＣＯＯＬな俺に、|こんなちんちくりん女が、|似合うわけねェのにな！=A lanky girl like you really doesn't suit my cool image!
 ！！=!!
@@ -115,7 +115,7 @@
 暗殺者なのに、|目立ちたがり屋なんて…。=For an assassin, you sure are a show off...
 ホント俺ってＢＩＧだぜ！！=I'm just so big!
 そ、そうね…。|（今日も失敗だったけど…。）=Y-yeah, sure... (Though today was another failure...)
-ところで、ブラックｅスター。|そろそろ死神様へ|現状報告しなくちゃ。=By the way, Black☆Star, we should report back to Lord Death.
+ところで、ブラックｅスター。|そろそろ死神様へ|現状報告しなくちゃ。=By the way, BlackｅStar, we should report back to Lord Death.
 あぁ、そうだな！=Yeah, you're right!
 じゃあ、呼ぶね。=I'll call him.
 （ボン…モクモク）=(Poof... Fwoom fwoom)
@@ -126,7 +126,7 @@
 心配すんなってのダンナ！！|ちゃんと椿をダンナの武器に|してやっからさぁ～。=But don't worry, Sir! I'll make sure Tsubaki becomes a Scythe!
 本当にすみません。|一生かけても魂を集めますんで。=I apologize. Even if it takes a lifetime, we'll gather those souls.
 じゃあ、挑戦してみる？=Then, would you like to take on a challenge?
-今、君たちのいる町の近くに、|鬼神の卵と化した魂を持った、|ギャング一味がいるんだけど。=There's a Gangster family nearby who's souls have turned into Kishin Eggs.
+今、君たちのいる町の近くに、|鬼神の卵と化した魂を持った、|ギャング一味がいるんだけど。=There's a Gangster family nearby whose souls have turned into Kishin Eggs.
 そいつらが一斉に|「魔女アンジェラ」を狙って|大所帯で移動中みたいなんだよね。=The entire family is currently on the move, and they're going after a Witch called Angela.
 と言うことは！そこを狙えば、|鬼神の卵と化した魂と、|魔女の魂が同時に手に入る！？=Then that means, we can kill two birds with one stone by obtaining both Kishin Eggs >>and a Witch Soul at the same time?!
 そうと決まれば善は急げだぜ！|行くゾ、椿！！=Then the answer is obvious! Let's go, Tsubaki!!
@@ -136,7 +136,7 @@
 !FILE:ev0062.cnut
 ここが「シンデル魔城」か。=So this is Sindel Castle, huh?
 行くぜ、椿！=Let's go, Tsubaki!
-ちょっと…ブラックｅスター？=Hey, wait a minute, Black☆Star...
+ちょっと…ブラックｅスター？=Hey, wait a minute, BlackｅStar...
 んあ？=Hm?
 いきなり魔女と戦うなんて、|何か作戦でもあるの？=Shouldn't we come up with a battle plan, first? We're challenging a Witch, after all.
 ああ！！もちろん！！|まず俺のとーじょーシーンだがー=Of course!! The first scene'll be my shining appearance, and then-
@@ -162,7 +162,7 @@
 アンジェラ！！=Angela?!
 ミフネはまだ魔力の弱い|アンのことを人間から|守ってくれてるの！！=Mifune is protecting me from the humans, because my magic is still weak!
 だからミフネをいじめないれ！！=So don't bully him!!
-…こいつがアンジェラ…？=...You're Angela...?
+…こいつがアンジェラ…？=You're Angela...?
 俺の魂ならくれてやる！！=If you're after souls, then take mine, instead!!
 だがアンジェラを|殺すというのなら、|刀にちかって死守するぞ！！=But if you intend to kill Angela, then I will protect her with my life!!
 どうするの？=What should we do?
@@ -170,24 +170,24 @@
 カッコ悪すぎて|殺す気もなえちまったよ。=That's so uncool, I've lost all desire to fight.
 行こうぜ椿！夕飯の時間だ。=Let's go, Tsubaki! It's time for dinner.
 それに…、子供を斬ると|寝覚めが悪いしな。=Plus... I wouldn't be able to sleep at night knowing I cut down a kid.
-クス♪|はい♪=Hehe♪ Yes, Black☆Star♪
+クス♪|はい♪=Hehe♪ Yes, BlackｅStar♪
 ふっ。=Heh.
 !FILE:ev0065.cnut
-ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, Black☆Star. I'm going to go take a bath, now.
+ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, BlackｅStar. I'm going to go take a bath, now.
 おう。=Got it.
 （パサッ…）=(Rustle...)
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
 （ちゃぽん）=(Splash)
-【椿】|魂が集まってなくても、|ブラックｅスターとなら大丈夫。=[Tsubaki] | Even if we never gather enough souls, >>just being with Black☆Star is enough.
-【椿】|妖刀の中に入った時だって、|私を信じて見届けてくれた。=[Tsubaki] | During the time I was inside the Uncanny Sword, >>he still believed in me. 
-【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki] | Having him by my side helped me during that painful fight against my brother, >>who had turned into a Kishin right before my eyes...
-【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=[Tsubaki] I'd like to continue moving forward together with Black☆Star...
+【椿】|魂が集まってなくても、|ブラックｅスターとなら大丈夫。=[Tsubaki]|Even if we never gather enough souls, >>[Tsubaki]|just being with BlackｅStar is enough.
+【椿】|妖刀の中に入った時だって、|私を信じて見届けてくれた。=[Tsubaki]|During the time I was inside the Uncanny Sword, >>[Tsubaki]|he still believed in me.
+【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki]|Having him by my side helped me during that painful fight against>>[Tsubaki]|my brother, who had turned into a Kishin right before my eyes...
+【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=[Tsubaki] I'd like to continue moving forward together with BlackｅStar...
 オーイ！椿！！|お前が落としたちっちゃいタオル|届けにきてやったぞ～！=Hey, Tsubaki!! I brought the towel you dropped!~
-「キャー！！」=[Kyaa!!]
+「キャー！！」="Kyaa!!""
 何してんのよ！|ブラックｅスター！！=What are you doing?!
 だから～！わざわざ|届けにきてやったんだよ！！=Like I said, I came here to return your towel!!
 俺様って親切！！！=Aren't I just so considerate!
-【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki] | You idiot... [Sigh...] I fear for our future.
+【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki]|You idiot...|Sigh... I fear for our future.
 !FILE:ev0071.cnut
 ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=So this is 'The Ancient Ruins of Anubis'? Even the inside is quite impressive!
 やだなぁ～。|私こうゆう所、苦手だよォ～。=No way～ I hate places like this～
@@ -1128,7 +1128,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 大丈夫。|この二人の愛は永遠だ！！ってね。="It'll work out, their love will last through thick or thin!" Is what I believed.
 …。=...
 どうしたの？先輩。=What's wrong?
-え～と…その…お前は|知らないかもしれないけど…。=Um... You may not have heard, but... 
+え～と…その…お前は|知らないかもしれないけど…。=Um... You may not have heard, but...
 知ってる♪離婚したんでしょ。=Oh, I know♪ You two got divorced.
 …！！！！！|シュタイン、テメェー！！=...!!!!!! Stein, why you-!!!
 ヘラヘラ=Hah hah hah.
@@ -1350,7 +1350,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 負けるか！！=We won't lose to you!!
 いいわ。始めましょうか。=Have it your way.
 !FILE:ev0228.cnut
-アハハハハ。|おもしろいじゃない。=Hahahaha, how truly facinating. 
+アハハハハ。|おもしろいじゃない。=Hahahaha, how truly facinating.
 でも、もう間に合わないんじゃ|ないかしら？=However, you'll never make it in time.
 何だと！？=What?!
 仲間が先に向かっているの。|早く先へ行かないと|鬼神が復活しちゃうわよ♪=I've already sent my allies ahead. If you don't hurry, the Kishin will be revived♪
@@ -1632,7 +1632,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ノーマルカード３９|「フランケン・シュタイン博士」|ＧＥＴ！=Normal Card 39 'Professor Franken Stein' obtained!
 また頑張ってね。=Keep up the good work.
 ブレイズレアカードＡ０２|「ブラックｅスター＆椿」|ＧＥＴ！=Blaze Rare Card A02 'BlackｅStar & Tsubaki' obtained!
-君たちは根性があるね。|きっとイイコトと思いますよ。=You've got promise, kids. 
+君たちは根性があるね。|きっとイイコトと思いますよ。=You've got promise, kids.
 !FILE:ev1049.cnut
 あら。|また来たの？=Oh, you've returned?
 ああ、不本意ながらな。=Yeah, though reluctantly.
@@ -1717,7 +1717,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(4)敵を○で囲め#COL(1)ば、|#COL(7)鎖鎌を引っ掛けて|引き寄せ#COL(1)たりできるわ！=If you #COL(4)draw a circle over the enemy#COL(1), you can #COL(7)hook them and drag them#COL(1) towards you!
 !FILE:ev3023.cnut
 #COL(7)～黒ｅ星ビッグウエーブ～|#COL(4)引き寄せた敵に|上スライド（↑）=#COL(7)-BlackｅStar Big Wave-|#COL(4) Drag an enemy towards you, then slide the stylus upwards
-#COL(1)引き寄せた敵には、#COL(4)上スライド|#COL(1)で#COL(7)黒ｅ星ビッグウエーブ|#COL(1)が決めやすいわよ！=#COL(1)Once you've dragged an enemy towards you, #COL(4)draw a line upwards#COL(1) >>to perform #COL(7)Black Star Big Wave#COL(1)!
+#COL(1)引き寄せた敵には、#COL(4)上スライド|#COL(1)で#COL(7)黒ｅ星ビッグウエーブ|#COL(1)が決めやすいわよ！=#COL(1)Once you've dragged an enemy towards you, #COL(4)draw a line upwards#COL(1) >>to perform #COL(7)BlackｅStar Big Wave#COL(1)!
 !FILE:ev3024.cnut
 黒ｅ星ビッグウエーブは、|敵に大ダメージを与える技よ。=BlackｅStar Big Wave is a technique that deals out some big damage.
 でも、ＷＰの消耗は激しいから|気をつけてね。=However, it greatly depletes your WP, so be careful.
@@ -1730,7 +1730,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ブラックｅスター。|次のブロックへ|行きましょう！=Let's continue to the next block, BlackｅStar!
 !FILE:ev3027.cnut
 #COL(7)～鎖鎌投げ（アイテム）～|#COL(4)箱を○で囲む=#COL(7)-Chain Scythe Throw (Item)-|#COL(4) Draw a circle over the box
-#COL(1)ブラックｅスター、あの箱を見て。|#COL(4)箱を○で囲め#COL(1)ば、#COL(7)鎖鎌で|引き寄せる#COL(1)こともできるわ！=#COL(1)Black☆Star, look at that box. If you #COL(4)draw a circle#COL(1) over it, >>you can #COL(7)drag it#COL(1) towards you with Chain Scythe!
+#COL(1)ブラックｅスター、あの箱を見て。|#COL(4)箱を○で囲め#COL(1)ば、#COL(7)鎖鎌で|引き寄せる#COL(1)こともできるわ！=#COL(1)BlackｅStar, look at that box. If you #COL(4)draw a circle#COL(1) over it, >>you can #COL(7)drag it#COL(1) towards you with Chain Scythe!
 #COL(1)ブラックｅスターが|#COL(4)引き寄せ#COL(1)られるものには|#COL(4)青枠#COL(1)がついてるわ。=#COL(1)The items you're #COL(4)able to drag#COL(1) will be surrounded in a #COL(4)blue border#COL(1).
 !FILE:ev3028.cnut
 ん？|これ中に何か入ってるっぽいぞ！|クソ～！でも壊せねェ！！=Hm? It looks like there's something inside! But damn it, I can't open it!~
@@ -1745,10 +1745,10 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev3031.cnut
 #COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-|#COL(4) Touch the overlapping Soul Icons
 #COL(1)敵がたくさんいるわよ！|気をつけて！=#COL(1)There are a lot of enemies, be careful!
-ブラックｅスター！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)よ！=Black☆Star! If you #COL(4)touch the overlapping Soul Icons#COL(1), you can activate #COL(7)Soul Resonance#COL(1)!
+ブラックｅスター！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)よ！=BlackｅStar! If you #COL(4)touch the overlapping Soul Icons#COL(1), you can activate #COL(7)Soul Resonance#COL(1)!
 !FILE:ev3032.cnut
 #COL(7)～罠ｅ星～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Trap☆Star-|#COL(4) While in Soul Resonance Mode, draw a circle twice
-#COL(1)ブラックｅスター！#COL(7)罠ｅ星#COL(1)で|敵の動きを一定時間止めて、|一気に倒すわよ！=#COL(1)Black☆Star! Using #COL(7)Trap☆Star#COL(1) will temporarily stun the enemies, >>use that chance to take them down!
+#COL(1)ブラックｅスター！#COL(7)罠ｅ星#COL(1)で|敵の動きを一定時間止めて、|一気に倒すわよ！=#COL(1)BlackｅStar! Using #COL(7)Trap☆Star#COL(1) will temporarily stun the enemies, >>use that chance to take them down!
 #COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)罠ｅ星#COL(1)発動よ！！=While in #COL(4)Soul Resonance Mode, draw a circle twice in a row#COL(1) to activate #COL(7)Trap☆Star#COL(1)!
 !FILE:ev3033.cnut
 決まった！|敵の動きが止まったわ！|今のうちよ！=Now's our chance, the enemy has stopped moving!
@@ -1756,7 +1756,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ブラックｅスター。|ミフネはこの奥に|いるはずよ！=BlackｅStar! I'm sure Mifune's here!
 ああ。ミフネも魔女も、|俺様が|まとめてやっつけてやるぜ！=Yeah, I'll get both Mifune and the Witch in a single strike!
 !FILE:ev3035.cnut
-ブラックｅスター！|相手の攻撃パターンを見極めて|その隙に攻撃よ！=Black☆Star! Determine the opponents attack pattern and find a chance to strike!
+ブラックｅスター！|相手の攻撃パターンを見極めて|その隙に攻撃よ！=BlackｅStar! Determine the opponents attack pattern and find a chance to strike!
 ミフネの突きを３回かわすと|隙ができるみたい！|動きをよく見て！=After three attacks, Mifune will be open to attack! Watch carefully!
 !FILE:ev3036.cnut
 ミフネの来る方向を予測して、|攻撃をかわせば、|そこに隙ができるわ！=Predict Mifune's movements, once you exchange attacks, that's your chance to strike!
@@ -1764,7 +1764,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 あの衝撃波、すごい…。|でも、放った後に隙ができるわ！|かわしたらすぐ攻撃よ！=What an incredible shockwave... But the moment it releases a shot, >>that's you're chance to attack!
 !FILE:ev3038.cnut
 #COL(7)～鎖鎌投げ（移動）～|#COL(4)木を○で囲む=#COL(7)-Chain Scythe Throw (Movement)-|#COL(4) Draw a circle around the tree
-#COL(1)ブラックｅスター！|#COL(4)あの木を○で囲め#COL(1)ば、#COL(7)鎖鎌で|移動#COL(1)できそうよ！やってみて！=#COL(1)Black☆Star! If you #COL(4)draw a circle around that tree#COL(1), >>you can use #COL(7)Chain Scythe to move forward#COL(1)!
+#COL(1)ブラックｅスター！|#COL(4)あの木を○で囲め#COL(1)ば、#COL(7)鎖鎌で|移動#COL(1)できそうよ！やってみて！=#COL(1)BlackｅStar! If you #COL(4)draw a circle around that tree#COL(1), >>you can use #COL(7)Chain Scythe to move forward#COL(1)!
 #COL(1)ブラックｅスターが|#COL(4)引っ掛け#COL(1)られるものには|#COL(4)青枠#COL(1)がついてるわよ。=#COL(1)Any items you are able to #COL(4)use#COL(1) will be surrounded in a #COL(4)blue border#COL(1).
 !FILE:ev3040.cnut
 #COL(7)～単体射撃～|#COL(4)敵をタッチ=#COL(7)-Single Shot-|#COL(4) Touch the enemy
@@ -1850,7 +1850,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-#COL(4) | Touch the overlapping Soul Icons
 #COL(1)マカ！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=Maka! Touch the overlapping Soul Icons to activate Soul Resonance!
 !FILE:ev4004.cnut
-#COL(1)流石ね！|すごいわ、ブラックｅスター！=Amazing! Great job, Black☆Star!
+#COL(1)流石ね！|すごいわ、ブラックｅスター！=Amazing! Great job, BlackｅStar!
 !FILE:ev4005.cnut
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
 #COL(7)魂の共鳴中#COL(1)は、#COL(4)妖刀モード#COL(1)に|なって、妖刀で攻撃ができるの。|#COL(4)攻撃力、防御力がアップ#COL(1)するわ！=While in #COL(7)Soul Resonance Mode#COL(1), you enter #COL(4)Uncanny Sword Mode#COL(1) >>and are able to attack using the Uncanny Sword. >>You also gain an #COL(4)attack and defence boost#COL(1)!
