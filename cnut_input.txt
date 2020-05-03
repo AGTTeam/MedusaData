@@ -1852,8 +1852,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev4004.cnut
 #COL(1)流石ね！|すごいわ、ブラックｅスター！=Amazing! Great job, BlackｅStar!
 !FILE:ev4005.cnut
-#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
-#COL(7)魂の共鳴中#COL(1)は、#COL(4)妖刀モード#COL(1)に|なって、妖刀で攻撃ができるの。|#COL(4)攻撃力、防御力がアップ#COL(1)するわ！=While in #COL(7)Soul Resonance Mode#COL(1), you enter #COL(4)Uncanny Sword Mode#COL(1) >>and are able to attack using the Uncanny Sword. >>You also gain an #COL(4)attack and defence boost#COL(1)!
+#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defense Boost
+#COL(7)魂の共鳴中#COL(1)は、#COL(4)妖刀モード#COL(1)に|なって、妖刀で攻撃ができるの。|#COL(4)攻撃力、防御力がアップ#COL(1)するわ！=While in #COL(7)Soul Resonance Mode#COL(1), you enter #COL(4)Uncanny Sword Mode#COL(1) >>and are able to attack using the Uncanny Sword. >>You also gain an #COL(4)attack and defense boost#COL(1)!
 !FILE:ev4006.cnut
 #COL(1)よっしゃ！|いい感じだな、キッド！=You're doing great, Kid!
 !FILE:ev4007.cnut
@@ -1864,8 +1864,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(4)ＷＰゲージ#COL(1)がなくなったら|おわりー。自分で降りたい時は、|#COL(4)ＬボタンかＲボタン#COL(1)で降りれるよ。=Once your #COL(4)WP Gauge#COL(1) runs out, that's it! >>When you want to get off your board, press the #COL(4)L or R button#COL(1).
 #COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=#COL(1)While it is useful, it uses up your #COL(4)WP Gauge#COL(1) quickly, so use it wisely.
 !FILE:ev4009.cnut
-#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
-#COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するよ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defence#COL(1) are increased!
+#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defense Boost
+#COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するよ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defense#COL(1) are increased!
 !FILE:ev4010.cnut
 あちぃ～ぞ！コノヤロー！=That's hot!! You stupid flames!
 これじゃ、#COL(4)先に進めない#COL(1)な。=Looks like we can't continue forward.
@@ -1886,8 +1886,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(1)マカ！敵の攻撃は、|#COL(4)十字ボタンの同じ方向を|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press the #COL(4)+ button twice in the same direction#COL(1) to #COL(7)dodge#COL(1) an enemy!
 #COL(1)マカ！敵の攻撃は、|#COL(4)Ａ・Ｂ・Ｘ・Ｙの同じボタンを|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press any of the #COL(4)A B X Y buttons twice#COL(1) to #COL(7)dodge#COL(1) an enemy!
 !FILE:ev4014.cnut
-#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defence Boost
-#COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するぞ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defence#COL(1) are increased!
+#COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defense Boost
+#COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するぞ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defense#COL(1) are increased!
 !FILE:ev4015.cnut
 #COL(7)～デス・キャノン～|#COL(4)画面タッチで方向転換=#COL(7)-Death Cannon-|#COL(4) Touch the screen to change trajectory
 #COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=#COL(1)Once activated, #COL(4)touch the screen#COL(1) to #COL(4)change the cannons trajectory#COL(1)!
@@ -1996,7 +1996,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev6050.cnut
 レアカード05G|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=Rare Card 05G 'Soul, BlackｅStar & Kid' obtained!
 !FILE:ev6051.cnut
-レアカード06G|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 05G 'Maka, Tsubaki & Thompson Sisters' obtained!
+レアカード06G|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 06G 'Maka, Tsubaki & Thompson Sisters' obtained!
 !FILE:ev6052.cnut
 レアカード10G|「ブレア」|ＧＥＴ！=Rare Card 10G 'Blair' obtained!
 !FILE:ev6053.cnut
