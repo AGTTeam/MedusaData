@@ -1,4 +1,4 @@
-!FILE:ev0010.cnut
+﻿!FILE:ev0010.cnut
 ここが「シンデル魔城」か。=So this is Sindel Castle, huh?
 行くぜ、椿！=Let's go, Tsubaki!
 ちょっと…ブラックｅスター？=Hey, wait a minute, BlackｅStar...
@@ -1845,7 +1845,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(4)敵に下スライド#COL(1)で、|#COL(7)叩きつけ#COL(1)だ！=#COL(4)Slide downwards#COL(1) on the enemy to #COL(7)strike it#COL(1)!
 !FILE:ev4002.cnut
 #COL(7)～なぎ払い～|#COL(4)○を描く=#COL(7)-Full Sweep-|#COL(4)Draw a circle
-#COL(4)○を描け#COL(1)ば、|#COL(7)なぎ払い#COL(1)ができるぜ！=#COL(4)Draw a circle#COL(1) to #COL(7)Full Sweep#COL(1) the enemy!
+#COL(4)○を描け#COL(1)ば、|#COL(7)なぎ払い#COL(1)ができるぜ！=#COL(4)Draw a circle#COL(1) to #COL(7)mow down#COL(1) the enemy!
 !FILE:ev4003.cnut
 #COL(7)～魂の共鳴～|#COL(4)重なった魂アイコンをタッチ=#COL(7)-Soul Resonance-#COL(4) | Touch the overlapping Soul Icons
 #COL(1)マカ！|#COL(4)重なった魂アイコンをタッチ#COL(1)して、|#COL(7)魂の共鳴#COL(1)だ！=Maka! Touch the overlapping Soul Icons to activate Soul Resonance!
@@ -1964,17 +1964,17 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev6034.cnut
 ノーマルカード３９|「フランケン・シュタイン博士」|ＧＥＴ！=Normal Card 39 'Dr. Franken Stein' obtained!
 !FILE:ev6035.cnut
-レアカード03S|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=Rare Card 03S 'Maka & Soul VS BlackｅStar & Tsubaki' obtained!
+レアカード03S|「マカ＆ソウルＶＳ|ブラックｅスター＆椿」ＧＥＴ！=Rare Card 03S 'Maka VS BlackｅStar' obtained!
 !FILE:ev6036.cnut
-レアカード04S|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=Rare Card 04S 'Maka & Soul VS Kid & Thompson Sisters' obtained!
+レアカード04S|「マカ＆ソウルＶＳ|キッド＆トンプソン姉妹」ＧＥＴ！=Rare Card 04S 'Maka VS Kid' obtained!
 !FILE:ev6037.cnut
 レアカード05S|「ソウル＆ブラックｅスター|＆キッド」ＧＥＴ！=Rare Card 05S 'Soul, BlackｅStar & Kid' obtained!
 !FILE:ev6038.cnut
-レアカード06S|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 06S 'Maka, Tsubaki & Thompson Sisters' obtained!
+レアカード06S|「マカ＆椿＆トンプソン姉妹」|ＧＥＴ！=Rare Card 06S 'Maka, Tsubaki, Liz & Patty' obtained!
 !FILE:ev6039.cnut
 レアカード07S|「ソウル＆ブラックｅスター」|ＧＥＴ！=Rare Card 07S 'Soul & BlackｅStar' obtained!
 !FILE:ev6040.cnut
-レアカード08S|「キッド＆トンプソン姉妹」|ＧＥＴ！=Rare Card 08S 'Kid & Thompson Sisters' obtained!
+レアカード08S|「キッド＆トンプソン姉妹」|ＧＥＴ！=Rare Card 08S 'Kid, Liz & Patty' obtained!
 !FILE:ev6041.cnut
 レアカード09S|「シュタイン＆デスサイズ」|ＧＥＴ！=Rare Card 09S 'Stein & Death Scythe' obtained!
 !FILE:ev6042.cnut
