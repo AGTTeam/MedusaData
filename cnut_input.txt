@@ -52,7 +52,7 @@
 何してんのよ！|ブラックｅスター！！=What are you doing here, BlackｅStar?!
 だから～！わざわざ|届けにきてやったんだよ！！=Like I said, I came here to return your towel!!
 俺様って親切！！！=Aren't I just so considerate!
-バカ…。|はぁ…先が思いやられるわ。=You idiot...|Sigh... I fear for our future.
+バカ…。|はぁ…先が思いやられるわ。=You idiot...|*Sigh*... I fear for our future.
 !FILE:ev0051.cnut
 ソウル＝イーター…。|今回の犯人は複数。|人間じゃないみたい。=Soul Eater... There are a bunch of enemies this time, and they don't look human.
 ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=While I may be a scythe that takes on human form, one's shape isn't the problem...
@@ -69,7 +69,7 @@
 （プルルルプルルル…ガチャッ）=(Ring... ring... ring... click)
 あ！ハロハロ死神様？|鎌職人のマカです。=Hello, Lord Death? This is Scythe-Meister Maka.
 やぁ！！マカちゃん！|元気？どうよ調子は？=Well, if it isn't Maka! How are you doing? Well, I presume?
-たった今、デス・シティーを|襲っていた鬼神の卵と化した魂を|持つ者を片付けたところです！=We've just finished taking care of the Kishen Eggs that were attacking Death City!
+たった今、デス・シティーを|襲っていた鬼神の卵と化した魂を|持つ者を片付けたところです！=We've just finished taking care of the Kishin Eggs that were attacking Death City!
 やや！おつかれさ～ん。|マカちゃんはホントお母さんに|似て、りっぱな鎌職人だね♪=Wow! Great job! You really are a great Scythe-Meister, just like your mother was♪
 エヘヘ♪=Teehee♪
 おい！ソウル＝イーター！！=Hey, Soul Eater!
@@ -78,7 +78,7 @@
 パパ！！=Father!
 マカ！愛してるよｄ=I love you, Maka! ｄ
 私パパのこと父親だなんて、|思ってないから！！=I don't think of you like a father!
-【デスサイズ】|マカーーーー…。=[Death Scythe] | Makaaa...
+【デスサイズ】|マカーーーー…。=[Death Scythe]|Makaaa...
 まぁ…家庭の事情は置いといて、|順調そうだし、|このままがんばってよ。=Well, leaving family matters aside... You're doing well, please continue as you are.
 はい！=Got it!
 期待してろよ死神様！！=Expect the best from us, Lord Death!!
@@ -87,13 +87,13 @@
 ん？=Hm?
 ＣＯＯＬな俺に、|こんなちんちくりん女が、|似合うわけねェのにな！=A lanky girl like you really doesn't suit my cool image!
 ！！=!!
-【マカ】|…ソウルのバカァー！！=[Maka] | ...Soul, you idiot!
+【マカ】|…ソウルのバカァー！！=[Maka]|...Soul, you idiot!
 （ゴッ）=(Whack)
 ぐはっ！！=Gwah!!
 （ガシャァーーン）=(Crash!)
-【ブレア】|…？=[Blair] | ...?
-【ソウル】|は…はだかぁア！！=[Soul] | N...naked!?!
-【ブレア】|ソウル君、|いっしょにオフロ入るの～？=[Blair] | Oh, Soul. Did you come to bathe with me?～
+【ブレア】|…？=[Blair]|...?
+【ソウル】|は…はだかぁア！！=[Soul]|N...naked!?!
+【ブレア】|ソウル君、|いっしょにオフロ入るの～？=[Blair]|Oh, Soul. Did you come to bathe with me?～
 んがぁあ！！=Ngyaaah!
 ちょっと！！|なにやってんのよ！？=Hey!! What are you doing?!
 なにって…|お前がふっ飛ばすからだろ！=What am 'I' doing? You're the one who sent me flying!
@@ -183,11 +183,11 @@
 【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki]|Having him by my side helped me during that painful fight against>>[Tsubaki]|my brother, who had turned into a Kishin right before my eyes...
 【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=[Tsubaki] I'd like to continue moving forward together with BlackｅStar...
 オーイ！椿！！|お前が落としたちっちゃいタオル|届けにきてやったぞ～！=Hey, Tsubaki!! I brought the towel you dropped!~
-「キャー！！」="Kyaa!!""
+「キャー！！」="Kyaa!!"
 何してんのよ！|ブラックｅスター！！=What are you doing?!
 だから～！わざわざ|届けにきてやったんだよ！！=Like I said, I came here to return your towel!!
 俺様って親切！！！=Aren't I just so considerate!
-【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki]|You idiot...|Sigh... I fear for our future.
+【椿】|バカ…。|はぁ…先が思いやられるわ。=[Tsubaki]|You idiot...|*Sigh*... I fear for our future.
 !FILE:ev0071.cnut
 ここが「古代遺跡アヌビス」かぁ。|うむ！中もすばらしい！=So this is 'The Ancient Ruins of Anubis'? Even the inside is quite impressive!
 やだなぁ～。|私こうゆう所、苦手だよォ～。=No way～ I hate places like this～
@@ -229,7 +229,7 @@
 なんで胸の大きさが|違うんだぁ！！=Why are your breast sizes so different?!
 悪かったな、妹より小さくて！！=Gee, I'm sorry for being smaller than my little sister!
 きゃはは♪=Kyahaha♪
-オイ！リズ、パティ！！|急いで脱出しないと、|生き埋めになってしまうぞ！=Liz! Patty! If we don't leave here now, we'll become mummys ourselves!
+オイ！リズ、パティ！！|急いで脱出しないと、|生き埋めになってしまうぞ！=Liz! Patty! If we don't leave here now, we'll become mummies ourselves!
 いっそげ～！！|きゃはははは♪=Hurry! Kyahaha♪
 !FILE:ev0075.cnut
 父上、終わりました。=Father, we've finished the job.
@@ -256,7 +256,7 @@
 マ…マカ…。=M-Maka...
 …。=...
 おはよ♪マカ。=Good morning, Maka♪
-【マカ】|ソウルのバカァー！！|朝からなにしてんのよ～！！=[Maka] | Soul, you idiot!! What do you think you're doing?!
+【マカ】|ソウルのバカァー！！|朝からなにしてんのよ～！！=[Maka]|Soul, you idiot!! What do you think you're doing?!
 なぁ、マカ。何怒ってんだよ。=Hey now, what are you so mad about?
 別に。=Nothing.
 俺なんもしてないし。=I didn't do anything, you know.
@@ -279,7 +279,7 @@
 うん♪=Yeah♪
 おお！あんたらが|ウワサの息子さん一行？=Hey, you! Are you the rumored son of Lord Death?
 ん？校内の案内は|君がしてくれるのかな？=Oh? Are you here to act as my guide?
-ヤイ！！死神の息子！！|俺はお前を暗殺する！！|しっかり見とけよ俺の暗殺術！！=Absolutely not!! I've come here to assassinate you! Behold, my assasination techniques!
+ヤイ！！死神の息子！！|俺はお前を暗殺する！！|しっかり見とけよ俺の暗殺術！！=Absolutely not!! I've come here to assassinate you! Behold, my assassination techniques!
 暗殺ってのは、|見られちゃダメだろ…。=Assassination? Then shouldn't you be hidden in the shadows...?
 ？=...?
 オイ、そこの新入生。|死神様が呼んでたぜ。=Hey you, new guy. Lord Death is asking for you.
@@ -376,7 +376,7 @@
 ぜったいにイヤ！！=NO WAY!!
 !FILE:ev0101.cnut
 あ～昨日はマジ疲れた。=I sure am tired today...
-私、博士に実験される夢みたわ…。=I had a nightmare that Dr. Stein experiemented on me...
+私、博士に実験される夢みたわ…。=I had a nightmare that Dr. Stein experimented on me...
 よう！マカとソウル。=Hey there, Maka, Soul!
 おはよう。=Good morning.
 ブラックｅスター、椿ちゃん、|おはよう♪=Good morning, BlackｅStar, Tsubaki♪
@@ -389,7 +389,7 @@
 オイ、お前ら。|死神様が呼んでたぜ。=Everyone, Lord Death has summoned you.
 キッドも入ってきたことだし、|授業の流れについて|説明するってよ。=That includes you, Kid, Lord Death wants to explain how classes work at the academy.
 何ィ！？特別待遇か！|許せん！！=What?! That guy gets special treatment?! No fair!!
-そういえば、ちゃんとした説明|受けたことなかったかも。=Now that you mention it, we never recieved any explanation when we joined...
+そういえば、ちゃんとした説明|受けたことなかったかも。=Now that you mention it, we never received any explanation when we joined...
 そうだな…。=True...
 とりあえず、|みんなで行きましょうか。=Alright now everyone, come on, let's go.
 うん♪=Okay♪
@@ -404,10 +404,10 @@
 じゃあ～授業の流れについて、|ちと説明するね。=Then allow me to explain how classes work at the DWMA.
 まず、みんなに受けてもらいたい|のは、課外授業。=First, you'll want to take up some extra lessons!
 死武専の「課外授業受付」に|行って課題の受付をしてね。=Now, to find those lessons, you must first visit the 'Mission Bulletin'
-各課外授業をクリアするごとに、|#COL(7)魂スタンプ#COL(1)が|一個もらえるからね♪=For each lesson you complete, you'll recieve a single #COL(7)Soul Stamp#COL(1)♪
+各課外授業をクリアするごとに、|#COL(7)魂スタンプ#COL(1)が|一個もらえるからね♪=For each lesson you complete, you'll receive a single #COL(7)Soul Stamp#COL(1)♪
 そのスタンプを二個集めると、|それと引き換えに|特別授業が受けられるよ～。=You can then exchange two of those Stamps in order to take Special Lessons~
 特別授業は、シュタイン博士、|シド先生、デスサイズ先生の|誰かから受けてね。=You are able to take Special Lessons from either Dr. Stein, >>Professor Sid, or Professor Death Scythe.
-特別授業をクリアすると、|今度は#COL(7)死神様シール#COL(1)が|一枚もらえるよ。=Once you pass a Special Lesson, you'll recieve a special #COL(7)Death Sticker#COL(1).
+特別授業をクリアすると、|今度は#COL(7)死神様シール#COL(1)が|一枚もらえるよ。=Once you pass a Special Lesson, you'll receive a special #COL(7)Death Sticker#COL(1).
 最後に、そのシール二枚と|引き換えに、|私からの特別課題を出すよ～♪=Finally, you can exchange two of those Stickers to receive a task from yours truly♪~
 余ったスタンプとシールは、|その時に一緒に回収するからね～。=When you accept a Special Assignment, >>I'll also collect any remaining Stamps and Stickers from you~
 ちょっと難しかった？|まぁ、わからなかったら～、|受付のおばちゃんに聞いてみて。=Got all that? Well, if not, you can easily visit the Mission Bulletin, >>they'll answer any questions you may have.
@@ -422,7 +422,7 @@
 五つの紙が貼ってある。=There are five pieces of paper hung up on the board...
 今は五つの課外授業から|選べるってことだよ。|受付は一つずつでお願いね。=You can select a lesson from those five options, >>however you can only accept one at a time.
 あの…受け付けた授業が|どうしてもできない場合、|他の授業に変更はできますか…？=Ummm... But what if we're unable to complete a lesson? >>Can we change to a different one...?
-何言ってんだー！！|そんなこと俺様に限って、|あるわけないだろー！！=What are you saying! There's no way someone of my calibur could ever fail!!
+何言ってんだー！！|そんなこと俺様に限って、|あるわけないだろー！！=What are you saying! There's no way someone of my caliber could ever fail!!
 う、うん…。|そうかもしれないけど。=Y-yeah, sure...
 できるよ。|簡単にキャンセルできて、|再受付可能だよ。安心しな。=That's allowed, so don't worry. You can easily cancel a lesson and retry at another time.
 スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two Stamps, >>you go then find a Professor and take a Special Lesson.
@@ -488,7 +488,7 @@
 私の伝説は|十二世紀から始まった！！|私の武勇伝が聞きたいか？=My legend begun during the 12th century! Would you like to hear the tale of my heroic saga!
 （ビッ）=(Flinch)
 俺様に杖を向けるな！！=Don't go pointing your staff at me like that!
-君たち、１から１２で|好きな数字は何だね？=What is your favourite number between 1 and 12?
+君たち、１から１２で|好きな数字は何だね？=What is your favorite number between 1 and 12?
 もちろん１だ！=Of course it's gotta be 1!
 ８だ！！８！=It's 8! 8 is the best!!
 バカめ！！君たちに|選択する権利はない！！=Foolish! You two have no right to choose!
@@ -550,7 +550,7 @@
 …聞いてねぇし。=...I really don't.
 …俺は先に行くぞ。=...I'm going to class.
 待てよ！|俺一人にする気かよ。=Hey wait, you can't just leave me here!
-暗殺道其の一！！|闇にまぎれ…息を殺し…|目標のスキをうかがうべし！=Rule one of assassination! Sink into darkness... surpress your breathing... >>And don't forget to find the targets weak point!
+暗殺道其の一！！|闇にまぎれ…息を殺し…|目標のスキをうかがうべし！=Rule one of assassination! Sink into darkness... suppress your breathing... >>And don't forget to find the targets weak point!
 ブラックｅスター。|こんなところで何をしているの？=What are you doing here, BlackｅStar?
 …！！まさかあなた達…。=Could it be, you guys are here to-...
 こんなところ…？=Here...?
@@ -602,7 +602,7 @@
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
 なんだよ。諦め早ェ～な～。|じゃあ、課外授業からやり直しな。=What's up with you, quitting so soon? You'll have to start again from the beginning.
-特別授業が終わったら、|死神様課題受けにいけよ～。=Once you've finished your special classes, you go recieve a task from Lord Death, you know?~
+特別授業が終わったら、|死神様課題受けにいけよ～。=Once you've finished your special classes, you go receive a task from Lord Death, you know?~
 !FILE:ev0113.cnut
 特別授業を受けにきたのか？=Did you come to do some Special Training?
 そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
@@ -612,7 +612,7 @@
 そうか。|まぁ、早く来いよ。=I see, come back some other time.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
 まぁ、構わないが、|課外授業からやり直しだからな！=That's fine! But you'll have to start from the beginning!
-特別授業が終わったら、|死神様課題受けにいくんだぞ。=Once you've finished your special classes, you go recieve a task from Lord Death.
+特別授業が終わったら、|死神様課題受けにいくんだぞ。=Once you've finished your special classes, you go receive a task from Lord Death.
 !FILE:ev0114.cnut
 特別授業を受けにきたんですか？=Did you come to do some Special Training?
 そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=Is that so? Good job with your Extra Lessons! I'll take two of those stamps if you don't mind.
@@ -650,12 +650,12 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0117.cnut
 がっはっは！むっあっはっは♪|ブレアちゃん、おかわり～！！=Gyahaha!! Ehehehe♪ I've returned, Blair!!~
 パパさんペース早いなぁ♪|パパさん、|今日はマカとうまくやれた？=You're so hasty, sir♪ So how was Maka, today?
-…。|うるうる。=... [Sob sob]
+…。|うるうる。=... *Sob sob*
 にゃ？=Meow?
 無視された…。|あの子パパが何をやっても|プンスカ怒るんだ。=She ignored me... No matter what I do, she just gets angry at me.
 クス♪マカったらかっわいっｄ|あ♪でもでもォ、先月に離婚も|正式に決まったコトだし、=Ah, Maka's so adorableｄ But your divorce will be finalized next month, right?
 気持ちを切り替えて、|新しい奥さん見つけちゃおう！！=Cheer up! Let's turn that frown upside down and find a new wife!!
-…そんな…|再婚なんて全然考えられないよ。|ぐすっ。=No way... I haven't even begun to consider remarrying... [Sob]
+…そんな…|再婚なんて全然考えられないよ。|ぐすっ。=No way... I haven't even begun to consider remarrying... *Sob*
 にゃはは♪ヘコませちゃった。=Myahaha♪ Oopsie, did I make things worse?
 !FILE:ev0118.cnut
 この教会…|何かヤナ感じがする。=This church... It gives me a bad feeling.
@@ -687,7 +687,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 この反応！！魔女か…！！=This presence... Could she be a witch?!
 あれがホンモノの魔女…。=She's a real life Witch...?
 【魔女メデューサ】|今日のところは|このへんにしておくわ。=[Witch Medusa]|Looks like we'll have to leave it at that for today.
-深追いはやめよう。|ソウルが心配だ…。=We don't have time to persue her, we need to take care of Soul...
+深追いはやめよう。|ソウルが心配だ…。=We don't have time to pursue her, we need to take care of Soul...
 はい。=You're right.
 !FILE:ev0121.cnut
 シュタイン博士。|どうなんですか？|ソウルは…。=Dr. Stein, is Soul alright...?
@@ -892,7 +892,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 （ぎゅっ、ぎゅっ、ぎゅっ）=(Squeeze... squeeze...)
 …作りすぎちゃったかな？=I wonder if I made too much...?
 ううん、二十七個だもん。|このくらい大丈夫よね。=...Nah, I think 27 should be just perfect.
-ブラックｅスター♪|夜食のおにぎり作って…=BlackｅStar♪ Dinner's ready, I made riceballs...
+ブラックｅスター♪|夜食のおにぎり作って…=BlackｅStar♪ Dinner's ready, I made rice balls...
 あれ？いない…。=Huh? He's gone...?
 …これはやりすぎたか？=Don't you think this is a little much...?
 じぃ～～。=Staaaare~
@@ -901,7 +901,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 教科書見てた～♪=We're looking at textbooks♪
 …カバーを見つめてどうする？|せめて、教科書を開け。=What do you intend on learning by staring at the covers? At least open the books...
 アハハ。私は…なんかまゆ毛が|気になっちゃって…。=Ahaha... My eyebrows were just bothering me, so...
-まゆを整えてたのか！？|右と左を揃えればいいのだな！！=You're trimming your eyebrows?! But what if the sides become uneaven?!
+まゆを整えてたのか！？|右と左を揃えればいいのだな！！=You're trimming your eyebrows?! But what if the sides become uneven?!
 俺にやらせてくれ！！=Let me do it for you!!
 やだよ！！|この前キッドにやらせたら、|一ヶ月かかっただろ！=No way! Last time I let you do it, it took a whole month!
 今度は手早くする！！頼む！！=I'll be quicker this time! So please!!
@@ -910,7 +910,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 コンセプトはどうする…？=What should I do about the concept...?
 そこまで立派なまゆ毛は|もってない…。=I don't have eyebrows that amazing...
 試験官のシドだ。|テストを始める前に一つ…|不正は行わないように！！=I, Sid, will be your examiner. However, before we start, I have one thing to say... >>I will not allow any cheating or foul play!!
-昨日シュタイン博士の研究所に|テストを盗みに行った|廊下に立っているバカのように！=Yesterday, we had a certain someone try to steal the test from Dr. Stein's labratory. >>Go stand in the hallway, you idiot!!
+昨日シュタイン博士の研究所に|テストを盗みに行った|廊下に立っているバカのように！=Yesterday, we had a certain someone try to steal the test from Dr. Stein's laboratory. >>Go stand in the hallway, you idiot!!
 ブラックｅスター…！？=BlackｅStar...?!
 試験時間は一時間！！=You will have one hour to complete the test!
 （ＫＩＬＬコーンカーンコーン）=(Ding dong ding DEATH)
@@ -1068,7 +1068,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 もちろんだっ！！！=Exactly!!
 おう！そうか！！俺は最高か！！=Yeah! You're right!! I AM the best!!
 あぁ！俺の次にな！=That's right! After me!
-男同士で手握り合って、|何やってんだ…あの二人。|ウザ…。=What are those two doing, shaking hands so vigarously... They're so noisy...
+男同士で手握り合って、|何やってんだ…あの二人。|ウザ…。=What are those two doing, shaking hands so vigorously... They're so noisy...
 きゃはは♪=Kyahaha♪
 !FILE:ev0205.cnut
 はぁ…。=[Sigh...]
@@ -1088,7 +1088,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 （今度の日曜日、|マカを買い物に誘おうかな。）=(It's Sunday today, maybe I'll invite Maka to do some shopping.)
 （問題は何て誘ったら、|付いてきてくれるかだよな？）=(The question is... How do I convince her to join me?)
 （「好きな本を買ってあげるｄ」|…これか？いや、でもそれは、|ワンパターンだし…。）=(Maybe... 'I'll buy you a new book!ｄ'... No, I've already tried that one...)
-（「かわいい洋服を買おうｄ」|これか！？…これだ！|マカと一緒に服選びか～ｄ）=(How about 'I'll buy you some cute clothes!ｄ'... >>That's it! I can help Maka choose some new clothes~ｄ
+（「かわいい洋服を買おうｄ」|これか！？…これだ！|マカと一緒に服選びか～ｄ）=(How about 'I'll buy you some cute clothes!ｄ'... >>That's it! I can help Maka choose some new clothes~ｄ)
 ムフッ。=Heehee.
 パパ…|一人で何ニヤニヤしてるの…？=Father... What are you doing mumbling to yourself...?
 マ、マカ！？=M-Maka?!
@@ -1096,7 +1096,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 …。|信じらんない！最低！！=...I can't believe you! You're just the worst!!
 【デスサイズ】|（最低…最低…最低…）=[Death Scythe]|(T-The worst...? I'm...?)
 【デスサイズ】|マ、マガァー！！！|ちがうんだぁーー！！！=[Death Scythe]|M-Maka!!! You've got the wrong idea!!
-【デスサイズ】|（…あ…娘が軽蔑したまなざしで|父親を見ている…。）=[Death Scythe]|(Ah... She's glaring at me so intensly...)
+【デスサイズ】|（…あ…娘が軽蔑したまなざしで|父親を見ている…。）=[Death Scythe]|(Ah... She's glaring at me so intensely...)
 【デスサイズ】|すいませんでした…。=[Death Scythe]|I'm sorry...
 …父親の威厳ゼロだな…。=You really have no dignity...
 !FILE:ev0207.cnut
@@ -1232,7 +1232,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 いや～まいったまいった…。|閉じ込められちゃったね～。=My my, this isn't good... We've been closed in...～
 すみません…。|ですが、シュタインとマカ達は|間一髪で地下へ潜ったはずです。=I apologize... >>However, it appears Stein, Maka and the others were able to escape underground.
 あとは彼らにたくすしかないね。=Let's leave the rest to them.
-ふー。こうなっては|隠すこともないかしら…。=[Sigh...] I suppose there's no point in hiding it now.
+ふー。こうなっては|隠すこともないかしら…。=*Sigh*... I suppose there's no point in hiding it now.
 ？=...?
 はいは～い…みなさん注目～…。|死武専の下に鬼神がいるよォ～。=Okay everyone! Your attention, please... >>There's a Kishin beneath the DWMA!～
 いや…|話ハショリ過ぎでしょう…。=I think you're being too concise...
@@ -1240,7 +1240,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 （ザワザワザワ…）=(Chatter chatter...)
 これはまだ死武専ができる前。|阿修羅という名の|男の物語であ～る～。=It happened before the DWMA was created. It's the story of a man named Asura.
 阿修羅は人を決して信じよう|とせず、決して心を許さない|さい疑心の塊のような人間だった。=He never trusted or confided in anyone. He was like a big ball of paranoia.
-阿修羅は死神八武衆の中でも|ダントツで最強。|だけど最強のビビリだった…。=Asura was a member of my personal squad. He was by far the best and strongest >>member of the Eight Guardians. However, he was always terrfied of something.
+阿修羅は死神八武衆の中でも|ダントツで最強。|だけど最強のビビリだった…。=Asura was a member of my personal squad. He was by far the best and strongest >>member of the Eight Guardians. However, he was always terrified of something.
 彼は力に執着して、|やがて普通の人の魂を|とり始めた…。=Obsessed with power, he began taking normal people's souls.
 これが狂気の始まり…|鬼神の誕生さ。=And thus it was born... The Kishin.
 ここが地下への入口です。|相手は強力。この先、生はんかな|覚悟では命を落とすでしょう。=This is the underground entrance. Our foe is powerful, >>If you're not fully prepared for what's ahead, you may lose your life.
@@ -1294,7 +1294,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ！！=!!
 ケタケタ。|♪=Teehee♪
 !FILE:ev0223.cnut
-【マカ】クロナと同じ狂気を|持った今なら、クロナと|魂の波長を合わせられる=[Maka]|Now that I have the same maddness as Crona, >>[Maka]|I can match our souls' wavelengths.
+【マカ】クロナと同じ狂気を|持った今なら、クロナと|魂の波長を合わせられる=[Maka]|Now that I have the same madness as Crona, >>[Maka]|I can match our souls' wavelengths.
 【マカ】これがクロナの魂…。|なんだろう。すごくかわいてる。|波長を感じる…。=[Maka]|This is Crona's soul... I'm not sure why, >>[Maka]|but I sense a very dry wavelength...
 【クロナ】どうすればいいのかな。|場所…僕のエリア。|線が引かれている…。=[Crona]|What should I do? This place is my area... The line is drawn...
 【マカ】|ガオー=[Maka]|Grrr!!
@@ -1328,7 +1328,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 …！！=...!!
 「まぁあああああぁぁぁ」|「ぴぎィええいやぁあああああ」="YAAAAAH"|"PIKYAAAAAAA"
 クロナー！！=Crona!!
-ふざけるなよ。|クロナは意識を失くした！！|今からこの体は俺のもんだぜ！！=Enough of this, Crona's already lost conciousness!! This is MY body now!
+ふざけるなよ。|クロナは意識を失くした！！|今からこの体は俺のもんだぜ！！=Enough of this, Crona's already lost consciousness!! This is MY body now!
 グワァッハッハッハッ|ギャーアハッハッハッ|力がみなぎるぜ～！！！=I'm positively overflowing with power! Gyahahaha!!
 !FILE:ev0226.cnut
 マカ。時間がない。|先へ急ぐぞ！=We can't waste any more time here, Maka. We need to hurry forward!
@@ -1359,7 +1359,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 【魔女メデューサ】|ネークスネークネークスネーク|ネークスネークコブラコブブラ…=[Medusa]|Nake Snake Nake Snake|Nake Snake Cobra Cobrabra...
 !FILE:ev0229.cnut
 （ゴゴゴゴゴゴゴゴゴゴ）=(Rumble rumble rumble...)
-…！|この狂気の波長は…|鬼神が復活した…！？=...?! This wavelength of maddness... The Kishin has been revived...?!
+…！|この狂気の波長は…|鬼神が復活した…！？=...?! This wavelength of madness... The Kishin has been revived...?!
 何…！？=What...?!
 …。何ということだ…。=How could this be...
 !FILE:ev0230.cnut
@@ -1459,7 +1459,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0607.cnut
 見つけたぜ！=Found it!
 !FILE:ev0608.cnut
-ターゲットを見つけたぜ！=Target aquired!
+ターゲットを見つけたぜ！=Target acquired!
 はい！=Got it!
 !FILE:ev0700.cnut
 くっ　オレじゃ壊せん¥¥¥=Hmph, I can't break this.¥¥¥
@@ -1485,7 +1485,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0707.cnut
 簡単だな=Easy.
 !FILE:ev0708.cnut
-ターゲット確認！=Target aquired!
+ターゲット確認！=Target acquired!
 行こうぜ！キッド！=Let's go, Kid!
 いっくよ～！=Yeah!
 !FILE:ev0750.cnut
@@ -1574,7 +1574,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 椿、どうした？=What's wrong?
 い、いえ。=N-nothing...
 そうか。=I see.
-（ブラックｅスター…|どうして廊下に落とすのよ～。|恥ずかしいじゃない～。）=(I can't believe BlackｅStar dropped this in the hallway... How embarassing...)
+（ブラックｅスター…|どうして廊下に落とすのよ～。|恥ずかしいじゃない～。）=(I can't believe BlackｅStar dropped this in the hallway... How embarrassing...)
 !FILE:ev1027.cnut
 忘れ物しちゃったよ～。|アレどこ置いたっけ～？=I forgot somthing, wonder where I left it?
 お姉ちゃん、お姉ちゃん。=Sis! Hey, sis!!
@@ -1583,7 +1583,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ノーマルカード２７|「デス・ザ・キッド」|ＧＥＴ！=Normal Card 27 'Death The Kid' obtained!
 プッ。|何だ？このキメ顔は。=Pfff what's with that smug expression??
 このキッド君、|すっごくキメてるよね♪=He's always making that sort of expression, isn't he?♪
-こういうの他人に見られると|なんか恥ずかしいよな！=I bet he'd be super embarassed if others saw this!
+こういうの他人に見られると|なんか恥ずかしいよな！=I bet he'd be super embarrassed if others saw this!
 お姉ちゃん、私達も撮ろうよ！=Hey sis, let's take our own photo!
 ？=Hm?
 撮ったらキッド君のと一緒に|置いとこ！そしたらキッド君、|さみしくないよね♪=We can take one and leave it with Kid's photo, that way he won't get lonely!♪
