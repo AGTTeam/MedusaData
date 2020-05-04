@@ -1,4 +1,4 @@
-#SPD(4)#ARW(2)大丈夫？#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Are you OK?#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()
+﻿#SPD(4)#ARW(2)大丈夫？#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Are you OK?#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)マカ！！#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Maka!!#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)ごみんに#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Sorry!#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)ソウル！！#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Soul!!#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()
@@ -18,7 +18,7 @@
 #SPD(4)#ARW(1)キッド君飛ばしすぎー#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Kid! You're going too far!#WAI(30)#CLR()#WAI(60)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)この程度なんともない！#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)This is nothing!#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)ちょっと、やばいかな…？#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)This is looking bad...#WAI(30)#CLR()#WAI(60)#CIN(0,2)#CLR()#ARW(0)#OUT()
-#SPD(4)#ARW(1)ゲップ#WAI(30)#CLR()#SPD(4)#ARW(2)やだ！！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Don't #WAI(30)#CLR()#SPD(4)#ARW(2)burp!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
+#SPD(4)#ARW(1)ゲップ#WAI(30)#CLR()#SPD(4)#ARW(2)やだ！！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Burp! #WAI(30)#CLR()#SPD(4)#ARW(2)Stop that!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)絶好調だぜ！#WAI(30)#CLR()#SPD(4)#ARW(1)いけるわ！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Things are going great!#WAI(30)#CLR()#SPD(4)#ARW(1)We can do it!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)このままいくぞ！#WAI(30)#CLR()#SPD(4)#ARW(2)うん！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Keep it up!#WAI(30)#CLR()#SPD(4)#ARW(2)Yeah!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)俺様最強！#WAI(30)#CLR()#SPD(4)#ARW(1)まったくもう…#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)I'm number one!#WAI(30)#CLR()#SPD(4)#ARW(1)Jeez...#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
@@ -89,7 +89,7 @@
 強制ミッション「フリーを倒せ！」=Compulsory Mission "Defeat Free!"
 強制ミッション「メデューサを倒せ」=Compulsory Mission "Defeat Medusa!"
 強制ミッション「シュタイン博士を倒せ！」=Compulsory Mission "Defeat Dr. Stein!"
-再挑戦してみる？=Retry?
+再挑戦してみる？=Try again?
 教会=Church
 ロンドン=London
 古代遺跡=Ancient Ruins
