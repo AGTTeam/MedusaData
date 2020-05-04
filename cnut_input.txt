@@ -631,11 +631,11 @@
 さて、今回の課題は…|「シュタイン博士とシド先生|を探せ！」だよ。=Now then, your Assignment will be... 'Search for Dr. Stein and Professor Sid!'
 ほんじゃ、ガンバっちに～♪=Now then, off you go! Good luck!♪
 !FILE:ev0116.cnut
-ミフネー！！|今日はわるいやつこない？=Mifune!!|Did any bad guys show up today?
-そうだな。=No, no one.
+ミフネー！！|今日はわるいやつこない？=Mifune!!|No bad guys showed up today, right?
+そうだな。=Yeah.
 じゃあ～！|アンとい～っぱいあそべるね♪=Then you can play with me, now!♪
 あぁ、そうだな。=Yeah, you're right.
-なにしてあそぶ？|アンはね、|かくれんぼがいいと思う！=What should we play? I wanna play hide-and-seek!
+なにしてあそぶ？|アンはね、|かくれんぼがいいと思う！=What should we play?|I know! Let's play hide-and-seek!
 じゃあじゃあ～、|アンがオニやるから|ミフネかくれて！今すぐ！=Okay! I'll be the seeker, so go hide, Mifune! Hurry!!
 あ…あぁ、わかった。=Yeah yeah, I know.
 ニヒヒ♪|いーち、にーい…=Hehehe♪ One... two...
