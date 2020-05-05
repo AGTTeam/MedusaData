@@ -55,7 +55,7 @@
 バカ…。|はぁ…先が思いやられるわ。=You idiot...|*Sigh*... I fear for our future.
 !FILE:ev0051.cnut
 ソウル＝イーター…。|今回の犯人は複数。|人間じゃないみたい。=Soul Eater... There are a bunch of enemies this time, and they don't look human.
-ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=Yeah... I may be a scythe that takes on human form, but looks aren’t the problem here...
+ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=Yeah... I may be a scythe that takes on human form, but looks aren't the problem here...
 問題なのは"魂"さ！！=The problem is their 'Soul'!!
 死神様から聞いた|「デス・シティー」の人々を襲う|犯人がこの近くにいるんだな。=Lord Death said that the enemies attacking the people of 'Death City' are nearby.
 鬼神の卵と化した魂、|いただくよ！=Let's help ourselves to these Kishin Eggs!
@@ -75,7 +75,7 @@
 おい！ソウル＝イーター！！=Hey, Soul Eater!
 ああ！？なんだよ！！=Yeah!? What do you want?!
 俺のマカに手ェ出したら、|ブッ殺すからな！！|わかってんだろーな！タコスケ！=If you lay a hand on my Maka, I'll kill you! You got that, you idiot?!
-パパ！！=Father!
+パパ！！=Papa!
 マカ！愛してるよｄ=Maka, your dad loves you! ｄ
 私パパのこと父親だなんて、|思ってないから！！=I don't think of you as being my father!
 【デスサイズ】|マカーーーー…。=[Death Scythe]|Makaaa...!
@@ -103,10 +103,10 @@
 ブレアは手をはなしなさい！！=Let go of him, Blair!
 や～ん。=I don't wanna～
 …。=...
-ホントに男って最低ね！！|ブレアがオフロ入ってるの|知ってて突っ込んだんでしょ？=Men really are the worst!|You charged in here knowing Blair was taking a bath, didn't you?!
+ホントに男って最低ね！！|ブレアがオフロ入ってるの|知ってて突っ込んだんでしょ？=Men really are the worst!|You charged in here knowing Blair was taking a bath didn't you?!
 はあ！？=What?!
 なになに～？=What's this?～
-ブレア、あんたネコでしょ！？|ネコはネコらしくいろ～！！=And Blair, you’re a cat, aren’t you!? You’re supposed to hate baths!!～
+ブレア、あんたネコでしょ！？|ネコはネコらしくいろ～！！=And Blair, you're a cat, aren't you!? You're supposed to hate baths!!～
 にゃは♪=Mrow♪
 じゃ…俺寝るから…。=That's it... I'm taking a nap...
 あ！|ソウル、逃げるなぁ～！！=Hey! Wait, don't leave! ...Soul!!
@@ -181,7 +181,7 @@
 【椿】|魂が集まってなくても、|ブラックｅスターとなら大丈夫。=[Tsubaki]|Even if we never gather enough souls, >>[Tsubaki]|just being with BlackｅStar is enough.
 【椿】|妖刀の中に入った時だって、|私を信じて見届けてくれた。=[Tsubaki]|During the time I was inside the Uncanny Sword, >>[Tsubaki]|he still believed in me.
 【椿】鬼神になる手前の兄と|戦うのはつらい戦いだったけど…、|ブラックｅスターがいたから…。=[Tsubaki]|Having him by my side helped me during that painful fight against>>[Tsubaki]|my brother, who had turned into a Kishin right before my eyes...
-【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=[Tsubaki] I'd like to continue moving forward together with BlackｅStar...
+【椿】私、これからも|ブラックｅスターと|前へ進んで行きたい…。=I'd like to continue moving forward together with BlackｅStar...
 オーイ！椿！！|お前が落としたちっちゃいタオル|届けにきてやったぞ～！=Hey, Tsubaki!! I brought the towel you dropped!~
 「キャー！！」="Kyaa!!"
 何してんのよ！|ブラックｅスター！！=What are you doing?!
@@ -347,7 +347,7 @@
 !FILE:ev0090.cnut
 着いたな！ツギハギ研究所。=We made it to the Patchwork Lab!
 研究所もつぎはぎかよ？=This place sure looks cobbled together, doesn't it?
-つぎはぎだらけだ～！|きゃははは♪=That's why it’s called the 'Patchwork' Lab!~ Hahaha♪
+つぎはぎだらけだ～！|きゃははは♪=That's why it's called the 'Patchwork' Lab!~ Hahaha♪
 悪趣味だな…。=Whoever made it sure has bad taste...
 …。|一体シュタイン博士って、|どんな奴なんだろ？=Just what kind of person could this Dr. Stein be...?
 何か用ですか？=Do you have business with me?
@@ -355,13 +355,13 @@
 お前の魂…食いに来た。=We've come here... to take your soul.
 あ～はいはい。|君たち死武専の生徒さんですね？=Ah I see!~ You guys must be students of the DWMA, correct?~
 あんたでしょ！？|死武専生を襲ってるのは！！|何かうらみでもあるの！？=You're the one who's been attacking students, aren't you?! >>Why?! Do you have a grudge against us?!
-別に…。|動機はいたってシンプル。|観察、研究…ただそれだけです。=Not really. My motivation is simple. Observation and research... that's all.
+別に…。|動機はいたってシンプル。|観察、研究…ただそれだけです。=Not really. My motives are quite simple. Observation and research... that's all.
 ？=...?
 ヘラヘラ。|君たちを解体したくなった♪|実験を始めましょうか？=I'd just love to dissect your bodies♪ >>Come now, why don't we get this experiment started?
 !FILE:ev0091.cnut
 合格点をあげましょう。|授業おしまいで～す♪=Congratulations, you passed♪|This concludes your lesson♪
 へっ？=Wha-?
-いやね…頼まれたんですよ。|死神様に。|君たちの課外授業をしてくれって。=You see, I was asked by Lord Death to give you guys an extra lesson♪
+いやね…頼まれたんですよ。|死神様に。|君たちの課外授業をしてくれって。=You see, I was asked by Lord Death to give you guys an Extra Lesson♪
 エェ！？=EH?!
 なんと！！=What...?!
 きゃははは♪=Kyahaha♪
@@ -390,19 +390,19 @@
 キッドも入ってきたことだし、|授業の流れについて|説明するってよ。=That includes you, Kid. Lord Death wants to explain how classes work at the academy.
 何ィ！？特別待遇か！|許せん！！=What?! That guy gets special treatment?! No fair!!
 そういえば、ちゃんとした説明|受けたことなかったかも。=Now that you mention it, we never received any explanation when we joined...
-そうだな…。=True...
-とりあえず、|みんなで行きましょうか。=Alright now everyone, come on, let's go.
+そうだな…。=You’re right...
+とりあえず、|みんなで行きましょうか。=Well, for the time being, shall we go and see what he has to say?
 うん♪=Okay♪
-はいは～い♪|集まってくれたかなァ～。=Hi hello there!♪ Thanks for coming~
-おはようございます父上！=Good morning, father!
+はいは～い♪|集まってくれたかなァ～。=Hi hello there!♪|Thanks for coming～
+おはようございます父上！=Good morning, Father!
 うっす！=Good morning!
-ちゅ～す♪='morning♪
+ちゅ～す♪='Morning♪
 おはようございます。=Good morning.
 おう～～。=Yo! 'Morning!
-…何だ？=...So, what's up?
+…何だ？=...Was all that really necessary?
 全員集まりました！=Looks like everyone's here.
-じゃあ～授業の流れについて、|ちと説明するね。=Then allow me to explain how classes work at the DWMA.
-まず、みんなに受けてもらいたい|のは、課外授業。=First, you'll want to take up some extra lessons!
+じゃあ～授業の流れについて、|ちと説明するね。=Then, allow me to explain how classes work at the DWMA.
+まず、みんなに受けてもらいたい|のは、課外授業。=First, you'll want to take up some Extra Lessons!
 死武専の「課外授業受付」に|行って課題の受付をしてね。=Now, to find those lessons, you must first visit the 'Mission Bulletin'
 各課外授業をクリアするごとに、|#COL(7)魂スタンプ#COL(1)が|一個もらえるからね♪=For each lesson you complete, you'll receive a single #COL(7)Soul Stamp#COL(1)♪
 そのスタンプを二個集めると、|それと引き換えに|特別授業が受けられるよ～。=You can then exchange two of those Stamps in order to take Special Lessons~
@@ -412,7 +412,7 @@
 余ったスタンプとシールは、|その時に一緒に回収するからね～。=When you accept a Special Assignment, >>I'll also collect any remaining Stamps and Stickers from you~
 ちょっと難しかった？|まぁ、わからなかったら～、|受付のおばちゃんに聞いてみて。=Got all that? Well, if not, you can easily visit the Mission Bulletin, >>they'll answer any questions you may have.
 それじゃ～みなさん、|ばはは～い！=That's all I have to say, farewell!~
-…お互い、がんばろうね。=...Let's do our best with this.
+…お互い、がんばろうね。=...Let's give it everything we’ve got.
 うん。=Yeah.
 よく来たね。|ここが「課外授業受付」だよ。=So you've finally arrived. This here is the 'Mission Bulletin'.
 おばちゃん！早く課外授業|受けさせてくれ！=Hey old lady, hurry and give us a lesson already!
@@ -420,13 +420,13 @@
 どこ見て決めりゃいいんだよ！？=And where are we supposed to find these lessons??
 せっかちな子達だね。|ホラ、ここ。|おばちゃん横の掲示板を見なよ。=You kids sure are impatient. Here, take a look behind me at the Bulletin Board.
 五つの紙が貼ってある。=There are five pieces of paper hung up on the board...
-今は五つの課外授業から|選べるってことだよ。|受付は一つずつでお願いね。=You can select a lesson from those five options, >>however you can only accept one at a time.
+今は五つの課外授業から|選べるってことだよ。|受付は一つずつでお願いね。=You can choose any lesson from those five options, >>but you can only accept one at a time.
 あの…受け付けた授業が|どうしてもできない場合、|他の授業に変更はできますか…？=Ummm... But what if we're unable to complete a lesson? >>Can we change to a different one...?
 何言ってんだー！！|そんなこと俺様に限って、|あるわけないだろー！！=What are you saying! There's no way someone of my caliber could ever fail!!
-う、うん…。|そうかもしれないけど。=Y-yeah, sure...
+う、うん…。|そうかもしれないけど。=Y-yeah, but just for reassurance...
 できるよ。|簡単にキャンセルできて、|再受付可能だよ。安心しな。=That's allowed, so don't worry. You can easily cancel a lesson and retry at another time.
 スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two Stamps, >>you can take a take a Special Lesson from a Professor.
-課外授業は、全部|受けられないんですか？=Are we allowed to take ALL of the Extra lessons?
+課外授業は、全部|受けられないんですか？=Are we allowed to take ALL of the Extra Lessons?
 死神様課題を受ける前なら、|掲示板にあるものは、|いくつ受けてもかまわないよ。=You're free to do as many as you want, >>as long as you do it before you accept Lord Death's task.
 わかりました。|ありがとうございます。=Alright, I understand.|Thank you.
 !FILE:ev0104.cnut
@@ -454,23 +454,23 @@
 その剣を地面から抜き…|解き放った者は勇者と称され、|永遠に讃えられる。=Whoever manages to pull the sword from the stone becomes known as a hero, >>and will be revered as such for all eternity.
 勇者！！俺にピッタリじゃん！！=A hero?! Sounds perfect for someone like me!
 さぞかし美しい|左右対称の剣なのだろう♪|スバラシイ！！=What a beautiful sword, such perfect bilateral symmetry♪ Absolutely brilliant!!
-じゃあ、この本に書いてある|「悠久の洞窟」ってのに、|行ってみるかーｅ=It's supposedly in the 'Eternal Cave' according to this book... Guess I'll go check it outｅ
+じゃあ、この本に書いてある|「悠久の洞窟」ってのに、|行ってみるかーｅ=According to this book, it's supposedly in the 'Eternal Cave'... Guess I'll go check it outｅ
 !FILE:ev0106.cnut
 ここか…。悠久の洞窟。=So this is it... The Eternal Cave...
-ひやっはぁｅ|行くぞ！キッド！=Hahaha!ｅ Let's get moving!
+ひやっはぁｅ|行くぞ！キッド！=Yahoo!ｅ Let's get moving!
 ブラックｅスター…。=BlackｅStar...
 何？=What?
 この先ドロだ…。|クツが汚れてしまう…。=This place is covered in mud, my shoes'll get dirty if we continue like this...
 おぶってくれ…。=Could you... carry me?
 …。=...
-（ぎゅっ）=(Squeeze)
+（ぎゅっ）=(Grab)
 上からの水滴は俺にまかせろ！！|この傘で防ごう！|下のドロは頼んだぞ！！=Don't worry about the water dropping from above, I've brought an umbrella to deal with that! >>I'll leave avoiding the mud to you!
-お前マジ使えねエ～…。|…ちゃんと掴まっとけよ。|落ちても知らねェぞ。=You really are useless... Hold on tight, it ain't my problem if you fall.
+お前マジ使えねエ～…。|…ちゃんと掴まっとけよ。|落ちても知らねェぞ。=You really are useless...|Hold on tight, it ain't my problem if you fall.
 あら？=Hm??
 おお！！妖精だ！！=Oh! A fairy!!
 エクスカリバーは|この先にあるのか？=Is Excalibur beyond here?
 うん=Yeah.
-何だよ。感じ悪ィな。=What the- That was weird...
+何だよ。感じ悪ィな。=What the-?|That was weird...
 （ピチャ、ピチャ、ピチャ）=(Drip... drip... drip...)
 ここで行き止まりのようだ。=It appears we've reached a dead end.
 おい…あれが？=Hey... what's that over there?
@@ -485,23 +485,23 @@
 よく来たな若者たちよ！！|私がエクスカリバーである。=You've done well to come here, young ones.|My name is Excalibur.
 …。=...
 しょぼっ♪=How lame!♪
-私の伝説は|十二世紀から始まった！！|私の武勇伝が聞きたいか？=My legend begun during the 12th century! Would you like to hear the tale of my heroic saga?
+私の伝説は|十二世紀から始まった！！|私の武勇伝が聞きたいか？=My legend begins in the 12th century! Would you like to hear the tale of my heroic saga?
 （ビッ）=(Flinch)
 俺様に杖を向けるな！！=Don't go pointing your staff at me like that!
 君たち、１から１２で|好きな数字は何だね？=What is your favorite number between 1 and 12?
 もちろん１だ！=Of course it's gotta be 1!
 ８だ！！８！=It's 8! 8 is the best!!
 バカめ！！君たちに|選択する権利はない！！=Foolish! You two have no right to choose!
-私の伝説は|十二世紀から始まったのだ！！=My legend begun during the 12th century!
+私の伝説は|十二世紀から始まったのだ！！=My legend begins in the 12th century!
 好きなもの選べって|言ったじゃねェかよ！！=You just asked us what our favorite number was, didn't you?!
 ぷいっ。=Hmph.
-だいたい何が伝説の聖剣だよ！|誰が書いたんだ。=Just what about this guy makes him a Holy Sword?! Who on earth wrote such a tale?!
+だいたい何が伝説の聖剣だよ！|誰が書いたんだ。=How on earth is this guy a 'legendary' sword?! Who wrote that nonsense?!
 …著者エクスカリバー…。|…。=...The author is recorded as... Excalibur, himself...
 お前か！！！=You wrote it yourself!?!
 サインはやらんぞ。=I don't do autographs.
 私の職人になるにあたり…|守ってもらいたい|千の項目がある！=If you want to be my Meister, I have 1,000 clauses you must abide by.
 このレポート用紙に|まとめておいた。|しっかり目を通しておくように。=I've prepared and put together this report, please read over it carefully.
-四百五十二番目の私の|五時間におよぶ朗読会には|ぜひ参加願いたい。=I ask that you participate together with me in clause number 452, >>which involves a 5 hour recitation party.
+四百五十二番目の私の|五時間におよぶ朗読会には|ぜひ参加願いたい。=I would greatly like you to participate with me in clause number 452, >>which involves a five hour recitation party.
 君たちは選ばれたのだ。|さぁ、ゆこう！！ともに！！=You have been chosen!|Come, let us work together!!
 バーカ！！誰がお前なんかを！！=Are you stupid?!|Who'd ever want to work with you!?
 虫酸が走るわ！！=You disgust me!
@@ -517,7 +517,7 @@
 わぉ～♪=Wowwie!♪
 左右対称！！|左右対称こそ俺の美学！！=This is pure perfection! This beautiful bilateral symmetry!!
 お！キッド！|そんなとこで何してんだ？=Hey, Kid! What are you doing here?
-！！！|お前こそ|そこで何をしている！？=...?!? I should ask you the same thing!
+！！！|お前こそ|そこで何をしている！？=...?!? I should ask you the same thing! What are you doing up there!?
 あ？=Huh?
 今すぐ！！|そこのオブジェから降りろ！！=Get off that work of art immediately!!
 （メキッ…ボキ）=(Crack... crumble...)
@@ -533,22 +533,22 @@
 （ＫＩＬＬコーン♪|カーンコーン♪）=(Ding dong ding DEATH♪)
 あれ、担任の先生は？=Oh, where's our homeroom teacher...?
 そういやぁ～|まだ決まってないのか？=Maybe they haven't decided on one yet?
-しまった！！遅刻して|目立つつもりだったのに！！=I can't believe it! I was really planning to stand out today, too!
-ダメよ…そんなコト。=You can't go doing that, anyway...
+しまった！！遅刻して|目立つつもりだったのに！！=I can't believe it! I was planning to come in late and get all the attention!
+ダメよ…そんなコト。=You shouldn't aim to be late...
 またお前の親父だったりして。=It'll probably be your father again, Maka.
 それはかんべん！！=Give me a break!
 （ガラガラ…）=(Rustle rattle...)
 はい♪ちょっと遅れましたが～|授業始めま～す。=Hello there♪ Sorry for being late, let's begin the lesson~
 ウソだろ…。=N-no way...
 早速今日は、|カエルの解剖しますね～♪=Alright now, today we're going to be dissecting frogs♪~
-私初めてかも…|「パパに会いたい」って|思ったの…。=For the first time in my life, I find myself thinking "I'd rather see my father"...
+私初めてかも…|「パパに会いたい」って|思ったの…。=For the first time in my life, I find myself thinking "I miss my father"...
 !FILE:ev0109.cnut
 なぁ、お前らに|俺様の華麗なる暗殺道の|心得を特別に教えてやろうか？=Shall I teach you my incredible assassination techniques?
 別に聞きたくねぇよ。=I don't particularly care.
-次の授業に遅れてしまう。|ここで油を売ってる暇はない。=We're gonna be late, this isn't the time to  be dawdling around.
+次の授業に遅れてしまう。|ここで油を売ってる暇はない。=We're going to be late for class. This isn't the time to be dawdling around.
 そうかそうか！！|やっぱり聞きたいよな！！|うん！うん！=Of course you wanna know! I knew it, it's obvious! Yup!
 …聞いてねぇし。=...I really don't.
-…俺は先に行くぞ。=...I'm going to class.
+…俺は先に行くぞ。=...I'm going on ahead.
 待てよ！|俺一人にする気かよ。=Hey wait, you can't just leave me here!
 暗殺道其の一！！|闇にまぎれ…息を殺し…|目標のスキをうかがうべし！=Rule one of assassination! Sink into darkness... suppress your breathing... >>And don't forget to find the target's weak point!
 ブラックｅスター。|こんなところで何をしているの？=What are you doing here, BlackｅStar?
@@ -558,20 +558,20 @@
 あ…。=Oh no...
 ん？どうした二人とも。=Hm? What's wrong with you two?
 ブラックｅスター！|シャワールームに何の用？=BlackｅStar! What are you all doing here in the shower room!?
-お前がこんなとこで紛らわしい|こと言うから、ＣＯＯＬな俺が|誤解されちまったじゃねぇか！！=This is all a misunderstanding! Someone of my coolness level would never..!
+お前がこんなとこで紛らわしい|こと言うから、ＣＯＯＬな俺が|誤解されちまったじゃねぇか！！=This is all a misunderstanding! Someone of my coolness level would never...!
 …。=...
-キッド！お前、何足早に|この場を去ろうとしてんだよ！=Hey Kid! Where are you sneaking off to?! W-Wait for me!!
+キッド！お前、何足早に|この場を去ろうとしてんだよ！=Hey Kid! Where are you sneaking off to?! W-wait for me!!
 オイ！！ソウルもキッドも|どこ行くんだよ！=H-hey, where'd Soul and Kid go...?
 ったく！まだ途中だったのに！|椿が邪魔するからだぞ！|男同士の会話に口挟むなよ！=I was just getting started, too! Why did you interrupt us, Tsubaki? >>We were having a very important man-to-man conversation!!
 （あれ…？なんで私が|怒られてるのかしら…？）=(What...? Shouldn't I be the angry one, here...?)
 !FILE:ev0110.cnut
 ソウルー。|夕ゴハンなにがいい？=Hey Soul, what should we have for dinner?
 なんでもいい。=Anything's fine.
-なにがいい！？=Any ideas??
-なんでもいいって。=It doesn't matter.
-…なんで男ってこう|優柔不断なの！！=Argh, men! Why are you all so indecisive!!
+なにがいい！？=Anything??
+なんでもいいって。=That’s what I said.
+…なんで男ってこう|優柔不断なの！！=Argh, men! Why are you all so indecisive?!
 なんだよ。=What's up with you?
-もういい！|ソウルは今日ゴハンなしね。=That's it! You're not getting dinner tonight, Soul!
+もういい！|ソウルは今日ゴハンなしね。=That's it! You're not getting anything for dinner tonight, Soul!
 はあ！？=What?!
 なに怒ってんだよ。=What are you so mad about?
 ふんっ。=Hmph.
@@ -589,15 +589,15 @@
 俺、今でも時々思い出すんですよ|先輩の寝顔♪=Even now, I still remember your sleeping face oh so clearly♪
 【デスサイズ】|お前のそばで寝るわけ|ないだろ！！=[Death Scythe]|No way I'd sleep anywhere near you!!
 【デスサイズ】|お前と組んでた地獄の日々、|俺の寝てる間に人体実験…=[Death Scythe]|The days I spent as your partner were pure hell...>>[Death Scythe]|Day after day, as I slept, you constantly experimented on me...
-【デスサイズ】|俺は忘れないからなァアア！！=[Death Scythe]|I can never forget such days!!
+【デスサイズ】|俺は忘れないからなァアア！！=[Death Scythe]|I could never forget the trauma!!
 （ガラガラ…ガシャン）=(Clatter... Crash!)
 ヘラヘラ…残念♪=Awww, that's too bad...♪
 !FILE:ev0112.cnut
 俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
 おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「４０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat an enemy with a 40 combo!'
+今回の特別授業は…|「４０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 40 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -607,7 +607,7 @@
 特別授業を受けにきたのか？=Did you come to do some Special Training?
 そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
 今回の特別授業は…|「シド先生を探せ！」だ。|=Today's Special Lesson will be... 'Find Professor Sid!'
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
 そうか。|まぁ、早く来いよ。=I see, come back some other time.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -629,7 +629,7 @@
 死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
 りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
 さて、今回の課題は…|「シュタイン博士とシド先生|を探せ！」だよ。=Now then, your Assignment will be... 'Search for Dr. Stein and Professor Sid!'
-ほんじゃ、ガンバっちに～♪=Now then, off you go! Good luck!♪
+ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0116.cnut
 ミフネー！！|今日はわるいやつこない？=Mifune!!|No bad guys showed up today, right?
 そうだな。=Yeah.
@@ -643,19 +643,19 @@ _CHRPOS_OFF)【ミフネ】|（ここにするか…。）=_CHRPOS_OFF)[Mifune]|
 じゅう！！|…。ミフネどこ～？|アンはここだよ～。=Ten!! Where are you, Mifune~? I'm coming for you~
 _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(...My back hurts...)
 あっ！ミフネみっけ～♪|ミフネ、ダンゴムシみたい！|あははは！=Ah! I found you, Mifune!♪|Hahaha, you look like a rolled up bug!
-（よかった…。）|見つかってしまったな。=(Lucky she found me so quickly...) Oh no, you found me.
+（よかった…。）|見つかってしまったな。=(Lucky she found me so quickly...) Oh nooo, you found me.
 わーい♪アンの勝ち。|じゃあ～、もう１回ね。=Hahaha I win!♪ Let's go again!!
 もう１回やるのか！？|…いや、わかった。=Again?! A-alright...
 にひっ♪=Hehehe♪
 !FILE:ev0117.cnut
-がっはっは！むっあっはっは♪|ブレアちゃん、おかわり～！！=Gyahaha!! Ehehehe♪ I've returned, Blair!!~
-パパさんペース早いなぁ♪|パパさん、|今日はマカとうまくやれた？=You're so hasty, sir♪ So how was Maka, today?
+がっはっは！むっあっはっは♪|ブレアちゃん、おかわり～！！=Gyahaha!! Ehehehe♪|I'm back, Blair!!~
+パパさんペース早いなぁ♪|パパさん、|今日はマカとうまくやれた？=You're so hasty, sir♪|So how was Maka today?
 …。|うるうる。=... *Sob sob*
 にゃ？=Meow?
 無視された…。|あの子パパが何をやっても|プンスカ怒るんだ。=She ignored me... No matter what I do, she just gets angry at me.
 クス♪マカったらかっわいっｄ|あ♪でもでもォ、先月に離婚も|正式に決まったコトだし、=Ah, Maka's so adorableｄ But your divorce will be finalized next month, right?
 気持ちを切り替えて、|新しい奥さん見つけちゃおう！！=Cheer up! Let's turn that frown upside down and find a new wife!!
-…そんな…|再婚なんて全然考えられないよ。|ぐすっ。=No way... I haven't even begun to consider remarrying... *Sob*
+…そんな…|再婚なんて全然考えられないよ。|ぐすっ。=No way... I couldn’t even think of remarrying... *Sob*
 にゃはは♪ヘコませちゃった。=Myahaha♪|Oopsie, did I make things worse?
 !FILE:ev0118.cnut
 この教会…|何かヤナ感じがする。=This church... It gives me a bad feeling.
@@ -811,9 +811,9 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0158.cnut
 俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
 おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「７０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat an enemy with a 70 combo!'
+今回の特別授業は…|「７０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 70 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -823,7 +823,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 特別授業を受けにきたのか？=Did you come to do some Special Training?
 そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
 今回の特別授業は…|「シド先生と腕試し！」だ。|=Today's Special Lesson will be... 'A workout with Professor Sid!'
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
 そうか。|まぁ、早く来いよ。=I see, come back some other time.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -845,7 +845,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
 りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
 さて、今回の課題は…|「デス・シティーパトロール！」だよ。=Now then, your Assignment will be... 'Death City Patrol Duty!'
-ほんじゃ、ガンバっちに～♪=Now then, off you go! Good luck!♪
+ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0162.cnut
 どう？調子は？=How are you feeling?
 別に何ともないッス…。|でも、何だか最近変な夢を|よく見るようになった。=Not bad, but... I've been seeing these weird dreams lately...
@@ -1135,9 +1135,9 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0209.cnut
 俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
 おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「９９コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat an enemy with a 99 combo!'
+今回の特別授業は…|「９９コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 99 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -1147,7 +1147,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 特別授業を受けにきたのか？=Did you come to do some Special Training?
 そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
 今回の特別授業は…|「シド先生を探して腕試し！」だ。|=Today's Special Lesson will be... 'A test to find Professor Sid!'.
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
 そうか。|まぁ、早く来いよ。=Is that so? Come back some other time, then.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
@@ -1158,7 +1158,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
 今回の特別授業は…|「非常に危険なトレーニング！？」|です。=Today's Special Lesson will be... |'Extremely dangerous training?!'.
 頑張ってくださいね。=Good luck.
-おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=Oh? Looks like you haven't finished two Extra Lessons, yet?
+おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=Oh? Looks like you haven't finished two Extra Lessons yet?
 スタンプ二個ないと、|特別授業は受けられません。=Without two Stamps, you can't take my Special Lesson.
 そう。|まぁ、早く来なさいね。=Is that so? Come back some other time, then.
 どうかしました？|（キャンセルですか？）=What's wrong? |(Will you quit?)
@@ -1169,7 +1169,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
 りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
 さて、今回の課題は…|「魔女ミズネを倒せ！」だよ。=Now then, your Assignment will be... 'Defeat the Witch Mizune!!'
-ほんじゃ、ガンバっちに～♪=Now then, off you go! Good luck!♪
+ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0213.cnut
 早くしないと始まっちゃうよ。=It's going to start without us if we don't hurry!
 お前の仕度が遅いの。=You're the one who took forever to get ready.
@@ -1427,10 +1427,10 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 見つけた=Found you!
 いくぜ=Let's go.
 !FILE:ev0506.cnut
-こっちじゃないみたい¥¥¥=This can't be the right way.¥¥¥
+こっちじゃないみたい¥¥¥=This can't be the right way. 
 他に行くぞ=Let's try somewhere else.
 !FILE:ev0507.cnut
-先生見つけた！=We found the professor!
+先生見つけた！=We found him!
 楽勝だな=That was too easy.
 !FILE:ev0508.cnut
 ソウル。|今回のターゲットはこいつね！=Soul, that's our target!
@@ -1529,7 +1529,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ？=Huh?
 ノーマルカード１８|「マカ＝アルバーン」|ＧＥＴ！=Normal Card 18 'Maka Albarn' obtained!
 …何コレ！？=W-what's this?!
-何って、マカのヘンな顔だろ？=What's wrong? Its just your weird face.
+何って、マカのヘンな顔だろ？=What's wrong? It's just your weird face.
 何でこんなの持ってんのよ！=Why do you have something like this!?
 ブラックｅスター、やばい。|逃げるぞ！=Uh oh! We should get outta here, BlackｅStar!
 おう！=A-alright!
@@ -1668,7 +1668,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(4)遠くの敵をタッチ#COL(1)すれば、|#COL(7)ダッシュ攻撃#COL(1)もできるぜ！=If you #COL(4)touch a distant enemy#COL(1), you'll perform a #COL(7)dash attack#COL(1)!
 !FILE:ev3006.cnut
 #COL(7)～打ち返し～|#COL(4)敵の打ち返し可能な技に|左か右にスライド（←か→）=#COL(7)-Deflect-|#COL(4)Slide the stylus across the screen to deflect attacks
-#COL(1)あの敵の遠距離攻撃は、|タイミングをよく見れば、#COL(4)左か右|のスライド#COL(1)で#COL(7)打ち返せる#COL(1)ぞ！=Watch the enemy’s long distance attack, and slide the stylus to deflect it!
+#COL(1)あの敵の遠距離攻撃は、|タイミングをよく見れば、#COL(4)左か右|のスライド#COL(1)で#COL(7)打ち返せる#COL(1)ぞ！=Watch the enemy's long distance attack, and slide the stylus to deflect it!
 !FILE:ev3007.cnut
 ナイスバッティング|ってやつだな。=Felt like we were playing baseball, just then.
 炎も消えたし、|次のブロックに行くぞ！=The flames have been extinguished, let's keep moving forward!
@@ -1736,8 +1736,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ん？|これ中に何か入ってるっぽいぞ！|クソ～！でも壊せねェ！！=Hm? It looks like there's something inside!|But damn it, I can't open it!～
 #COL(7)マカ#COL(1)ちゃんなら、|#COL(4)この箱を壊して#COL(1)|中身を取ることができるわ。=If #COL(7)Maka#COL(1) were here, she'd be able to #COL(4)break it open#COL(1) and retrieve the contents.
 !FILE:ev3029.cnut
-#COL(7)～手裏剣投げ～|#COL(4)敵の上に十字の軌跡=#COL(7)-Shuriken Throw-|#COL(4)Draw a X above the enemy
-#COL(1)離れたところに敵がいるわ！|#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)手裏剣#COL(1)が投げられるわよ！=#COL(1)There are enemies in the distance! If you #COL(4)draw an X above them#COL(1), >>you can throw your #COL(7)Shuriken#COL(1) at them!
+#COL(7)～手裏剣投げ～|#COL(4)敵の上に十字の軌跡=#COL(7)-Shuriken Throw-|#COL(4)Draw a 十 above the enemy
+#COL(1)離れたところに敵がいるわ！|#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)手裏剣#COL(1)が投げられるわよ！=#COL(1)There are enemies in the distance! If you #COL(4)draw a cross above them#COL(1), >>you can throw your #COL(7)Shuriken#COL(1) at them!
 !FILE:ev3030.cnut
 上手いわ、その調子よ！=You're doing great, keep it up!
 遠くの敵は手裏剣で攻撃できるわ！|覚えておいてね。=Don't forget, you can attack distant enemies with your Shuriken!
@@ -1776,8 +1776,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ロックオンした状態なら|確実に攻撃を当てられるんだ。=When you're locked on, your attacks will always hit their mark.
 でも、ＷＰゲージを消費するから|使いすぎにはご注意～。|だねっ。=However, once your WP gauge has run out, >>You wont be able to use Lock-on, so be careful, alright?~
 !FILE:ev3043.cnut
-#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4)Draw an X above the enemy
-#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw an X above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
+#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4)Draw a 十 above the enemy
+#COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw a cross above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
 !FILE:ev3044.cnut
 #COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=#COL(7)-Flurry Shot-|#COL(4)Slide the stylus from left to right to left
 #COL(4)左右スライド#COL(1)で#COL(7)ばらまき射撃#COL(1)も|できるよ～！=#COL(4)Slide the stylus from left to right to left#COL(1) to send a #COL(7)flurry of bullets#COL(1) at the enemy!~
@@ -1890,7 +1890,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するぞ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defense#COL(1) are increased!
 !FILE:ev4015.cnut
 #COL(7)～デス・キャノン～|#COL(4)画面タッチで方向転換=#COL(7)-Death Cannon-|#COL(4)Touch the screen to change trajectory
-#COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=#COL(1)Once activated, #COL(4)touch the screen#COL(1) to #COL(4)change the cannon’s trajectory#COL(1)!
+#COL(1)発射後は、#COL(4)画面をタッチ#COL(1)して|#COL(4)方向転換#COL(1)できるぞ！=#COL(1)Once activated, #COL(4)touch the screen#COL(1) to #COL(4)change the cannon's trajectory#COL(1)!
 !FILE:ev6000.cnut
 レアカード07G|「ソウル＆ブラックｅスター」|ＧＥＴ！=Rare Card 07G 'Soul & BlackｅStar' obtained!
 !FILE:ev6001.cnut
