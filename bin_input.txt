@@ -97,7 +97,7 @@
 特別指導室=Tutoring Room
 シドを倒す=Defeat Sid
 敵を50体倒す=Defeat 50 enemies
-シンデル魔城=Sindel Castle
+シンデル魔城=Cinder Castle
 フリーを倒す=Defeat Free
 クロナを倒す=Defeat Crona
 ミフネを倒す=Defeat Mifune
@@ -119,7 +119,7 @@
 10分以内にネズミを30体倒す=Defeat 30 Mice in 10<0A>minutes
 コンボを99Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 99 hit combo
 コンボを40Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 40 hit combo
-シドとシュタインを見つける=Find Professor Sid and Dr.<0A>Stein
+シドとシュタインを見つける=Find Dr. Stein and Professor<0A>Sid
 10分以内にきのこを30体倒す=Defeat 30 Mushrooms in 10 minutes
 コンボを70Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 70 hit combo
 60層<20>にいるシュタインを倒す=Defeat Dr. Stein at floor 60
