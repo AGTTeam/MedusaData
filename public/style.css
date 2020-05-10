@@ -1,0 +1,272 @@
+p {
+  color: #000;
+  display: block;
+  line-height: 1.2;
+  margin-bottom: 8pt;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0
+}
+
+.block_3 {
+  color: #44546a;
+  display: block;
+  font-size: .75em;
+  margin-bottom: 10pt;
+  text-align: center
+}
+
+.block_6 {
+  color: #000;
+  display: block;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 8pt;
+  text-align: center
+}
+
+.calibre {
+  color: #2f5496;
+  display: block;
+  font-family: Calibri, sans-serif;
+  font-size: 1em;
+  margin-bottom: 0;
+  margin-left: 5pt;
+  margin-right: 5pt;
+  margin-top: 0;
+  padding-left: 0;
+  padding-right: 0
+}
+
+.calibre1 {
+  display: block;
+  height: 257pt;
+  line-height: 1.2;
+  margin-left: auto;
+  margin-right: auto;
+  width: 155pt
+}
+
+.calibre2 {
+  display: block;
+  height: 257pt;
+  line-height: 1.2;
+  width: 155pt
+}
+
+.calibre3 {
+  display: block;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  page-break-after: always
+}
+
+.calibre4 {
+  display: table-row-group;
+  vertical-align: middle
+}
+
+.calibre5 {
+  line-height: 1.2;
+  text-decoration: none
+}
+
+.calibre6 {
+  height: 90pt;
+  line-height: 1.2;
+  width: 120pt
+}
+
+.calibre7 {
+  display: block;
+  float: left;
+  height: 158pt;
+  line-height: 1.2;
+  width: 158pt
+}
+
+.calibre8 {
+  line-height: 1.2;
+  white-space: pre-wrap
+}
+
+.calibre9 {
+  display: block;
+  float: left;
+  height: 144pt;
+  line-height: 1.2;
+  width: 163pt
+}
+
+.calibre10 {
+  display: block;
+  float: left;
+  height: 275pt;
+  line-height: 1.2;
+  width: 202pt
+}
+
+.calibre11 {
+  display: block;
+  float: left;
+  height: 239pt;
+  line-height: 1.2;
+  width: 202pt
+}
+
+.calibre12 {
+  display: block;
+  float: left;
+  height: 158pt;
+  line-height: 1.2;
+  width: 165pt
+}
+
+.calibre13 {
+  display: block;
+  float: left;
+  height: 233pt;
+  line-height: 1.2;
+  width: 158pt
+}
+
+.calibre14 {
+  display: block;
+  float: left;
+  height: 195pt;
+  line-height: 1.2;
+  width: 105pt
+}
+
+.calibre15 {
+  height: 88.8pt;
+  line-height: 1.2;
+  width: 120pt
+}
+
+.calibre16 {
+  display: block;
+  float: left;
+  height: 233pt;
+  line-height: 1.2;
+  width: 233pt
+}
+
+.calibre17 {
+  display: block;
+  line-height: 1.2
+}
+
+.calibre18 {
+  font-style: italic;
+  line-height: 1.2
+}
+
+.calibre19 {
+  height: 88.8pt;
+  line-height: 1.2;
+  width: 118pt
+}
+
+.calibre20 {
+  height: 88.8pt;
+  line-height: 1.2;
+  width: 119pt
+}
+
+.table_ {
+  background-color: #fff;
+  border-collapse: separate;
+  border-spacing: .75pt;
+  display: table;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  text-indent: 0;
+  width: 370pt
+}
+
+.table_1 {
+  background-color: #fff;
+  border-collapse: separate;
+  border-spacing: .75pt;
+  display: table;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  text-indent: 0;
+  width: 360pt
+}
+
+.td_ {
+  background-color: #fff;
+  display: table-cell;
+  padding-bottom: .75pt;
+  padding-left: .75pt;
+  padding-right: .75pt;
+  padding-top: .75pt;
+  text-align: inherit;
+  vertical-align: middle
+}
+
+.td_1 {
+  background-color: transparent;
+  display: table-cell;
+  padding-bottom: .75pt;
+  padding-left: .75pt;
+  padding-right: .75pt;
+  padding-top: .75pt;
+  text-align: inherit;
+  vertical-align: top
+}
+
+.text_ {
+  color: #0563c1;
+  line-height: 1.2;
+  text-decoration: underline
+}
+
+.text_1 {
+  font-family: Calibri, sans-serif;
+  line-height: 1.2
+}
+
+.text_2 {
+  font-family: "Segoe UI Symbol", sans-serif;
+  line-height: 1.2
+}
+
+.text_3 {
+  color: red;
+  font-weight: 700;
+  line-height: 1.2
+}
+
+.text_4 {
+  color: #0563c1;
+  line-height: 1.2
+}
+
+.tr_ {
+  border-collapse: separate;
+  border-spacing: .75pt;
+  display: table-row;
+  vertical-align: inherit
+}
+
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt
+}
