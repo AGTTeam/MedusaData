@@ -23,9 +23,9 @@
 #SPD(4)#ARW(1)このままいくぞ！#WAI(30)#CLR()#SPD(4)#ARW(2)うん！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Keep it up!#WAI(30)#CLR()#SPD(4)#ARW(2)Yeah!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)俺様最強！#WAI(30)#CLR()#SPD(4)#ARW(1)まったくもう…#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)I'm number one!#WAI(30)#CLR()#SPD(4)#ARW(1)Jeez...#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)まだ戦える！#WAI(30)#CLR()#SPD(4)#ARW(2)行くゾ椿！！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)I can still fight!#WAI(30)#CLR()#SPD(4)#ARW(2)Let's go, Tsubaki!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
-#SPD(4)#ARW(2)ドンドン行くよ！#WAI(30)#CLR()#SPD(4)#ARW(1)任せろ！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Keep going!#WAI(30)#CLR()#SPD(4)#ARW(1)Got it!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
+#SPD(4)#ARW(2)ドンドン行くよ！#WAI(30)#CLR()#SPD(4)#ARW(1)任せろ！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Let's keep going!#WAI(30)#CLR()#SPD(4)#ARW(1)Leave it to me!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)椿！#WAI(30)#CLR()#SPD(4)#ARW(1)このくらい何ともないわ！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Tsubaki!#WAI(30)#CLR()#SPD(4)#ARW(1)I can handle it!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
-#SPD(4)#ARW(2)ひゃっはぁ～ｅ#WAI(30)#CLR()#SPD(4)#ARW(1)少し落ち着いて！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Hyaha!ｅ#WAI(30)#CLR()#SPD(4)#ARW(1)Calm down a little!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
+#SPD(4)#ARW(2)ひゃっはぁ～ｅ#WAI(30)#CLR()#SPD(4)#ARW(1)少し落ち着いて！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)Yahoo!ｅ#WAI(30)#CLR()#SPD(4)#ARW(1)Calm down a little!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)気をつけて！#WAI(30)#CLR()#SPD(4)#ARW(2)どうってことないぜ#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)Look out!#WAI(30)#CLR()#SPD(4)#ARW(2)It's no big deal.#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(2)俺は神を超越する！#WAI(30)#CLR()#SPD(4)#ARW(1)えぇ、そうね！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(2)I'll surpass God!#WAI(30)#CLR()#SPD(4)#ARW(1)I know you will!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
 #SPD(4)#ARW(1)あ～眠い#WAI(30)#CLR()#SPD(4)#ARW(2)私のハツラツわけてあげる！#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()=#SPD(4)#ARW(1)I'm sleepy~#CLR()#SPD(4)#ARW(2)I'll give you my energy!#WAI(60)#CIN(0,2)#CIN(0,1)#CLR()#ARW(0)#OUT()
@@ -120,10 +120,10 @@
 コンボを99Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 99 hit combo
 コンボを40Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 40 hit combo
 シドとシュタインを見つける=Find Dr. Stein and Professor<0A>Sid
-10分以内にきのこを30体倒す=Defeat 30 Mushrooms in 10 minutes
+10分以内にきのこを30体倒す=Defeat 30 Mushrooms in 10<0A>minutes
 コンボを70Ｈ<20>Ｉ<20>Ｔつなげる=Achieve a 70 hit combo
 60層<20>にいるシュタインを倒す=Defeat Dr. Stein at floor 60
-15分でマッドドックを15体倒す=Defeat 15 Mad Dogs in 15 minutes
+15分でマッドドックを15体倒す=Defeat 15 Mad Dogs in 15<0A>minutes
 15分でデスノワールを15体倒す=Defeat 15 Death Noir in 15<0A>minutes
 15分でバッドイーターを<0A>15体倒す=Defeat 15 Bad Eaters in 15<0A>minutes
 10層<20>にいるシュタインを<0A>見つける=Find Dr. Stein on floor 10
