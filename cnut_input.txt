@@ -1427,7 +1427,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 見つけた=Found you!
 いくぜ=Let's go.
 !FILE:ev0506.cnut
-こっちじゃないみたい¥¥¥=This can't be the right way. 
+こっちじゃないみたい¥¥¥=This can't be the right way.
 他に行くぞ=Let's try somewhere else.
 !FILE:ev0507.cnut
 先生見つけた！=We found the professor!
@@ -1696,9 +1696,9 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 マカ！|まずは#COL(7)魂の波長を合わせる#COL(1)ぞ！=Maka! First, we've gotta synchronize our Soul Wavelengths!
 戦ったり、アイテムをひろったり|すると、#COL(4)２人の魂アイコン#COL(1)が、|右下の#COL(4)ゲージ上で近付く#COL(1)ぜ！=Through things like fighting and picking up items, >>the two Soul Icons on the bottom right will get closer together!
 !FILE:ev3015.cnut
-#COL(7)～魔女狩り～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Witch-Hunt-|#COL(4)While in Soul Resonance Mode, draw a circle twice
-#COL(1)まだ終わらねぇか。|マカ！！鎌職人伝統の大技！！|#COL(7)魔女狩り#COL(1)で敵を一掃だ！！=#COL(1)They're still coming?! Looks like it's time to bust out our ultimate technique! >>Take out the enemies in a single strike with #COL(7)Witch-Hunt#COL(1)!
-#COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)魔女狩り#COL(1)発動だぜ！！=While in #COL(4)Soul Resonance Mode, draw a circle twice in a row#COL(1) to activate #COL(7)Witch-Hunt#COL(1)!
+#COL(7)～魔女狩り～|#COL(4)魂の共鳴中に|○を２周描く=#COL(7)-Witch Hunter-|#COL(4)While in Soul Resonance Mode, draw a circle twice
+#COL(1)まだ終わらねぇか。|マカ！！鎌職人伝統の大技！！|#COL(7)魔女狩り#COL(1)で敵を一掃だ！！=#COL(1)They're still coming?! Looks like it's time to bust out our ultimate technique! >>Take out the enemies in a single strike with #COL(7)Witch Hunter#COL(1)!
+#COL(4)魂の共鳴中に、○を２周描け#COL(1)ば、|#COL(7)魔女狩り#COL(1)発動だぜ！！=While in #COL(4)Soul Resonance Mode, draw a circle twice in a row#COL(1) to activate #COL(7)Witch Hunter#COL(1)!
 !FILE:ev3016.cnut
 よっしゃ！|決まったぜ！=Alright! We're done here!
 とりあえず、|敵はいなくなったみたいね=Looks like there are no more enemies around, doesn't it.
@@ -1814,7 +1814,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 全くこのボンボンは…=Enough already...
 !FILE:ev3060.cnut
 #COL(7)～キャラチェンジ～|#COL(4)キャラアイコンにタッチ=#COL(7)～Character Change～|#COL(4)Touch the Character Icons
-#COL(4)キャラアイコンにタッチ#COL(1)すると、|#COL(7)操作キャラをチェンジ#COL(1)できるぜ！|じゃあ、練習な！=When you touch the #COL(4)Character Icons#COL(1), you can #COL(7)switch control#COL(1) to another character. 
+#COL(4)キャラアイコンにタッチ#COL(1)すると、|#COL(7)操作キャラをチェンジ#COL(1)できるぜ！|じゃあ、練習な！=When you touch the #COL(4)Character Icons#COL(1), you can #COL(7)switch control#COL(1) to another character.
 マカ！ブラックｅスターと|キッド、どっちでもいいから|チェンジしてみな！=Maka, BlackｅStar, or Kid, it doesn't matter which! Just give it a try!
 !FILE:ev3061.cnut
 そうだ！|きっちりかっちり交代できたな！=Great job! Perfect technique!
