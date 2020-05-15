@@ -38,7 +38,7 @@
 クス♪|はい♪=Hehe♪ Yes, BlackｅStar♪
 ふっ。=Heh.
 !FILE:ev0013.cnut
-ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, BlackｅStar. I'm going to go take a bath, now.
+ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, BlackｅStar. Well, I'm going to go take a bath now.
 おう。=Got it.
 （パサッ…）=(Rustle...)
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
@@ -55,7 +55,7 @@
 バカ…。|はぁ…先が思いやられるわ。=You idiot...|*Sigh*... I fear for our future.
 !FILE:ev0051.cnut
 ソウル＝イーター…。|今回の犯人は複数。|人間じゃないみたい。=Soul Eater... There are a bunch of enemies this time, and they don't look human.
-ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=Yeah... I may be a scythe that takes on human form, but looks aren't the problem here...
+ああマカ…俺だって鎌だぜ。|でもふだんは人間の姿をしている。|姿・形が問題じゃねェ…。=Yeah... I may be a scythe that takes on a human form, but looks aren't the problem here...
 問題なのは"魂"さ！！=The problem is their 'souls'!!
 死神様から聞いた|「デス・シティー」の人々を襲う|犯人がこの近くにいるんだな。=Lord Death said that the enemies attacking the people of 'Death City' are nearby.
 鬼神の卵と化した魂、|いただくよ！=Let's help ourselves to these Kishin Eggs!
@@ -103,7 +103,7 @@
 ブレアは手をはなしなさい！！=Let go of him, Blair!
 や～ん。=I don't wanna～
 …。=...
-ホントに男って最低ね！！|ブレアがオフロ入ってるの|知ってて突っ込んだんでしょ？=Men really are the worst!|You charged in here knowing Blair was taking a bath didn't you?!
+ホントに男って最低ね！！|ブレアがオフロ入ってるの|知ってて突っ込んだんでしょ？=Men really are the worst! You charged in there knowing Blair was taking a bath didn't you?!
 はあ！？=What?!
 なになに～？=What's this?～
 ブレア、あんたネコでしょ！？|ネコはネコらしくいろ～！！=And Blair, you're a cat, aren't you!? You're supposed to hate baths!!～
@@ -123,7 +123,7 @@
 それが…まだ…一つも…=Well about that, we still haven't gotten... a single one yet...
 アハハ…。=Ahahaha...
 エ！？|ウソ！？|マジで！？=Eh?! You've gotta be kidding?! Really?!
-心配すんなってのダンナ！！|ちゃんと椿をダンナの武器に|してやっからさぁ～。=But don't worry, Sir! I'll make sure Tsubaki becomes a Scythe!
+心配すんなってのダンナ！！|ちゃんと椿をダンナの武器に|してやっからさぁ～。=But don't worry, Sir! I'll make sure Tsubaki becomes a Death Scythe!
 本当にすみません。|一生かけても魂を集めますんで。=I apologize. Even if it takes a lifetime, we'll gather those souls.
 じゃあ、挑戦してみる？=Then, would you like to take on a challenge?
 今、君たちのいる町の近くに、|鬼神の卵と化した魂を持った、|ギャング一味がいるんだけど。=There's a Gangster family nearby whose souls have turned into Kishin Eggs.
@@ -163,7 +163,7 @@
 ミフネはまだ魔力の弱い|アンのことを人間から|守ってくれてるの！！=Mifune is protecting me from the humans, because my magic is still weak!
 だからミフネをいじめないれ！！=So don't bully him!!
 …こいつがアンジェラ…？=You're Angela...?
-俺の魂ならくれてやる！！=If you're after souls, then take mine, instead!!
+俺の魂ならくれてやる！！=If you're after souls, then take mine instead!!
 だがアンジェラを|殺すというのなら、|刀にちかって死守するぞ！！=But if you intend to kill Angela, then I will protect her with my life!!
 どうするの？=What should we do?
 …ヘンッ！|幼稚な魔女を守る用心棒だぁ？=...Heh! A bodyguard protecting a childish little witch, eh?
@@ -649,7 +649,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 にひっ♪=Hehehe♪
 !FILE:ev0117.cnut
 がっはっは！むっあっはっは♪|ブレアちゃん、おかわり～！！=Gyahaha!! Ehehehe♪|I'm back, Blair!!~
-パパさんペース早いなぁ♪|パパさん、|今日はマカとうまくやれた？=You're so hasty, sir♪|So how was Maka today?
+パパさんペース早いなぁ♪|パパさん、|今日はマカとうまくやれた？=You're early today, sir♪|So how was Maka today?
 …。|うるうる。=... *Sob sob*
 にゃ？=Meow?
 無視された…。|あの子パパが何をやっても|プンスカ怒るんだ。=She ignored me... No matter what I do, she just gets angry at me.
@@ -1285,20 +1285,20 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 【ソウル】|マカ！？|なんでお前がここに！？=[Soul]|Maka?! What are you doing here?!
 【ソウル】|ここは俺の脳内会議|みたいなものだろ！？=[Soul]|This is like a meeting inside my mind...
 【小鬼】|今、お前たちは魂の共鳴中。|心もつながっていて当然だろ！？=[Little Demon]|Your souls are resonating, >>[Little Demon]|so it's only natural for your minds to also be connected.
-【小鬼】|まぁ…|曲でもかけてなごもうぜい=[Little Demon]|Now then, why don't we put on some nice music.
+【小鬼】|まぁ…|曲でもかけてなごもうぜい=[Little Demon]|Now then, why don't we put on some nice music...	
 【ソウル】|何でこんな所に|来たんだよ？=[Soul]|Why did you come here?
 【マカ】ねェ、こうやって|波長をあわせていたら、|私の考えてるコトわかるでしょ？=[Maka]|Say, when our wavelengths are so closely matched like this... >>[Maka]|You can tell what I'm thinking, can't you?
 【ソウル】…。お前…。|黒血を使ってクロナと同じ狂気を|持つ気か！？=[Soul]|Are you seriously thinking of using the black blood...>>[Soul]|to get the same madness Crona has?!
 【マカ】魔剣と対等の力を|手にすれば、クロナの波長を|感じ取れる。確信したの。=[Maka]|If I can gain power equal to the Demon Sword's... >>[Maka]|I might be able to sense something about Crona...>>[Maka]|and their wavelength.|I know we can do this.
 【ソウル】ふー。|わかった！いいよ。|マカの好きなようにやりな。=[Soul]|Heh, fine! Alright, do whatever you want.
 ！！=!!
-ケタケタ。|♪=Teehee♪
+ケタケタ。|♪=Heeheehee♪
 !FILE:ev0223.cnut
 【マカ】クロナと同じ狂気を|持った今なら、クロナと|魂の波長を合わせられる=[Maka]|Now that I have the same madness as Crona, >>[Maka]|I can match our soul wavelengths.
 【マカ】これがクロナの魂…。|なんだろう。すごくかわいてる。|波長を感じる…。=[Maka]|This is Crona's soul...|I'm not sure why, >>[Maka]|but I sense a very dry wavelength...
 【クロナ】どうすればいいのかな。|場所…僕のエリア。|線が引かれている…。=[Crona]|What should I do? This place is my area... The line is drawn...
 【マカ】|ガオー=[Maka]|Grrr!!
-【クロナ】ちょっと…ダメだよ…。|線の中に入らないでよ。|ココは僕の場所なんだ…。=[Crona]|Wait, you can't! Don't come inside the line, this is my place...
+【クロナ】ちょっと…ダメだよ…。|線の中に入らないでよ。|ココは僕の場所なんだ…。=[Crona]|Wait, you can't! Don't come inside the line, this is my place.
 【マカ】|え！！何？何？=[Maka]|Huh? What, now?
 【クロナ】そんな困るよ…。|なんで簡単に入れるの。|誰も入れないはずなのに…。=[Crona]|That can't be... This isn't good... >>[Crona]|How come you can come inside so easily? >>[Crona]|No one should be able to...
 【マカ】|ふ～ん。線か…。|線なんて簡単に消せるじゃん。=[Maka]|A line, huh? A line like this is easy to erase, you know?
@@ -1383,7 +1383,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 【死神様】いやぁ～。ね…。|君を袋にブチこんだ後にさァ、|職人と武器の学校を建てたんだよ。=[Lord Death]|Well you see, after I stuffed you in that bag, >>[Lord Death]|I started a school for meisters and weapons.
 【死神様】|昔の面だと子供たちに|ビビられちゃってね。=[Lord Death]|My old mask would scare the kids senseless.
 【阿修羅】|そのひょうきんな|話し方も…か…=[Asura]|I guess that also explains your funny way of talking.
-【死神様】|今じゃ、すっかり|板に付いちゃった♪=[Lord Death]|I've grown quite used to it ♪
+【死神様】|今じゃ、すっかり|板に付いちゃった♪=[Lord Death]|I've grown quite used to it♪
 【死神様】|お目覚めのトコ|申し訳ないケド|もっかい死のうよ。=[Lord Death]|I'm sorry to do this just after you've woken up and all... >>[Lord Death]|But it's time to die again.
 【阿修羅】|カァ～～カッカッカッ|カッカッカーカッカッ！！！=[Asura]|Haaah hah hah hah hah!!
 【阿修羅】全身の皮を剥がされる|痛みがどんなものかわかるか！？|死神。思い出させてみろッ！！=[Asura]|Do you know the pain of having your skin torn from your body?! >>[Asura]|Death, why don't you try and make me remember?!
@@ -1705,7 +1705,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 じゃぁアパートに帰ろうぜ=Then why don't we return to the apartment?
 うん！=Yeah!
 !FILE:ev3020.cnut
-この川、流れが速いな。|う～ん。根性で泳ぐべきか？=This river looks pretty fast, do you think we should try and cross it?
+この川、流れが速いな。|う～ん。根性で泳ぐべきか？=This river looks pretty fast. Do you think we should try and cross it?
 ダメよ。泳げないわ。|川に落ちたら急流に流されて、|間違いなく体力を削られるわよ。=No, you'll be swept away the second you enter the water, and it'll be a waste of energy.
 !FILE:ev3021.cnut
 マップの中にはこうやって|鎖鎌を引っ掛けて|移動できる場所があるの=There are places on the map where you're able to use your Chain to continue forward.
@@ -1779,8 +1779,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4)Draw a + above the enemy
 #COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw a cross above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
 !FILE:ev3044.cnut
-#COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=#COL(7)-Flurry Shot-|#COL(4)Slide the stylus from left to right to left
-#COL(4)左右スライド#COL(1)で#COL(7)ばらまき射撃#COL(1)も|できるよ～！=#COL(4)Slide the stylus from left to right to left#COL(1) to send a #COL(7)flurry of bullets#COL(1) at the enemy!~
+#COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=#COL(7)-Flurry Shot-|#COL(4)Slide the stylus forwards and backwards in a horizontal line
+#COL(4)左右スライド#COL(1)で#COL(7)ばらまき射撃#COL(1)も|できるよ～！=#COL(4)Slide the stylus from left to right and back again#COL(1) to send a #COL(7)flurry of bullets#COL(1) at the enemy!~
 !FILE:ev3045.cnut
 調子がいいみたいだな！|キッド！=You're doing well, Kid!
 ねー。|早く先に行こうよぉ。=Hey, let's hurry onwards.
