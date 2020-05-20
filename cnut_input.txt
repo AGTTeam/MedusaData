@@ -393,7 +393,7 @@
 そうだな…。=You're right...
 とりあえず、|みんなで行きましょうか。=Well, for the time being, shall we go and see what he has to say?
 うん♪=Okay♪
-はいは～い♪|集まってくれたかなァ～。=Hi hello there!♪|Thanks for coming～
+はいは～い♪|集まってくれたかなァ～。=Hi, hello there!♪|Thanks for coming～
 おはようございます父上！=Good morning, Father!
 うっす！=Good morning!
 ちゅ～す♪='Morning♪
@@ -402,14 +402,14 @@
 …何だ？=...Was all that really necessary?
 全員集まりました！=Looks like everyone's here.
 じゃあ～授業の流れについて、|ちと説明するね。=Then, allow me to explain how classes work at the DWMA.
-まず、みんなに受けてもらいたい|のは、課外授業。=First, you'll want to take up some Extra Lessons!
+まず、みんなに受けてもらいたい|のは、課外授業。=First, you'll want to take up some extra lessons!
 死武専の「課外授業受付」に|行って課題の受付をしてね。=Now, to find those lessons, you must first visit the 'Mission Bulletin'
 各課外授業をクリアするごとに、|#COL(7)魂スタンプ#COL(1)が|一個もらえるからね♪=For each lesson you complete, you'll receive a single #COL(7)Soul Stamp#COL(1)♪
-そのスタンプを二個集めると、|それと引き換えに|特別授業が受けられるよ～。=You can then exchange two of those Stamps in order to take Special Lessons~
-特別授業は、シュタイン博士、|シド先生、デスサイズ先生の|誰かから受けてね。=You are able to take Special Lessons from either Dr. Stein, >>Professor Sid, or Professor Death Scythe.
-特別授業をクリアすると、|今度は#COL(7)死神様シール#COL(1)が|一枚もらえるよ。=Once you pass a Special Lesson, you'll receive a special #COL(7)Death Sticker#COL(1).
-最後に、そのシール二枚と|引き換えに、|私からの特別課題を出すよ～♪=Finally, you can exchange two of those Stickers to receive a task from yours truly♪~
-余ったスタンプとシールは、|その時に一緒に回収するからね～。=When you accept a Special Assignment, >>I'll also collect any remaining Stamps and Stickers from you~
+そのスタンプを二個集めると、|それと引き換えに|特別授業が受けられるよ～。=You can then exchange two of those stamps in order to take special lessons~
+特別授業は、シュタイン博士、|シド先生、デスサイズ先生の|誰かから受けてね。=You are able to take special lessons from either Dr. Stein, >>Professor Sid, or Professor Death Scythe.
+特別授業をクリアすると、|今度は#COL(7)死神様シール#COL(1)が|一枚もらえるよ。=Once you pass a special lesson, you'll receive a special #COL(7)Death Sticker#COL(1).
+最後に、そのシール二枚と|引き換えに、|私からの特別課題を出すよ～♪=Finally, you can exchange two of those stickers to receive a task from yours truly♪~
+余ったスタンプとシールは、|その時に一緒に回収するからね～。=When you accept a special assignment, >>I'll also collect any remaining stamps and stickers from you~
 ちょっと難しかった？|まぁ、わからなかったら～、|受付のおばちゃんに聞いてみて。=Got all that? Well, if not, you can easily visit the Mission Bulletin, >>they'll answer any questions you may have.
 それじゃ～みなさん、|ばはは～い！=That's all I have to say, farewell!~
 …お互い、がんばろうね。=...Let's give it everything we've got.
@@ -425,8 +425,8 @@
 何言ってんだー！！|そんなこと俺様に限って、|あるわけないだろー！！=What are you saying! There's no way someone of my caliber could ever fail!!
 う、うん…。|そうかもしれないけど。=Y-yeah, but just for reassurance...
 できるよ。|簡単にキャンセルできて、|再受付可能だよ。安心しな。=That's allowed, so don't worry. You can easily cancel a lesson and retry at another time.
-スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two Stamps, >>you can take a take a Special Lesson from a Professor.
-課外授業は、全部|受けられないんですか？=Are we allowed to take ALL of the Extra Lessons?
+スタンプ二個集めたら、|各先生方のとこに行けば、|特別授業が受けられるからね。=Once you've gathered two stamps, >>you can take a take a special lesson from a Professor.
+課外授業は、全部|受けられないんですか？=Are we allowed to take ALL of the extra lessons?
 死神様課題を受ける前なら、|掲示板にあるものは、|いくつ受けてもかまわないよ。=You're free to do as many as you want, >>as long as you do it before you accept Lord Death's task.
 わかりました。|ありがとうございます。=Alright, I understand.|Thank you.
 !FILE:ev0104.cnut
@@ -436,14 +436,14 @@
 もう！なんだい！|早く決めなよ。=Come on, hurry up and choose one.
 おや？どうしたんだい？=Oh, what's the matter?
 あぁ、かまわないよ。|他に好きなの選びな。=Don't worry about it. Here, try another one.
-もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some Special Lessons, alright?
+もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some special lessons, alright?
 おばちゃんに会いにきたのかい。|うれしいねェ～。=You've come here to see little old me? How nice~
 !FILE:ev0105.cnut
 オイ、ブラックｅスター。=Hey, BlackｅStar.
 俺様に何か用か？=Did you need me for something?
 掃除だよ、掃除！|図書室の整理！！=Yes, to clean the library and organize the books!
 はぁ！？やだよ！！|めんどくせェ～。=Huh?! I don't wanna, that's so boring~
-この前、カンニングした罰だ。|後で見に来るからな、|しっかりやっとけよ！=This is punishment for cheating earlier. >>I'll return soon to check up on you, so you better get things done.
+この前、カンニングした罰だ。|後で見に来るからな、|しっかりやっとけよ！=This is punishment for cheating on your written exam earlier.>>I'll return soon to check up on you, so you better get things done.
 チッ…ど～すんだよコレ…。=Hmph... How am I supposed to do all this...
 （ガラガラ…）=(Rustle rustle...)
 キッド！？|お前、手伝いに来てくれたんか？=Kid?! Have you come to help out?!
@@ -507,7 +507,7 @@
 虫酸が走るわ！！=You disgust me!
 待て！！待ってくれ！！|よし！！わかった！！|千の項目を八百まで減らしてやる。=Wait! Please!! Ok, fine, I'll cut down the number of clauses to just 800, okay?!
 あいつと付き合える奴は|ある意味勇者だな。=Anyone who manages to partner up with that guy is a true hero... in a way.
-あら。|エクスカリバーには会えたの？=Oh ho?|Did you meet with Excalibur?
+あら。|エクスカリバーには会えたの？=Oh ho~?|Did you meet with Excalibur?
 おたがい、|いいパートナー持ったな！！=We both have great partners, don't we?
 うむ！！=Indeed!!
 …。|会えたみたいね…。=They totally met him...
@@ -563,7 +563,7 @@
 キッド！お前、何足早に|この場を去ろうとしてんだよ！=Hey Kid! Where are you sneaking off to?! W-wait for me!!
 オイ！！ソウルもキッドも|どこ行くんだよ！=H-hey, where'd Soul and Kid go...?
 ったく！まだ途中だったのに！|椿が邪魔するからだぞ！|男同士の会話に口挟むなよ！=I was just getting started, too! Why did you interrupt us, Tsubaki? >>We were having a very important man-to-man conversation!!
-（あれ…？なんで私が|怒られてるのかしら…？）=(What...? Shouldn't I be the angry one, here...?)
+（あれ…？なんで私が|怒られてるのかしら…？）=(Wait... shouldn't I be the angry one here...?)
 !FILE:ev0110.cnut
 ソウルー。|夕ゴハンなにがいい？=Hey Soul, what should we have for dinner?
 なんでもいい。=Anything's fine.
@@ -593,42 +593,42 @@
 （ガラガラ…ガシャン）=(Clatter... Crash!)
 ヘラヘラ…残念♪=Awww, that's too bad...♪
 !FILE:ev0112.cnut
-俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
-おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「４０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 40 hit combo!'
+俺の特別授業を受けにきたのか？=Did you come here to take my special training?
+おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「４０コンボ以上で敵を倒せ！」|だ。=Today's special lesson will be... 'Defeat the enemies to build a 40 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two stamps, you can't take my special lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
 なんだよ。諦め早ェ～な～。|じゃあ、課外授業からやり直しな。=What's up with you, quitting so soon? You'll have to start again from the beginning.
 特別授業が終わったら、|死神様課題受けにいけよ～。=Once you've finished your special classes, you go receive a task from Lord Death, you know?~
 !FILE:ev0113.cnut
-特別授業を受けにきたのか？=Did you come to do some Special Training?
-そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「シド先生を探せ！」だ。|=Today's Special Lesson will be... 'Find Professor Sid!'
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
+特別授業を受けにきたのか？=Did you come to do some special training?
+そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「シド先生を探せ！」だ。|=Today's special lesson will be... 'Find Professor Sid!'
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられないからな。=Without two stamps, you can't take my special lesson.
 そうか。|まぁ、早く来いよ。=I see, come back some other time.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
 まぁ、構わないが、|課外授業からやり直しだからな！=That's fine! But you'll have to start from the beginning!
 特別授業が終わったら、|死神様課題受けにいくんだぞ。=Once you've finished your special classes, you go receive a task from Lord Death.
 !FILE:ev0114.cnut
-特別授業を受けにきたんですか？=Did you come to do some Special Training?
-そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=Is that so? Good job with your Extra Lessons! I'll take two of those stamps if you don't mind.
-今回の特別授業は…|「危険なトレーニング！？」です。|=Todays Special Lesson is... 'Dangerous Training?!'.
+特別授業を受けにきたんですか？=Did you come to do some special training?
+そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=Is that so? Good job with your extra lessons! I'll take two of those stamps if you don't mind.
+今回の特別授業は…|「危険なトレーニング！？」です。|=Todays special lesson is... 'Dangerous Training?!'.
 頑張ってくださいね。=I wish you luck.
-おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=What's that? You still haven't finished two Extra Lessons yet.
-スタンプ二個ないと、|特別授業は受けられません。=Without two stamps, you can't take my Special Lesson.
+おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=What's that? You still haven't finished two extra lessons yet.
+スタンプ二個ないと、|特別授業は受けられません。=Without two stamps, you can't take my special lesson.
 そう。|まぁ、早く来なさいね。=Is that so? Come back some other time, then.
 どうかしました？|（キャンセルですか？）=What's wrong? (Would you like to quit?)
 別に構いませんが、|課外授業からやり直しですよ。=Don't worry about it, however, you'll need to restart start from the beginning.
-特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his Special assignment.
+特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his special assignment.
 !FILE:ev0115.cnut
-うっす！うい～す。|おつかれさ～ん♪=Hey hello there! Wonderful job, you guys!♪
-死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
-りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
-さて、今回の課題は…|「シュタイン博士とシド先生|を探せ！」だよ。=Now then, your Assignment will be... 'Find Dr. Stein and Professor Sid!'
+うっす！うい～す。|おつかれさ～ん♪=Hey, hello there! Wonderful job, you guys!♪
+死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our special lessons. Please give us your assignment!
+りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining stamps♪
+さて、今回の課題は…|「シュタイン博士とシド先生|を探せ！」だよ。=Now then, your assignment will be... 'Find Dr. Stein and Professor Sid!'
 ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0116.cnut
 ミフネー！！|今日はわるいやつこない？=Mifune!!|No bad guys showed up today, right?
@@ -704,7 +704,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 目を開けろ！！|俺の笑顔はハッスルの源だぜ！！=Open your eyes!! Let my beautiful smile rise you from your slumber!!
 あらあら。|ずいぶんにぎやかじゃないの♪=Oh my, it's quite lively in here today♪
 メデューサ先生こんばんは！！=Good evening, Dr. Medusa!
-それにしても|ソウル君大変だったようね。=Soul really took a beating, didn't he...
+それにしても|ソウル君大変だったようね。=Soul really took a beating, didn't he...?
 はい。すいません。|私のせいなんです…。=It was all my fault that Soul ended up like this...
 元気だして！！|マカちゃんはもっと強くなるワ！！=Cheer up!|You'll get stronger, I'm sure.
 …！！=...!!
@@ -724,7 +724,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 もう！なんだい！|早く決めなよ。=Come on, hurry up and choose one.
 おや？どうしたんだい？=Oh, what's the matter?
 あぁ、かまわないよ。|他に好きなの選びな。=Don't worry about it. Here, try another one.
-もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some Special Lessons, alright?
+もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some special lessons, alright?
 おばちゃんに会いにきたのかい。|うれしいねェ～。=You've come here to see little old me? How nice~
 !FILE:ev0153.cnut
 おお♪|ブラックｅスターに頼んだ|図書室がキレイになってる！=Would you look at that?♪ BlackｅStar really did clean up the place!
@@ -735,7 +735,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 …椿はいい子だなぁ～。=You're a good kid, Tsubaki...
 あの！これブラックｅスターから|預かったんですけど、|どこにしまえばいいでしょう？=Excuse me, but BlackｅStar asked me to return this.|Do you know where it belongs?
 “エクスカリバー”|まさか、ブラックｅスターは|これを取りに行ったのか？='Excalibur'... Could it be...|Did BlackｅStar go after the legendary sword...?
-はい。=He did.
+はい。=He did, why do you ask?
 そうか…。|考えるのはやめておこう。=I see... Well, let's not think about that.
 ？=...?
 これは俺が片付けておこう。|椿は気にしないように！！=I'll put that book back. Don't you worry about a thing!!
@@ -763,7 +763,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 私たち初めての|テストだもんね♪|ガンバろうね！=This is the first time we've taken a test♪ Let's do our best!
 テストがあるから|勉強するワケではないのだぞ。=Just because we have a test doesn't mean I'm going to study.
 何だよ！エラそうに…。=You sure are confident...
-（ママも学年トップ|だったんだもん！！|私もトップをとらなきゃ！！）=(My mom was always top of her grade, so I've gotta aim for that, too!!)
+（ママも学年トップ|だったんだもん！！|私もトップをとらなきゃ！！）=(My mom was always top of her grade, so I've gotta aim for that too!!)
 !FILE:ev0156.cnut
 ソウル～、俺思ったんだけど、=Hey Soul, I just had a thought.
 俺たちでチーム組んでも、|うまくいくと思わねえ？=If we teamed up, wouldn't we become a totally awesome combo?
@@ -802,49 +802,49 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev0157.cnut
 （マカーーーーー！！）=(Makaaa!!)
 …。|何やってんの？先輩…。|そんな変なポーズして。=Hm? What are you doing over there? What's with that weird pose?
-ああ…シュタイン…。|娘にテストがんばれの|オーラを送っている。=Oh, Stein. I'm sending positive vibes to Maka, for her test.
+ああ…シュタイン…。|娘にテストがんばれの|オーラを送っている。=Oh hey, Stein. I'm sending positive energy to Maka so she does well on the test.
 そ…そう…。=I... see...
 ？何で？=...What?
 Ｏ・Ｋ。続けて。=No, it's nothing. Please, continue.
 おう！！|三日三晩マカにオーラ送るぞ！！=You got it!! For three nights and three days I'll continue sending positive vibes!!
 （…大変だな…。）=(What a troublesome guy...)
 !FILE:ev0158.cnut
-俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
-おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「７０コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 70 hit combo!'
+俺の特別授業を受けにきたのか？=Did you come here to take my special training?
+おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「７０コンボ以上で敵を倒せ！」|だ。=Today's special lesson will be... 'Defeat the enemies to build a 70 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two stamps, you can't take my special lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
 なんだよ。諦め早ェ～な～。|じゃあ、課外授業からやり直しな。=What's up with you, quitting so soon? You'll have to start again from the beginning.
-特別授業が終わったら、|死神様課題受けにいけよ～。=My Special Classes are over, go ask Lord Death for a Special Assignment~
+特別授業が終わったら、|死神様課題受けにいけよ～。=My special classes are over, go ask Lord Death for a special assignment~
 !FILE:ev0159.cnut
-特別授業を受けにきたのか？=Did you come to do some Special Training?
-そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「シド先生と腕試し！」だ。|=Today's Special Lesson will be...|'A workout with Professor Sid!'
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
+特別授業を受けにきたのか？=Did you come to do some special training?
+そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「シド先生と腕試し！」だ。|=Today's special lesson will be...|'A workout with Professor Sid!'
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられないからな。=Without two stamps, you can't take my special lesson.
 そうか。|まぁ、早く来いよ。=I see, come back some other time.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
 まぁ、構わないが、|課外授業からやり直しだからな！=That's fine! But you'll have to start from the beginning!
-特別授業が終わったら、|死神様課題受けにいくんだぞ。=My Special Classes are over, go ask Lord Death for a Special Assignment.
+特別授業が終わったら、|死神様課題受けにいくんだぞ。=My special classes are over, go ask Lord Death for a special assignment.
 !FILE:ev0160.cnut
-特別授業を受けにきたんですか？=Did you come to do some Special Training?
-そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=Is that so? Good job with your Extra Lessons! I'll take two of those stamps if you don't mind.
-今回の特別授業は…|「とても危険なトレーニング！？」|です。|=Todays Special Lesson is... 'Extremely Dangerous Training?!'.
+特別授業を受けにきたんですか？=Did you come to do some special training?
+そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=Is that so? Good job with your extra lessons! I'll take two of those stamps if you don't mind. 
+今回の特別授業は…|「とても危険なトレーニング！？」|です。|=Todays special lesson is... 'Extremely Dangerous Training?!'.
 頑張ってくださいね。=I wish you luck.
-おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=What's that? You still haven't finished two Extra Lessons yet.
-スタンプ二個ないと、|特別授業は受けられません。=Without two stamps, you can't take my Special Lesson.
+おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=What's that? You still haven't finished two extra lessons yet.
+スタンプ二個ないと、|特別授業は受けられません。=Without two stamps, you can't take my special lesson.
 そう。|まぁ、早く来なさいね。=Is that so? Come back some other time, then.
 どうかしました？|（キャンセルですか？）=What's wrong? (Would you like to quit?)
 別に構いませんが、|課外授業からやり直しですよ。=Don't worry about it, however, you'll need to restart start from the beginning.
-特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his Special Assignment.
+特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his special assignment.
 !FILE:ev0161.cnut
-うっす！うい～す。|おつかれさ～ん♪=Hey hello there! Wonderful job, you guys!♪
-死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
-りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
-さて、今回の課題は…|「デス・シティーパトロール！」だよ。=Now then, your Assignment will be... 'Death City Patrol Duty!'
+うっす！うい～す。|おつかれさ～ん♪=Hey, hello there! Wonderful job, you guys!♪
+死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our special lessons. Please give us your assignment!
+りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining stamps♪
+さて、今回の課題は…|「デス・シティーパトロール！」だよ。=Now then, your assignment will be... 'Death City Patrol Duty!'
 ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0162.cnut
 どう？調子は？=How are you feeling?
@@ -943,7 +943,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 はい。=Of course.
 実は、魔女牢獄に収容されていた|魔眼の男が|脱獄したらしいのよ。=You see, it appears that the Man with the Magic Eye has managed to escape... >>from the witch prison that was housing him.
 その脱獄した魔眼の男は|ロンドンを逃走中みたいだから、|ちと様子見て来てもらえない？=It seems he's managed to escape to London. >>Could you go and check things out?
-まぁ、課外授業ってことでさ。=Consider it another one of my Special Lessons.
+まぁ、課外授業ってことでさ。=Consider it another one of my special lessons.
 Ｏ・Ｋ！|俺様が捕まえてやるよ！=Got it! I'll catch the guy!
 それじゃ、頼んだよ♪=Good luck out there♪
 !FILE:ev0170.cnut
@@ -994,7 +994,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 パパさんから頼まれた|マカへのプレゼントの本代で|思いっきり私物買っちゃった…。=Instead of using Death Scythe's money to buy Maka a gift... >>I ended up buying something for myself...
 ついつい誘惑に|負けちゃったよォ～。=I can't believe I gave into temptation...~
 …でも、やっぱネコババは|よくないよね。|魔法でマカ用にサイズ縮めよ！=...But stealing money is still wrong. >>...I know! I can use my magic to change this into Maka's size!
-パンパンプキンパンプキン=Pum-Pumpkin Pumpkin~
+パンパンプキンパンプキン=Pum-Pum-Pumpkin Pum-Pumpkin~
 あれ？|ブレアまだ帰ってないんだ。=Huh? Blair isn't back yet?
 そのうち帰ってくるだろ。=She's probably on her way.
 （ガチャリ）=(Click)
@@ -1029,7 +1029,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 もう！なんだい！|早く決めなよ。=Come now, hurry up and choose one.
 おや？どうしたんだい？=Oh, what's the matter?
 あぁ、かまわないよ。|他に好きなの選びな。=Don't worry about it. Here, try another one.
-もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some Special Lessons, alright?
+もうないよ～。あんたたち全部|受けちゃったでしょ。|早く特別授業受けにいきな。=There's none left, you've completed every lesson. Go take some special lessons, alright?
 おばちゃんに会いにきたのかい。|うれしいねェ～。=You've come here to see little old me? How nice~
 !FILE:ev0203.cnut
 何かおもしろい本あるかな～？|ねぇ、ソウル。|おすすめとかない？=I wonder if there are any interesting books here?~ >>Hey, Soul, got any recommendations?
@@ -1077,10 +1077,10 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 うん。=Oh?
 シュタイン博士が|担任になってから、|解剖の授業しかしてないよね…。=Ever since Dr. Stein took over as our teacher, >>it's been nothing but dissection after dissection...
 …そうね。=Now that you mention it...
-おとといはカエル、|昨日はマウス。|今日は…天然記念物…。=Before, it was a frog, yesterday was a mouse, and today...|A protected species...
+おとといはカエル、|昨日はマウス。|今日は…天然記念物…。=Before, it was a frog. Yesterday was a mouse.|And today... a protected species...
 …。=...
-絶滅寸前の貴重な鳥なのに…。=Even though it's a critically endangered and precious species of bird...
-「俺がバラす前に絶滅されたら|困るだろ！？」|とか、あの人メチャクチャだよ。=But he just exclaims "What if it goes extinct before I can dissect it?!">>He's such a difficult person.
+絶滅寸前の貴重な鳥なのに…。=Even though it's a critically endangered and precious species of bird.
+「俺がバラす前に絶滅されたら|困るだろ！？」|とか、あの人メチャクチャだよ。=...But he just exclaims, "What if it goes extinct before I can dissect it?!">>He's such a difficult person.
 …うん、そうね。=Yeah, you're right...
 …はぁ～…。=*Sigh*...
 （どうしよう…|こういう時、何て言ってフォロー|したらいいのかしら…？）=(What should I do...? What am I supposed to say...?)
@@ -1118,7 +1118,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 …！！！マカ！？=...!!! Maka?!
 やぁ、先輩。=Hey there.
 【デスサイズ】|ひえぇええ～|シュタイン！！=[Death Scythe]|EEEEK?! Stein?!
-マカちゃんは課外授業でしょ。=Maka's currently working on Extra Lessons.
+マカちゃんは課外授業でしょ。=Maka's currently working on extra lessons.
 …そ、そんなコト知ってる！！=I-I knew that!!
 ふ～ん。そう。=Really, now...?
 （知ってるもん…|ちょっと忘れただけだし！）=(I DID know, I just... forgot...)
@@ -1133,42 +1133,42 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 …！！！！！|シュタイン、テメェー！！=...!!!!!!|Stein, why you-!!!
 ヘラヘラ=Hah hah hah.
 !FILE:ev0209.cnut
-俺の特別授業を受けにきたのか？=Did you come here to take my Special Training?
-おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「９９コンボ以上で敵を倒せ！」|だ。=Today's Special Lesson will be... 'Defeat the enemies to build a 99 hit combo!'
+俺の特別授業を受けにきたのか？=Did you come here to take my special training?
+おう！|課外授業よく頑張った！|じゃあ、スタンプ二個もらうな。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「９９コンボ以上で敵を倒せ！」|だ。=Today's special lesson will be... 'Defeat the enemies to build a 99 hit combo!'
 マカ～頑張れよｄ=Good luck, Makaｄ~
-アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two Stamps, you can't take my Special Lesson.
+アレ？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられねェぜ。=Without two stamps, you can't take my special lesson.
 ん？そうなの？|早く来いよ。=Is that so? Come back some other time.
 おう。どうした？|（キャンセルか？）=What's wrong? |(Will you quit?)
 なんだよ。諦め早ェ～な～。|じゃあ、課外授業からやり直しな。=What's up with you, quitting so soon? You'll have to start again from the beginning.
-特別授業が終わったら、|死神様課題受けにいけよ～。=My Special Classes are over, go ask Lord Death for a Special Assignment~
+特別授業が終わったら、|死神様課題受けにいけよ～。=My special classes are over, go ask Lord Death for a special assignment~
 !FILE:ev0210.cnut
-特別授業を受けにきたのか？=Did you come to do some Special Training?
-そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「シド先生を探して腕試し！」だ。|=Today's Special Lesson will be... 'A test to find Professor Sid!'.
-ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられないからな。=Without two Stamps, you can't take my Special Lesson.
+特別授業を受けにきたのか？=Did you come to do some special training?
+そうか！|課外授業よく頑張ったな！|じゃあ、スタンプ二個もらうぞ。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「シド先生を探して腕試し！」だ。|=Today's special lesson will be... 'A test to find Professor Sid!'.
+ん？|まだ課外授業二つ以上クリアして|ないみたいだぞ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられないからな。=Without two stamps, you can't take my special lesson.
 そうか。|まぁ、早く来いよ。=Is that so? Come back some other time, then.
 どうかしたか？|（キャンセルか？）=What's wrong? |(Will you quit?)
 まぁ、構わないが、|課外授業からやり直しだからな！=That's fine! But you'll have to start from the beginning!
-特別授業が終わったら、|死神様課題受けにいくんだぞ。=My Special Classes are over, go ask Lord Death for a Special Assignment.
+特別授業が終わったら、|死神様課題受けにいくんだぞ。=My special classes are over, go ask Lord Death for a special assignment.
 !FILE:ev0211.cnut
-特別授業を受けにきたんですか？=Did you come to do some Special Training?
-そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=You've done some Extra Lessons? That's great! Then I'll take two Stamps from you.
-今回の特別授業は…|「非常に危険なトレーニング！？」|です。=Today's Special Lesson will be... |'Extremely dangerous training?!'.
+特別授業を受けにきたんですか？=Did you come to do some special training?
+そうですか。|課外授業よく頑張りましたね。|では、スタンプ二個もらいますよ。=You've done some extra lessons? That's great! Then I'll take two stamps from you.
+今回の特別授業は…|「非常に危険なトレーニング！？」|です。=Today's special lesson will be... |'Extremely dangerous training?!'.
 頑張ってくださいね。=Good luck.
-おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=Oh? Looks like you haven't finished two Extra Lessons yet?
-スタンプ二個ないと、|特別授業は受けられません。=Without two Stamps, you can't take my Special Lesson.
+おや？|まだ課外授業二つ以上クリアして|ないみたいですよ？=Oh? Looks like you haven't finished two extra lessons yet?
+スタンプ二個ないと、|特別授業は受けられません。=Without two stamps, you can't take my special lesson.
 そう。|まぁ、早く来なさいね。=Is that so? Come back some other time, then.
 どうかしました？|（キャンセルですか？）=What's wrong? |(Will you quit?)
 別に構いませんが、|課外授業からやり直しですよ。=Don't worry about it, however, you'll need to restart start from the beginning.
-特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his Special Assignment.
+特別授業が終わったら、|死神様課題を受けにいって|くださいね。=If you're done, go find Lord Death and take his special assignment.
 !FILE:ev0212.cnut
-うっす！うい～す。|おつかれさ～ん♪=Hey hello there! Wonderful job, you guys!♪
-死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our Special Lessons, please give us your Assignment!
-りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining Stamps♪
-さて、今回の課題は…|「魔女ミズネを倒せ！」だよ。=Now then, your Assignment will be... 'Defeat the Witch Mizune!!'
+うっす！うい～す。|おつかれさ～ん♪=Hey, hello there! Wonderful job, you guys!♪
+死神様！|特別授業が終わりました。|課題をお願いします！=Lord Death, we've finished our special lessons. Please give us your assignment!
+りょうか～い♪|じゃあ、余っているシールと|スタンプはもらっちゃうね～♪=Got it♪ Then please hand over your remaining stamps♪
+さて、今回の課題は…|「魔女ミズネを倒せ！」だよ。=Now then, your assignment will be... 'Defeat the Witch Mizune!!'
 ほんじゃ、ガンバっちに～♪=Well, off you go! Good luck!♪
 !FILE:ev0213.cnut
 早くしないと始まっちゃうよ。=It's going to start without us if we don't hurry!
@@ -1180,7 +1180,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 そんじゃこのへんで|私からの挨拶は|終わりますわぁ～♪=Okay, well, that concludes my greeting♪
 （ほんとに挨拶だけだな…。）=(It really was JUST a greeting...)
 （父上…適当すぎる。）=(Father, you're way too carefree...)
-エ～…では私からも…。=Ahem, well yes, please allow me to speak, as well...
+エ～…では私からも…。=Ahem, well yes, please allow me to speak as well...
 本日はお忙しい中、|死武専創立記念前夜祭に|ご出席していただき誠に…=Thank you for taking time out of your busy schedules to attend this party in celebration of-...
 ひゃつはぁあ！！=Yahoo!!
 俺だぁ！！俺様だ！！|俺に様をつけていいのは|様になってる俺だけだぁ！！！=It's me! It's Me!! The only one allowed to capitalize the 'm' in 'me' is Me!!
@@ -1190,7 +1190,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 何すんだ！！俺様のトークを|邪魔しくさりやがって。=What's the big idea?! How dare you interrupt my great speech!
 邪魔したのはお前だろう！！|たわけめ！！俺はきっちり|挨拶したかったのに！！=You're the one who interrupted me, you buffoon! Fool! >>I wanted my address to be precise and exact!
 クソ…ダメだ…死のう…。=Damn it... It's hopeless... I may as well go die...
-まったく…！！誰の祭だと|思ってんだよ！！=Jeez! Whose party does he think this is, anyway?!
+まったく…！！誰の祭だと|思ってんだよ！！=Jeez! Whose party does he think this is anyway?!
 少なくともお前のじゃねェーぞ…。=It's not yours, I know that much...
 ソウル♪踊るか！！？=Hey Soul♪ Wanna dance?!
 はぁ！？|やだよ、めんどくせェ～！！=Huh?! No way, it's too bothersome!
@@ -1299,7 +1299,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 【クロナ】どうすればいいのかな。|場所…僕のエリア。|線が引かれている…。=[Crona]|What should I do? This place is my area... The line is drawn...
 【マカ】|ガオー=[Maka]|Grrr!!
 【クロナ】ちょっと…ダメだよ…。|線の中に入らないでよ。|ココは僕の場所なんだ…。=[Crona]|Wait, you can't! Don't come inside the line, this is my place.
-【マカ】|え！！何？何？=[Maka]|Huh? What, now?
+【マカ】|え！！何？何？=[Maka]|Huh? What now?
 【クロナ】そんな困るよ…。|なんで簡単に入れるの。|誰も入れないはずなのに…。=[Crona]|That can't be... This isn't good... >>[Crona]|How come you can come inside so easily? >>[Crona]|No one should be able to...
 【マカ】|ふ～ん。線か…。|線なんて簡単に消せるじゃん。=[Maka]|A line, huh? A line like this is easy to erase, you know?
 【クロナ】|ダ、ダメだよ…。|僕は接し方がわからないから…。=[Crona]|S-stop! I don't know how to interact with others...
@@ -1569,7 +1569,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 はい。=Yes?
 何でしょう？シド先生。=Oh, what is it, Professor Sid?
 これ、廊下に落ちてたぞ。=This was dropped in the hallway.
-ノーマルカード２６|「中務椿」|ＧＥＴ！=Normal Card 26 'Nakatsukasa Tsubaki' obtained!
+ノーマルカード２６|「中務椿」|ＧＥＴ！=Normal Card 26 'Tsubaki Nakatsukasa' obtained!
 ！！！=!!!
 椿、どうした？=What's wrong?
 い、いえ。=N-nothing...
@@ -1904,7 +1904,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev6005.cnut
 レアカード13G|「ブラックｅスター」|ＧＥＴ！=Rare Card 13G 'BlackｅStar' obtained!
 !FILE:ev6006.cnut
-レアカード14G|「中務椿」|ＧＥＴ！=Rare Card 14G 'Nakatsukasa Tsubaki' obtained!
+レアカード14G|「中務椿」|ＧＥＴ！=Rare Card 14G 'Tsubaki Nakatsukasa' obtained!
 !FILE:ev6007.cnut
 ノーマルカード16|「マカ＝アルバーン」|ＧＥＴ！=Normal Card 16 'Maka Albarn' obtained!
 !FILE:ev6008.cnut
@@ -1918,7 +1918,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev6012.cnut
 ノーマルカード24|「ブラックｅスター」|ＧＥＴ！=Normal Card 24 'BlackｅStar' obtained!
 !FILE:ev6013.cnut
-ノーマルカード25|「中務椿」|ＧＥＴ！=Normal Card 25 'Nakatsukasa Tsubaki' obtained!
+ノーマルカード25|「中務椿」|ＧＥＴ！=Normal Card 25 'Tsubaki Nakatsukasa' obtained!
 !FILE:ev6014.cnut
 ノーマルカード28|「デス・ザ・キッド」|ＧＥＴ！=Normal Card 28 'Death The Kid' obtained!
 !FILE:ev6015.cnut
@@ -1986,7 +1986,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev6045.cnut
 レアカード13S|「ブラックｅスター」|ＧＥＴ！=Rare Card 13S 'BlackｅStar' obtained!
 !FILE:ev6046.cnut
-レアカード14S|「中務椿」|ＧＥＴ！=Rare Card 14S 'Nakatsukasa Tsubaki' obtained!
+レアカード14S|「中務椿」|ＧＥＴ！=Rare Card 14S 'Tsubaki Nakatsukasa' obtained!
 !FILE:ev6047.cnut
 レアカード15S|「ブレア」|ＧＥＴ！=Rare Card 15S 'Blair' obtained!
 !FILE:ev6048.cnut
