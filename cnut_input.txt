@@ -1320,7 +1320,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 棄てるわよ。当たり前じゃない。|でもまだよ。=Isn't it obvious? I'll abandon the child. But not just yet.
 魔剣ラグナロクがあるから♪=After all, they still have the Demon Sword Ragnarok♪
 ！！=...!!
-ネークスネークコブラコブブラ=Nake Snake Cobra Cobrabra.
+ネークスネークコブラコブブラ=Nake Snake Cobra Cobra.
 !FILE:ev0225.cnut
 やだ！！やだぁ！！やだ！！=S-stop... Stop it! STOP!!
 ！！=...!!
@@ -1356,7 +1356,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 仲間が先に向かっているの。|早く先へ行かないと|鬼神が復活しちゃうわよ♪=I've already sent my allies ahead. If you don't hurry, the Kishin will be revived♪
 くっ！！|絶対負けない！！=Grr!! We won't lose to you!
 そう。では続きを…。=Is that so? Then let's continue...
-【魔女メデューサ】|ネークスネークネークスネーク|ネークスネークコブラコブブラ…=[Medusa]|Nake Snake Nake Snake|Nake Snake Cobra Cobrabra...
+【魔女メデューサ】|ネークスネークネークスネーク|ネークスネークコブラコブブラ…=[Medusa]|Nake Snake Nake Snake|Nake Snake Cobra Cobra...
 !FILE:ev0229.cnut
 （ゴゴゴゴゴゴゴゴゴゴ）=(Rumble rumble rumble...)
 …！|この狂気の波長は…|鬼神が復活した…！？=...?! This wavelength of madness... The Kishin has been revived...?!
