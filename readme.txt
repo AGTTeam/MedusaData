@@ -1,33 +1,33 @@
 Thank you for viewing the English translation patch for the Soul Eater NDS game, created by the Anime Game Translations Team!
 
-Before you can play the translation, you’ll need to patch the game on your computer using a legal copy of the ROM.
+Before you can play the translation, you'll need to patch the game on your computer using a legal copy of the ROM.
 
 ===
 Instructions
 
--Extract files from the ‘MedusaPatch.zip’
+-Extract files from the 'MedusaPatch.zip'
 -Download xdelta UI from http://www.romhacking.net/utilities/598/
 -Extract the .rar with WinRAR or 7-Zip.
--Run ‘xdeltaUI’(not the file simply named ‘xdelta’)
--For ‘patch’, choose the ‘MedusaPatch.xdelta’ file.
--‘Source’ should be your copy of the ROM, as an ‘.nds’ filetype.
+-Run 'xdeltaUI'(not the file simply named 'xdelta')
+-For 'patch', choose the 'MedusaPatch.xdelta' file.
+-'Source' should be your copy of the ROM, as an '.nds' filetype.
 -Finally, set your output destination.
--IMPORTANT Give the output file any name you’d like, but be sure to add ‘.nds’ to the end, or it will not work e.g. ‘MedusaPatched.nds’
--Hit patch, and you’re good to go!
+-IMPORTANT Give the output file any name you'd like, but be sure to add '.nds' to the end, or it will not work e.g. 'MedusaPatched.nds'
+-Hit patch, and you're good to go!
 
 Play this file on an emulator such as DeSmuME, or use a flashcart to play it on any member of the NDS family.
 
 We hope you enjoy!
 
 ***NOTE: ROM DUMP COMPATIBILITY***
-This patch is designed to work with a 100% correctly dumped ROM.
-If your ROM is a bad dump, you can apply the "bad_to_good.xdelta" patch BEFORE applying the translation patch by following the guide above.
+This patch is designed to work with a 100% correctly dumped ROM (CRC: 151439BC).
+If your ROM is a bad dump (CRC: 632A6D55), you can apply the "bad_to_good.xdelta" patch BEFORE applying the translation patch by following the guide above.
 
 
 ===
 Extra Content
 
-To accompany the patch, we’ve made released additional resources such as translated cheats, videos and a walkthrough! Check them out on Envy’s tumblr: https://envyplays.tumblr.com/post/618720518444646400
+To accompany the patch, we've made released additional resources such as translated cheats, videos and a walkthrough! Check them out on Envy's tumblr: https://envyplays.tumblr.com/post/618720518444646400
 
 ===
 Emulation Notes
