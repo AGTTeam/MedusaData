@@ -1861,7 +1861,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 #COL(7)～ロックオン解除～|#COL(4)Ａ・Ｂ・Ｘ・Ｙボタンで移動=#COL(7)-Remove Lock-on-|#COL(4)Move using the A B X Y Buttons
 #COL(4)移動#COL(1)すると#COL(7)ロックオンは解除|#COL(1)されるからな！=When you #COL(4)move#COL(1), your #COL(7)Lock-on will cancel out#COL(1)!
 !FILE:ev4008.cnut
-#COL(4)ＷＰゲージ#COL(1)がなくなったら|おわりー。自分で降りたい時は、|#COL(4)ＬボタンかＲボタン#COL(1)で降りれるよ。=Once your #COL(4)WP Gauge#COL(1) runs out, that's it! >>When you want to get off your board, press the #COL(4)L or R button#COL(1).
+#COL(4)ＷＰゲージ#COL(1)がなくなったら|おわりー。自分で降りたい時は、|#COL(4)ＬボタンかＲボタン#COL(1)で降りれるよ。=Once your #COL(4)WP Gauge#COL(1) runs out, that's it! >>When you want to get off your board, press the #COL(4)L or R Button#COL(1).
 #COL(1)まぁ、便利だけど|#COL(4)ＷＰゲージ#COL(1)を多く消費するし、|使いどころには注意しろよ。=#COL(1)While it is useful, it uses up your #COL(4)WP Gauge#COL(1) quickly, so use it wisely.
 !FILE:ev4009.cnut
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defense Boost
@@ -1881,10 +1881,10 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 う～ん。わかんない。=Hmmm... I'm not sure.
 とりあえず、|先に進める道を探そう！=Guess we'll find out, let's keep moving!
 !FILE:ev4013.cnut
-#COL(7)～回避～|#COL(4)十字ボタンの同じ方向を|連続で２回押す=#COL(7)-Dodge-|#COL(4)Press the + button twice in the same direction
+#COL(7)～回避～|#COL(4)十字ボタンの同じ方向を|連続で２回押す=#COL(7)-Dodge-|#COL(4)Press the + Button twice in the same direction
 #COL(7)～回避～|#COL(4)Ａ・Ｂ・Ｘ・Ｙボタンを|連続で２回押す=#COL(7)-Dodge-|#COL(4)Press any of the A B X Y Buttons twice
-#COL(1)マカ！敵の攻撃は、|#COL(4)十字ボタンの同じ方向を|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press the #COL(4)+ button twice in the same direction#COL(1) to #COL(7)dodge#COL(1) an enemy!
-#COL(1)マカ！敵の攻撃は、|#COL(4)Ａ・Ｂ・Ｘ・Ｙの同じボタンを|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press any of the #COL(4)A B X Y buttons twice#COL(1) to #COL(7)dodge#COL(1) an enemy!
+#COL(1)マカ！敵の攻撃は、|#COL(4)十字ボタンの同じ方向を|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press the #COL(4)+ Button twice in the same direction#COL(1) to #COL(7)dodge#COL(1) an enemy!
+#COL(1)マカ！敵の攻撃は、|#COL(4)Ａ・Ｂ・Ｘ・Ｙの同じボタンを|連続で２回押す#COL(1)と#COL(7)回避#COL(1)だ！|=#COL(1)Maka! Press any of the #COL(4)A B X Y Buttons twice#COL(1) to #COL(7)dodge#COL(1) an enemy!
 !FILE:ev4014.cnut
 #COL(7)～魂の共鳴中～|#COL(4)攻撃力、防御力がアップ=#COL(7)-Soul Resonance Mode-|#COL(4)Attack & Defense Boost
 #COL(7)魂の共鳴中#COL(1)は、|#COL(4)攻撃力、防御力がアップ#COL(1)するぞ！=When in #COL(7)Soul Resonance Mode#COL(1), your #COL(4)attack and defense#COL(1) are increased!
