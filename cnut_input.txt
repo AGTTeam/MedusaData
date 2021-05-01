@@ -13,7 +13,7 @@
 はい！=Got it!
 !FILE:ev0011.cnut
 今日はずいぶんと…騒がしいな。=It sure has been noisy today.
-お前、誰だ？|ここにギャング一味が来ただろ。|そいつら、どうした？=Who're you? A family of Gangsters came here, didn't they?|What happened to them?
+お前、誰だ？|ここにギャング一味が来ただろ。|そいつら、どうした？=Who are you? A family of Gangsters came here, didn't they? What happened to them?
 お前らも、魔女の力を|手に入れに来たのか？=Have you also come here in search of the witch's power?
 ああ。=Yeah.
 お前…武器職人！=You're... a Weapon Meister!
@@ -38,7 +38,7 @@
 クス♪|はい♪=Hehe♪ Yes, BlackｅStar♪
 ふっ。=Heh.
 !FILE:ev0013.cnut
-ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, BlackｅStar. Well, I'm going to go take a bath now.
+ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well today, BlackｅStar. Well, I'm going to go take a bath now.
 おう。=Got it.
 （パサッ…）=(Rustle...)
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
@@ -148,7 +148,7 @@
 はい！=Yeah!
 !FILE:ev0063.cnut
 今日はずいぶんと…騒がしいな。=It sure has been noisy today.
-お前、誰だ？|ここにギャング一味が来ただろ。|そいつら、どうした？=Who're you? A family of Gangsters came here, didn't they? What happened?
+お前、誰だ？|ここにギャング一味が来ただろ。|そいつら、どうした？=Who are you? A family of Gangsters came here, didn't they? What happened?
 お前らも、魔女の力を|手に入れに来たのか？=Have you also come here in search of the witch's power?
 ああ。=Yeah.
 お前…武器職人！=You're... a Weapon Meister!
@@ -173,7 +173,7 @@
 クス♪|はい♪=Hehe♪ Yes, BlackｅStar♪
 ふっ。=Heh.
 !FILE:ev0065.cnut
-ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well, today, BlackｅStar. I'm going to go take a bath, now.
+ブラックｅスター、お疲れ様。|私オフロ入ってくるね。=You did well today, BlackｅStar. I'm going to go take a bath now.
 おう。=Got it.
 （パサッ…）=(Rustle...)
 …。椿ー。|ちっちゃいタオル落としたぞー。|…アレ、もう行ったのか？=...Tsubaki? You dropped your hand towel... Huh? She's already gone??
@@ -633,7 +633,7 @@
 !FILE:ev0116.cnut
 ミフネー！！|今日はわるいやつこない？=Mifune!!|No bad guys showed up today, right?
 そうだな。=Yeah.
-じゃあ～！|アンとい～っぱいあそべるね♪=Then you can play with me, now!♪
+じゃあ～！|アンとい～っぱいあそべるね♪=Then you can play with me now!♪
 あぁ、そうだな。=Yeah, you're right.
 なにしてあそぶ？|アンはね、|かくれんぼがいいと思う！=What should we play?|I know! Let's play hide-and-seek!
 じゃあじゃあ～、|アンがオニやるから|ミフネかくれて！今すぐ！=Okay! I'll be the seeker, so go hide, Mifune! Hurry!!
@@ -1656,8 +1656,8 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev3002.cnut
 #COL(7)～ジャンプ～|#COL(4)Ｌ・Ｒ・Ａ・Ｂ・Ｘ・Ｙボタン=#COL(7)-Jump-|#COL(4)L R A B X Y Buttons
 #COL(7)～ジャンプ～|#COL(4)Ｌ・Ｒ・十字ボタン=#COL(7)-Jump-|#COL(4)L R + Buttons
-#COL(7)ジャンプ#COL(1)は、|#COL(4)Ｌ・Ｒ・Ａ・Ｂ・Ｘ・Ｙボタン#COL(1)、|どれでもＯＫだぜ！=You can use any of the #COL(4)L R A B X Y Buttons#COL(1) to #COL(7)jump!#COL(1)
-#COL(7)ジャンプ#COL(1)は、|#COL(4)Ｌ・Ｒ・十字ボタン#COL(1)、|どれでもＯＫだぜ！=You can use any of the #COL(4)L R + Buttons#COL(1) to #COL(7)jump!#COL(1)
+#COL(7)ジャンプ#COL(1)は、|#COL(4)Ｌ・Ｒ・Ａ・Ｂ・Ｘ・Ｙボタン#COL(1)、|どれでもＯＫだぜ！=You can use any of the #COL(4)L R A B X Y Buttons#COL(1) to #COL(7)jump#COL(1)!
+#COL(7)ジャンプ#COL(1)は、|#COL(4)Ｌ・Ｒ・十字ボタン#COL(1)、|どれでもＯＫだぜ！=You can use any of the #COL(4)L R + Buttons#COL(1) to #COL(7)jump#COL(1)!
 !FILE:ev3003.cnut
 これくらいは朝メシ前だよな。|先へ進もうぜ。=At this rate, we'll be done before breakfast! Let's keep going!
 !FILE:ev3004.cnut
@@ -1713,7 +1713,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 この方法でしか通ることが|できない場所もあるから|注意してね=However, there are some locations where you cannot move forward using that method, >>So be careful.
 じゃあ次のブロックに|移動しましょう。=Now then, let's continue to the next block.
 !FILE:ev3022.cnut
-#COL(7)～鎖鎌投げ（敵）～|#COL(4)敵を○で囲む=#COL(7)-Chain Scythe Throw-|#COL(4)Draw a circle over the enemy
+#COL(7)～鎖鎌投げ（敵）～|#COL(4)敵を○で囲む=#COL(7)-Chain Scythe Toss-|#COL(4)Draw a circle over the enemy
 #COL(4)敵を○で囲め#COL(1)ば、|#COL(7)鎖鎌を引っ掛けて|引き寄せ#COL(1)たりできるわ！=If you #COL(4)draw a circle over the enemy#COL(1), you can #COL(7)hook them and drag them#COL(1) towards you!
 !FILE:ev3023.cnut
 #COL(7)～黒ｅ星ビッグウエーブ～|#COL(4)引き寄せた敵に|上スライド（↑）=#COL(7)-BlackｅStar Big Wave-|#COL(4)Drag an enemy towards you, then slide the stylus upwards
@@ -1729,7 +1729,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev3026.cnut
 ブラックｅスター。|次のブロックへ|行きましょう！=Let's continue to the next block, BlackｅStar!
 !FILE:ev3027.cnut
-#COL(7)～鎖鎌投げ（アイテム）～|#COL(4)箱を○で囲む=#COL(7)-Chain Scythe Throw (Item)-|#COL(4)Draw a circle over the box
+#COL(7)～鎖鎌投げ（アイテム）～|#COL(4)箱を○で囲む=#COL(7)-Chain Scythe Toss (Item)-|#COL(4)Draw a circle over the box
 #COL(1)ブラックｅスター、あの箱を見て。|#COL(4)箱を○で囲め#COL(1)ば、#COL(7)鎖鎌で|引き寄せる#COL(1)こともできるわ！=#COL(1)BlackｅStar, see that box?|If you #COL(4)draw a circle#COL(1) over it, >>you can #COL(7)drag it#COL(1) towards you with Chain Scythe!
 #COL(1)ブラックｅスターが|#COL(4)引き寄せ#COL(1)られるものには|#COL(4)青枠#COL(1)がついてるわ。=#COL(1)The items you're #COL(4)able to drag#COL(1) will be surrounded in a #COL(4)blue border#COL(1).
 !FILE:ev3028.cnut
@@ -1763,7 +1763,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 !FILE:ev3037.cnut
 あの衝撃波、すごい…。|でも、放った後に隙ができるわ！|かわしたらすぐ攻撃よ！=What an incredible shockwave... But the moment it releases a shot, >>that's your chance to attack!
 !FILE:ev3038.cnut
-#COL(7)～鎖鎌投げ（移動）～|#COL(4)木を○で囲む=#COL(7)-Chain Scythe Throw (Movement)-|#COL(4)Draw a circle around the tree
+#COL(7)～鎖鎌投げ（移動）～|#COL(4)木を○で囲む=#COL(7)-Chain Scythe Toss (Movement)-|#COL(4)Draw a circle around the tree
 #COL(1)ブラックｅスター！|#COL(4)あの木を○で囲め#COL(1)ば、#COL(7)鎖鎌で|移動#COL(1)できそうよ！やってみて！=#COL(1)BlackｅStar! If you #COL(4)draw a circle around that tree#COL(1), >>you can use #COL(7)Chain Scythe to move forward#COL(1)!
 #COL(1)ブラックｅスターが|#COL(4)引っ掛け#COL(1)られるものには|#COL(4)青枠#COL(1)がついてるわよ。=#COL(1)Any items you are able to #COL(4)use#COL(1) will be surrounded in a #COL(4)blue border#COL(1).
 !FILE:ev3040.cnut
@@ -1776,7 +1776,7 @@ _CHRPOS_OFF)【ミフネ】|（…背中が痛い。）=_CHRPOS_OFF)[Mifune]|(..
 ロックオンした状態なら|確実に攻撃を当てられるんだ。=When you're locked on, your attacks will always hit their mark.
 でも、ＷＰゲージを消費するから|使いすぎにはご注意～。|だねっ。=However, once your WP gauge has run out, >>You wont be able to use Lock-on, so be careful, alright?~
 !FILE:ev3043.cnut
-#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Continuous Shot-|#COL(4)Draw a + above the enemy
+#COL(7)～連続射撃～|#COL(4)敵の上に十字の軌跡=#COL(7)-Fusillade-|#COL(4)Draw a + above the enemy
 #COL(4)敵の上に十字の軌跡を描け#COL(1)ば、|#COL(7)連射#COL(1)できるからな！=#COL(4)Draw a cross above an enemy#COL(1) to send #COL(7)several bullets#COL(1) in their direction at once!
 !FILE:ev3044.cnut
 #COL(7)～ばらまき射撃～|#COL(4)左右スライド（←→）|（一筆書きの入力）=#COL(7)-Flurry Shot-|#COL(4)Slide the stylus forwards and backwards in a horizontal line
