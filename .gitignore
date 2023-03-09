@@ -6,3 +6,4 @@ out_*
 *.nds
 *.idb
 *.xdelta
+.DS_Store
